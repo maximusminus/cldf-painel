@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deputado Max Maciel — o painel (cldf)</title>
+<style>
+:root { color-scheme: light; }
+body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
+header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
+main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
+.cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
+  padding: 16px 20px; margin: 16px 0; }
+.pergunta-origem { font-style: italic; color: #555; border-left: 3px solid #c7752f;
+  padding-left: 12px; margin: 12px 0; }
+.taxa, .numero { font-size: 28px; font-weight: 700; color: #1a3a52; display: inline-block; }
+.rotulo-cabecalho { font-size: 13px; color: #666; text-transform: uppercase;
+  letter-spacing: .04em; }
+.limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
+  padding: 12px 16px; margin: 16px 0; font-size: 14px; }
+.limite b { color: #a3612f; }
+.fonte { font-size: 12px; color: #777; margin-top: 8px; }
+table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
+  padding: 4px 8px; text-align: left; }
+table.tabela-simples th { background: #efe9dc; }
+nav.indice ul { columns: 2; list-style: none; padding: 0; }
+nav.indice li { margin: 4px 0; }
+a { color: #1a3a52; }
+.rodape { font-size: 12px; color: #888; margin-top: 40px; border-top: 1px solid #ddd6c8;
+  padding-top: 12px; }
+</style>
+</head>
+<body>
+<header class="topo">
+<a href="../index.html">&larr; o painel</a>
+<h1>Deputado Max Maciel</h1>
+</header>
+<main>
+<div class="cartao"><div class="rotulo-cabecalho">deputado(a)</div><div class="taxa">Deputado Max Maciel</div></div>
+<div class="fonte">Nomes na fonte: MAX MACIEL (painel de votação), MAX MACIEL (painel de emendas)</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">sessões presentes</div>
+<span class="taxa" data-n="454" data-d="547">454 de 547 — 83,0%</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">proposições apresentadas</div>
+<span class="numero" data-n="905">905</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">aprovadas</div>
+<span class="taxa" data-n="31" data-d="905">31 de 905 — 3,4%</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">emendas de gabinete à LOA</div>
+<span class="numero" data-n="351">351</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">emendas aprovadas</div>
+<span class="taxa" data-n="182" data-d="351">182 de 351 — 51,9%</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">pareceres da CCJ sobre autoria própria</div>
+<span class="numero" data-n="23">23</span>
+</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">pareceres admissíveis</div>
+<span class="taxa" data-n="16" data-d="23">16 de 23 — 69,6%</span>
+</div>
+<div class="limite"><b>Também informa</b> — a presença é <code>frequencia-em-sessoes-ordinarias</code> re-somada, e o acervo não tem calendário de mandato: nenhum teste pode dizer se uma sessão ausente é falta ou licença (caminho de cobertura 22). Os pareceres da CCJ são contagens sobre <code>verdict_prosa</code>, e o sinal 20d recusa publicar essa razão como COLUNA — aqui ela aparece na tela, com numerador e denominador ao lado, e nunca é escrita em <code>data/derived/</code> (sinal 35c). As emendas são as do painel de emendas, cujo <code>status_execucao</code> é ATIVO ou CANCELADO, nunca acatada ou rejeitada.</div>
+<div class="fonte">Todos os números desta página vêm de uma única linha de <code>producao-por-deputado.csv</code>, identificada pelo nome do deputado. Nenhuma outra tabela é combinada aqui.</div>
+<p class="rodape">Gerado por <code>cldf.painel_estatico</code>, um construtor de página estática. Todo
+número desta página foi recalculado a partir da tabela publicada em
+<code>data/derived/</code> no momento da construção — não é uma cópia de outro texto.</p>
+</main>
+</body>
+</html>

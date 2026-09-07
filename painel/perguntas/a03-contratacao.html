@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eixo: contratação — licitações e dispensas — o painel (cldf)</title>
+<style>
+:root { color-scheme: light; }
+body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
+header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
+main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
+.cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
+  padding: 16px 20px; margin: 16px 0; }
+.pergunta-origem { font-style: italic; color: #555; border-left: 3px solid #c7752f;
+  padding-left: 12px; margin: 12px 0; }
+.taxa, .numero { font-size: 28px; font-weight: 700; color: #1a3a52; display: inline-block; }
+.rotulo-cabecalho { font-size: 13px; color: #666; text-transform: uppercase;
+  letter-spacing: .04em; }
+.limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
+  padding: 12px 16px; margin: 16px 0; font-size: 14px; }
+.limite b { color: #a3612f; }
+.fonte { font-size: 12px; color: #777; margin-top: 8px; }
+table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
+  padding: 4px 8px; text-align: left; }
+table.tabela-simples th { background: #efe9dc; }
+nav.indice ul { columns: 2; list-style: none; padding: 0; }
+nav.indice li { margin: 4px 0; }
+a { color: #1a3a52; }
+.rodape { font-size: 12px; color: #888; margin-top: 40px; border-top: 1px solid #ddd6c8;
+  padding-top: 12px; }
+</style>
+</head>
+<body>
+<header class="topo">
+<a href="../index.html">&larr; o painel</a>
+<h1>Eixo: contratação — licitações e dispensas</h1>
+</header>
+<main>
+<div class="pergunta-origem">eixo acrescentado — licitações, dispensas, valor estimado e valor adjudicado</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">número-chave</div>
+<span class="taxa" data-n="210570407.23" data-d="316720587.08">210.570.407,23 de 316.720.587,08 adjudicado sobre o estimado — 66,5%</span>
+</div>
+<div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 2648" width="640" height="2648" role="img" aria-label="Valor adjudicado, por situação" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<rect x="0" y="0" width="640" height="2648" fill="#ffffff" />
+<text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Valor adjudicado, por situação</text>
+<text x="212" y="55" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado</text>
+<rect x="220" y="43" width="350.0" height="14" fill="#2b5f8a" />
+<text x="576.0" y="55" font-size="12" fill="#1a1a1a">208.300.053,20</text>
+<text x="212" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 22/07/2026)</text>
+<rect x="220" y="65" width="0.3" height="14" fill="#2b5f8a" />
+<text x="226.3" y="77" font-size="12" fill="#1a1a1a">192.000</text>
+<text x="212" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 26/02/2026)</text>
+<rect x="220" y="87" width="0.2" height="14" fill="#2b5f8a" />
+<text x="226.2" y="99" font-size="12" fill="#1a1a1a">105.060,48</text>
+<text x="212" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/09/2025)</text>
+<rect x="220" y="109" width="0.2" height="14" fill="#2b5f8a" />
+<text x="226.2" y="121" font-size="12" fill="#1a1a1a">104.999</text>
+<text x="212" y="143" font-size="12" fill="#1a1a1a" text-anchor="end">Em andamento</text>
+<rect x="220" y="131" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="143" font-size="12" fill="#1a1a1a">78.480</text>
+<text x="212" y="165" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/06/2024)</text>
+<rect x="220" y="153" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="165" font-size="12" fill="#1a1a1a">77.999,99</text>
+<text x="212" y="187" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 26/11/2025)</text>
+<rect x="220" y="175" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="187" font-size="12" fill="#1a1a1a">61.091,32</text>
+<text x="212" y="209" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 14/03/2024)</text>
+<rect x="220" y="197" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="209" font-size="12" fill="#1a1a1a">57.000</text>
+<text x="212" y="231" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/07/2026)</text>
+<rect x="220" y="219" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="231" font-size="12" fill="#1a1a1a">55.459,94</text>
+<text x="212" y="253" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 06/12/2024)</text>
+<rect x="220" y="241" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="253" font-size="12" fill="#1a1a1a">54.420,13</text>
+<text x="212" y="275" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 30/03/2026)</text>
+<rect x="220" y="263" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="275" font-size="12" fill="#1a1a1a">49.950</text>
+<text x="212" y="297" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 12/05/2025)</text>
+<rect x="220" y="285" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="297" font-size="12" fill="#1a1a1a">49.900</text>
+<text x="212" y="319" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 14/01/2026)</text>
+<rect x="220" y="307" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="319" font-size="12" fill="#1a1a1a">44.948,83</text>
+<text x="212" y="341" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 22/07/2025)</text>
+<rect x="220" y="329" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="341" font-size="12" fill="#1a1a1a">44.267,90</text>
+<text x="212" y="363" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 12/02/2026)</text>
+<rect x="220" y="351" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="363" font-size="12" fill="#1a1a1a">43.300</text>
+<text x="212" y="385" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/12/2025)</text>
+<rect x="220" y="373" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="385" font-size="12" fill="#1a1a1a">41.800</text>
+<text x="212" y="407" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/02/2024)</text>
+<rect x="220" y="395" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="407" font-size="12" fill="#1a1a1a">39.989,68</text>
+<text x="212" y="429" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/06/2025)</text>
+<rect x="220" y="417" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="429" font-size="12" fill="#1a1a1a">38.128</text>
+<text x="212" y="451" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 15/07/2026)</text>
+<rect x="220" y="439" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="451" font-size="12" fill="#1a1a1a">37.891,32</text>
+<text x="212" y="473" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/09/2024)</text>
+<rect x="220" y="461" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="473" font-size="12" fill="#1a1a1a">35.559,97</text>
+<text x="212" y="495" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/06/2025)</text>
+<rect x="220" y="483" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="495" font-size="12" fill="#1a1a1a">34.439,45</text>
+<text x="212" y="517" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/09/2023)</text>
+<rect x="220" y="505" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="517" font-size="12" fill="#1a1a1a">32.290</text>
+<text x="212" y="539" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 21/07/2023)</text>
+<rect x="220" y="527" width="0.1" height="14" fill="#2b5f8a" />
+<text x="226.1" y="539" font-size="12" fill="#1a1a1a">31.200</text>
+<text x="212" y="561" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/12/2023)</text>
+<rect x="220" y="549" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="561" font-size="12" fill="#1a1a1a">28.000</text>
+<text x="212" y="583" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 25/09/2023)</text>
+<rect x="220" y="571" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="583" font-size="12" fill="#1a1a1a">27.282,15</text>
+<text x="212" y="605" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 07/10/2025)</text>
+<rect x="220" y="593" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="605" font-size="12" fill="#1a1a1a">26.085</text>
+<text x="212" y="627" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/04/2024)</text>
+<rect x="220" y="615" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="627" font-size="12" fill="#1a1a1a">25.861,98</text>
+<text x="212" y="649" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/08/2024)</text>
+<rect x="220" y="637" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="649" font-size="12" fill="#1a1a1a">25.800</text>
+<text x="212" y="671" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/11/2025)</text>
+<rect x="220" y="659" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="671" font-size="12" fill="#1a1a1a">24.045</text>
+<text x="212" y="693" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 18/06/2025)</text>
+<rect x="220" y="681" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="693" font-size="12" fill="#1a1a1a">22.727,25</text>
+<text x="212" y="715" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 28/04/2026)</text>
+<rect x="220" y="703" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="715" font-size="12" fill="#1a1a1a">22.050,60</text>
+<text x="212" y="737" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 03/11/2025)</text>
+<rect x="220" y="725" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="737" font-size="12" fill="#1a1a1a">22.033,50</text>
+<text x="212" y="759" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 28/08/2025)</text>
+<rect x="220" y="747" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="759" font-size="12" fill="#1a1a1a">22.000</text>
+<text x="212" y="781" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/08/2025)</text>
+<rect x="220" y="769" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="781" font-size="12" fill="#1a1a1a">21.600</text>
+<text x="212" y="803" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/08/2024)</text>
+<rect x="220" y="791" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="803" font-size="12" fill="#1a1a1a">21.117</text>
+<text x="212" y="825" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 03/07/2023)</text>
+<rect x="220" y="813" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="825" font-size="12" fill="#1a1a1a">21.000</text>
+<text x="212" y="847" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 11/09/2025)</text>
+<rect x="220" y="835" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="847" font-size="12" fill="#1a1a1a">20.999,77</text>
+<text x="212" y="869" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 10/07/2025)</text>
+<rect x="220" y="857" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="869" font-size="12" fill="#1a1a1a">20.993</text>
+<text x="212" y="891" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 17/01/2025)</text>
+<rect x="220" y="879" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="891" font-size="12" fill="#1a1a1a">20.945,29</text>
+<text x="212" y="913" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/04/2025)</text>
+<rect x="220" y="901" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="913" font-size="12" fill="#1a1a1a">20.800</text>
+<text x="212" y="935" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 11/08/2025)</text>
+<rect x="220" y="923" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="935" font-size="12" fill="#1a1a1a">20.400</text>
+<text x="212" y="957" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 06/05/2026)</text>
+<rect x="220" y="945" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="957" font-size="12" fill="#1a1a1a">20.246</text>
+<text x="212" y="979" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 29/07/2026)</text>
+<rect x="220" y="967" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="979" font-size="12" fill="#1a1a1a">20.016</text>
+<text x="212" y="1001" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 27/04/2023)</text>
+<rect x="220" y="989" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1001" font-size="12" fill="#1a1a1a">18.971,61</text>
+<text x="212" y="1023" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 13/03/2024)</text>
+<rect x="220" y="1011" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1023" font-size="12" fill="#1a1a1a">18.500</text>
+<text x="212" y="1045" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/02/2026)</text>
+<rect x="220" y="1033" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1045" font-size="12" fill="#1a1a1a">17.125,24</text>
+<text x="212" y="1067" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/12/2023)</text>
+<rect x="220" y="1055" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1067" font-size="12" fill="#1a1a1a">17.000</text>
+<text x="212" y="1089" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/04/2023)</text>
+<rect x="220" y="1077" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1089" font-size="12" fill="#1a1a1a">16.821,41</text>
+<text x="212" y="1111" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 17/02/2022)</text>
+<rect x="220" y="1099" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1111" font-size="12" fill="#1a1a1a">16.157,98</text>
+<text x="212" y="1133" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 12/05/2026)</text>
+<rect x="220" y="1121" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1133" font-size="12" fill="#1a1a1a">15.700</text>
+<text x="212" y="1155" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/11/2024)</text>
+<rect x="220" y="1143" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1155" font-size="12" fill="#1a1a1a">15.605,40</text>
+<text x="212" y="1177" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 22/10/2024)</text>
+<rect x="220" y="1165" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1177" font-size="12" fill="#1a1a1a">15.388,05</text>
+<text x="212" y="1199" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 04/12/2025)</text>
+<rect x="220" y="1187" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1199" font-size="12" fill="#1a1a1a">14.547,07</text>
+<text x="212" y="1221" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/11/2023)</text>
+<rect x="220" y="1209" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1221" font-size="12" fill="#1a1a1a">14.462</text>
+<text x="212" y="1243" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 02/09/2025)</text>
+<rect x="220" y="1231" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1243" font-size="12" fill="#1a1a1a">13.899,99</text>
+<text x="212" y="1265" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 14/11/2024)</text>
+<rect x="220" y="1253" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1265" font-size="12" fill="#1a1a1a">13.600</text>
+<text x="212" y="1287" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/02/2024)</text>
+<rect x="220" y="1275" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1287" font-size="12" fill="#1a1a1a">13.415</text>
+<text x="212" y="1309" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 28/11/2024)</text>
+<rect x="220" y="1297" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1309" font-size="12" fill="#1a1a1a">13.190,10</text>
+<text x="212" y="1331" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/12/2025)</text>
+<rect x="220" y="1319" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1331" font-size="12" fill="#1a1a1a">13.000</text>
+<text x="212" y="1353" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/10/2024)</text>
+<rect x="220" y="1341" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1353" font-size="12" fill="#1a1a1a">12.039</text>
+<text x="212" y="1375" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/08/2023)</text>
+<rect x="220" y="1363" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1375" font-size="12" fill="#1a1a1a">12.000</text>
+<text x="212" y="1397" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/03/2026)</text>
+<rect x="220" y="1385" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1397" font-size="12" fill="#1a1a1a">11.911,80</text>
+<text x="212" y="1419" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/06/2026)</text>
+<rect x="220" y="1407" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1419" font-size="12" fill="#1a1a1a">10.932,60</text>
+<text x="212" y="1441" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 25/03/2024)</text>
+<rect x="220" y="1429" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1441" font-size="12" fill="#1a1a1a">10.800</text>
+<text x="212" y="1463" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 11/09/2024)</text>
+<rect x="220" y="1451" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1463" font-size="12" fill="#1a1a1a">10.000</text>
+<text x="212" y="1485" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/05/2024)</text>
+<rect x="220" y="1473" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1485" font-size="12" fill="#1a1a1a">9.796,08</text>
+<text x="212" y="1507" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 16/02/2024)</text>
+<rect x="220" y="1495" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1507" font-size="12" fill="#1a1a1a">9.300</text>
+<text x="212" y="1529" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 04/06/2025)</text>
+<rect x="220" y="1517" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1529" font-size="12" fill="#1a1a1a">9.278,86</text>
+<text x="212" y="1551" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 22/04/2026)</text>
+<rect x="220" y="1539" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1551" font-size="12" fill="#1a1a1a">8.840,85</text>
+<text x="212" y="1573" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 07/03/2025)</text>
+<rect x="220" y="1561" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1573" font-size="12" fill="#1a1a1a">8.391,60</text>
+<text x="212" y="1595" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 13/11/2024)</text>
+<rect x="220" y="1583" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1595" font-size="12" fill="#1a1a1a">8.207,52</text>
+<text x="212" y="1617" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/05/2023)</text>
+<rect x="220" y="1605" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1617" font-size="12" fill="#1a1a1a">8.172</text>
+<text x="212" y="1639" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 21/03/2022)</text>
+<rect x="220" y="1627" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1639" font-size="12" fill="#1a1a1a">7.400</text>
+<text x="212" y="1661" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 28/03/2023)</text>
+<rect x="220" y="1649" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1661" font-size="12" fill="#1a1a1a">7.230</text>
+<text x="212" y="1683" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 16/12/2025)</text>
+<rect x="220" y="1671" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1683" font-size="12" fill="#1a1a1a">6.545,80</text>
+<text x="212" y="1705" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 08/12/2022)</text>
+<rect x="220" y="1693" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1705" font-size="12" fill="#1a1a1a">6.350</text>
+<text x="212" y="1727" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 04/09/2023)</text>
+<rect x="220" y="1715" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1727" font-size="12" fill="#1a1a1a">5.900</text>
+<text x="212" y="1749" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 16/12/2022)</text>
+<rect x="220" y="1737" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1749" font-size="12" fill="#1a1a1a">5.800</text>
+<text x="212" y="1771" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 20/06/2023)</text>
+<rect x="220" y="1759" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1771" font-size="12" fill="#1a1a1a">5.680</text>
+<text x="212" y="1793" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 27/06/2023)</text>
+<rect x="220" y="1781" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1793" font-size="12" fill="#1a1a1a">5.286,90</text>
+<text x="212" y="1815" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 24/06/2026)</text>
+<rect x="220" y="1803" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1815" font-size="12" fill="#1a1a1a">5.235</text>
+<text x="212" y="1837" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 11/04/2023)</text>
+<rect x="220" y="1825" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1837" font-size="12" fill="#1a1a1a">5.223,42</text>
+<text x="212" y="1859" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 30/06/2025)</text>
+<rect x="220" y="1847" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1859" font-size="12" fill="#1a1a1a">5.200</text>
+<text x="212" y="1881" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 31/07/2026)</text>
+<rect x="220" y="1869" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1881" font-size="12" fill="#1a1a1a">4.875,76</text>
+<text x="212" y="1903" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/05/2024)</text>
+<rect x="220" y="1891" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1903" font-size="12" fill="#1a1a1a">4.813</text>
+<text x="212" y="1925" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 03/06/2024)</text>
+<rect x="220" y="1913" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1925" font-size="12" fill="#1a1a1a">4.803,05</text>
+<text x="212" y="1947" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 11/03/2022)</text>
+<rect x="220" y="1935" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1947" font-size="12" fill="#1a1a1a">4.800</text>
+<text x="212" y="1969" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 07/07/2023)</text>
+<rect x="220" y="1957" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1969" font-size="12" fill="#1a1a1a">4.796</text>
+<text x="212" y="1991" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 10/07/2024)</text>
+<rect x="220" y="1979" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="1991" font-size="12" fill="#1a1a1a">4.636</text>
+<text x="212" y="2013" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 01/08/2023)</text>
+<rect x="220" y="2001" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2013" font-size="12" fill="#1a1a1a">4.422,61</text>
+<text x="212" y="2035" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 16/04/2024)</text>
+<rect x="220" y="2023" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2035" font-size="12" fill="#1a1a1a">3.685</text>
+<text x="212" y="2057" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 03/05/2023)</text>
+<rect x="220" y="2045" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2057" font-size="12" fill="#1a1a1a">3.575</text>
+<text x="212" y="2079" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/10/2023)</text>
+<rect x="220" y="2067" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2079" font-size="12" fill="#1a1a1a">2.400</text>
+<text x="212" y="2101" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/02/2026)</text>
+<rect x="220" y="2089" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2101" font-size="12" fill="#1a1a1a">2.349</text>
+<text x="212" y="2123" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 19/05/2022)</text>
+<rect x="220" y="2111" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2123" font-size="12" fill="#1a1a1a">2.220</text>
+<text x="212" y="2145" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/06/2023)</text>
+<rect x="220" y="2133" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2145" font-size="12" fill="#1a1a1a">2.100</text>
+<text x="212" y="2167" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 05/07/2023)</text>
+<rect x="220" y="2155" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2167" font-size="12" fill="#1a1a1a">2.000</text>
+<text x="212" y="2189" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 04/03/2024)</text>
+<rect x="220" y="2177" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2189" font-size="12" fill="#1a1a1a">1.950</text>
+<text x="212" y="2211" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 12/12/2022)</text>
+<rect x="220" y="2199" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2211" font-size="12" fill="#1a1a1a">1.453</text>
+<text x="212" y="2233" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 16/06/2026)</text>
+<rect x="220" y="2221" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2233" font-size="12" fill="#1a1a1a">1.326</text>
+<text x="212" y="2255" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/04/2024)</text>
+<rect x="220" y="2243" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2255" font-size="12" fill="#1a1a1a">1.289,84</text>
+<text x="212" y="2277" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 27/10/2025)</text>
+<rect x="220" y="2265" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2277" font-size="12" fill="#1a1a1a">1.200</text>
+<text x="212" y="2299" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 23/08/2023)</text>
+<rect x="220" y="2287" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2299" font-size="12" fill="#1a1a1a">1.111</text>
+<text x="212" y="2321" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 21/02/2022)</text>
+<rect x="220" y="2309" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2321" font-size="12" fill="#1a1a1a">701,97</text>
+<text x="212" y="2343" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 13/02/2026)</text>
+<rect x="220" y="2331" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2343" font-size="12" fill="#1a1a1a">620,97</text>
+<text x="212" y="2365" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 20/08/2025)</text>
+<rect x="220" y="2353" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2365" font-size="12" fill="#1a1a1a">600</text>
+<text x="212" y="2387" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 25/11/2024)</text>
+<rect x="220" y="2375" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2387" font-size="12" fill="#1a1a1a">508</text>
+<text x="212" y="2409" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 25/03/2025)</text>
+<rect x="220" y="2397" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2409" font-size="12" fill="#1a1a1a">417</text>
+<text x="212" y="2431" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 24/08/2023)</text>
+<rect x="220" y="2419" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2431" font-size="12" fill="#1a1a1a">360</text>
+<text x="212" y="2453" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (homologado em 09/01/2025)</text>
+<rect x="220" y="2441" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2453" font-size="12" fill="#1a1a1a">257</text>
+<text x="212" y="2475" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (Fracassado)</text>
+<rect x="220" y="2463" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2475" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2497" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (Revogado)</text>
+<rect x="220" y="2485" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2497" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2519" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (Deserto)</text>
+<rect x="220" y="2507" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2519" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2541" font-size="12" fill="#1a1a1a" text-anchor="end">Cancelada (Revogado)</text>
+<rect x="220" y="2529" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2541" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2563" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (Anulado)</text>
+<rect x="220" y="2551" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2563" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2585" font-size="12" fill="#1a1a1a" text-anchor="end">Suspenso</text>
+<rect x="220" y="2573" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2585" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2607" font-size="12" fill="#1a1a1a" text-anchor="end">Suspenso Sine Die</text>
+<rect x="220" y="2595" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2607" font-size="12" fill="#1a1a1a">0</text>
+<text x="212" y="2629" font-size="12" fill="#1a1a1a" text-anchor="end">Encerrado (Fracassado/Deserto)</text>
+<rect x="220" y="2617" width="0.0" height="14" fill="#2b5f8a" />
+<text x="226.0" y="2629" font-size="12" fill="#1a1a1a">0</text>
+</svg></div>
+<div class="limite"><b>Também informa</b> — signal 25 também informa que 70 de 357 procedimentos não adjudicaram nada, e que a economia da própria fonte diverge da calculada em 3 de 160 casos — publicadas lado a lado, nunca escolhida uma.</div>
+<div class="fonte">Tabela(s) lida(s): <code>licitacoes-e-dispensas.csv</code></div>
+<p class="rodape">Gerado por <code>cldf.painel_estatico</code>, um construtor de página estática. Todo
+número desta página foi recalculado a partir da tabela publicada em
+<code>data/derived/</code> no momento da construção — não é uma cópia de outro texto.</p>
+</main>
+</body>
+</html>

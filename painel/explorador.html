@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explorador — o painel (cldf)</title>
+<link rel="stylesheet" href="static/painel.css">
+</head>
+<body>
+<header class="topo">
+<a href="index.html">&larr; o painel</a>
+<h1>Explorador de tabelas</h1>
+</header>
+<main id="app">
+<p>Precisa ser servido por HTTP — <code>python3 -m cldf.painel_estatico serve</code> — porque busca
+o CSV escolhido sob demanda, uma tabela de cada vez. Nenhuma tabela é combinada com outra
+aqui; a única navegação entre tabelas é o link "ver perfil", que segue o nome do deputado
+até <code>deputados-chave.csv</code>.</p>
+<div id="explorador-raiz"></div>
+</main>
+<script src="static/explorador.js"></script>
+</body>
+</html>

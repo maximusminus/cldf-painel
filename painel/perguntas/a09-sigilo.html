@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eixo: sigilo — informações classificadas — o painel (cldf)</title>
+<style>
+:root { color-scheme: light; }
+body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
+header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
+main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
+.cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
+  padding: 16px 20px; margin: 16px 0; }
+.pergunta-origem { font-style: italic; color: #555; border-left: 3px solid #c7752f;
+  padding-left: 12px; margin: 12px 0; }
+.taxa, .numero { font-size: 28px; font-weight: 700; color: #1a3a52; display: inline-block; }
+.rotulo-cabecalho { font-size: 13px; color: #666; text-transform: uppercase;
+  letter-spacing: .04em; }
+.limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
+  padding: 12px 16px; margin: 16px 0; font-size: 14px; }
+.limite b { color: #a3612f; }
+.fonte { font-size: 12px; color: #777; margin-top: 8px; }
+table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
+  padding: 4px 8px; text-align: left; }
+table.tabela-simples th { background: #efe9dc; }
+nav.indice ul { columns: 2; list-style: none; padding: 0; }
+nav.indice li { margin: 4px 0; }
+a { color: #1a3a52; }
+.rodape { font-size: 12px; color: #888; margin-top: 40px; border-top: 1px solid #ddd6c8;
+  padding-top: 12px; }
+</style>
+</head>
+<body>
+<header class="topo">
+<a href="../index.html">&larr; o painel</a>
+<h1>Eixo: sigilo — informações classificadas</h1>
+</header>
+<main>
+<div class="pergunta-origem">eixo acrescentado — o rol de informações classificadas, por unidade e por ano</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">número-chave</div>
+<span class="taxa" data-n="147" data-d="175">147 de 175 classificados sem grau publicado — 84,0%</span>
+</div>
+<div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 206" width="640" height="206" role="img" aria-label="Processos, por grau declarado" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<rect x="0" y="0" width="640" height="206" fill="#ffffff" />
+<text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Processos, por grau declarado</text>
+<text x="212" y="55" font-size="12" fill="#1a1a1a" text-anchor="end">restrito</text>
+<rect x="220" y="43" width="185.7" height="14" fill="#2b5f8a" />
+<text x="411.7" y="55" font-size="12" fill="#1a1a1a">78</text>
+<text x="212" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">sigiloso</text>
+<rect x="220" y="65" width="226.2" height="14" fill="#2b5f8a" />
+<text x="452.2" y="77" font-size="12" fill="#1a1a1a">95</text>
+<text x="212" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">sem categoria</text>
+<rect x="220" y="87" width="4.8" height="14" fill="#2b5f8a" />
+<text x="230.8" y="99" font-size="12" fill="#1a1a1a">2</text>
+<text x="212" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">reservado</text>
+<rect x="220" y="109" width="42.9" height="14" fill="#2b5f8a" />
+<text x="268.9" y="121" font-size="12" fill="#1a1a1a">18</text>
+<text x="212" y="143" font-size="12" fill="#1a1a1a" text-anchor="end">secreto</text>
+<rect x="220" y="131" width="21.4" height="14" fill="#2b5f8a" />
+<text x="247.4" y="143" font-size="12" fill="#1a1a1a">9</text>
+<text x="212" y="165" font-size="12" fill="#1a1a1a" text-anchor="end">ultrassecreto</text>
+<rect x="220" y="153" width="2.4" height="14" fill="#2b5f8a" />
+<text x="228.4" y="165" font-size="12" fill="#1a1a1a">1</text>
+<text x="212" y="187" font-size="12" fill="#1a1a1a" text-anchor="end">sem grau</text>
+<rect x="220" y="175" width="350.0" height="14" fill="#2b5f8a" />
+<text x="576.0" y="187" font-size="12" fill="#1a1a1a">147</text>
+</svg></div>
+<div class="limite"><b>Também informa</b> — signal 31 também informa que a Casa classifica muito mais do que rotula — o grau fica vazio em 149 das 177 linhas — e que o rol de desclassificados publica 118 linhas sem nenhum conteúdo.</div>
+<div class="fonte">Tabela(s) lida(s): <code>informacoes-classificadas-por-unidade-e-ano.csv</code></div>
+<p class="rodape">Gerado por <code>cldf.painel_estatico</code>, um construtor de página estática. Todo
+número desta página foi recalculado a partir da tabela publicada em
+<code>data/derived/</code> no momento da construção — não é uma cópia de outro texto.</p>
+</main>
+</body>
+</html>

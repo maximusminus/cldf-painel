@@ -1,0 +1,381 @@
+﻿ano,tipoProposicao,numero,ementa,tipo_veto,tipo_veto_conflito,resultado_rotulo,resultado_fonte,pergunta_invertida,data_votacao,votacao_materia,votos_sim,votos_nao,abstencoes,fonte,na_janela_de_coleta,documento_id
+2015,PL,267,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2015,PL,394,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2015,PL,547,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2016,PL,1057,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2016,PL,1214,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2016,PL,932,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2017,PL,1738,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2018,PL,1955,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2018,PL,2084,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2018,PL,2125,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2019,PL,102,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2019,PL,121,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,141,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,201,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,217,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,259,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,27,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,353,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,nao,
+2019,PL,372,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,411,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2019,PL,416,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,438,,total,nao,APROVADOREDAÇÃO FINAL APROVADA,painel_resultado_rotulo,nao,2023-04-04,VETO TOTAL PROJETO DE LEI Nº 438/2019,19,0,0,painel,nao,
+2019,PL,439,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,nao,
+2019,PL,449,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,450,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,455,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,510,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,525,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,547,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,559,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,665,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,670,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,677,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,694,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,723,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,745,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2019,PL,770,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,800,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2019,PL,809,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PL,812,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2019,PL,813,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2019,PL,90,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2019,PLC,15,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2019,PLC,18,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1015,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1041,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,1053,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1063,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,1079,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,1106,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1120,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1126,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1127,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1133,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1134,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1139,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,1145,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,1166,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1176,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1193,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1196,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1203,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,nao,
+2020,PL,1206,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1207,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1212,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,1224,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1229,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1235,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1236,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1244,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1249,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,nao,
+2020,PL,1254,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1259,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1320,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,1322,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,nao,
+2020,PL,1331,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1346,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1387,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1389,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1418,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,1456,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1490,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1496,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1507,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1563,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1566,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1569,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1597,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,1637,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,1651,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PL,880,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,888,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,915,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,944,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,948,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,950,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,955,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,957,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,967,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PL,979,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2020,PL,988,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,990,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PL,991,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PLC,30,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,34,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,37,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2020,PLC,44,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,45,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,58,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,63,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,69,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2020,PLC,70,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2020,PLC,72,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1657,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,1668,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1703,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,nao,
+2021,PL,1728,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1735,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,1767,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1792,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1797,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,1818,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,1844,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1862,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1880,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1903,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1907,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,1915,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,1940,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,1941,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,1949,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,nao,
+2021,PL,1986,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2036,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,nao,
+2021,PL,2051,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2059,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2064,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2103,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2107,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2115,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2143,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,nao,
+2021,PL,2173,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,nao,
+2021,PL,2224,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2228,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2237,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,2242,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2252,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,2276,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2277,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2279,,indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,nao,
+2021,PL,2308,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2312,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PL,2347,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2366,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2383,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2397,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2416,,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,nao,
+2021,PL,2419,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2420,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2421,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2424,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2449,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PL,2457,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PLC,100,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PLC,77,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2021,PLC,88,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PLC,97,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2021,PLC,99,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2023-08-30,BLOCO VETOS PODER EXECUTIVO 30.08.2023,14,0,0,painel,nao,
+2022,PL,109,,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,nao,
+2022,Projeto de Lei,2539,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 504.897.965,00.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2544,"Estabelece a obrigatoriedade de se fazer constar nos editais de licitação pública para contratação de empresas que irão operar no serviço de transporte público básico indireto – modo rodoviário -  a oferta de plano de saúde aos rodoviários, compreendo motoristas e cobradores.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83522
+2022,Projeto de Lei,2553,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 68.444.037,00.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,45454
+2022,Projeto de Lei,2557,"Abre crédito especial à Lei Orçamentária Anual do Distrito Federal no valor de R$ 39.599.150,00.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2558,"Altera as Leis n° 6.468, de 27 de dezembro de 2019, n° 3.266, de 30 de dezembro de 2003, n° 4.169, de 08 de julho de 2008, n° 4.269, de 15 de
+dezembro de 2008, e dá outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2589,"Abre crédito especial à Lei Orçamentária Anual do Distrito Federal no valor de R$ 80.000,00.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2709,"Altera a Lei no 3.831, de 14 de março de 2006, que cria o Instituto de Assistência à Saúde dos Servidores do Distrito Federal – INAS, e dá outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2711,"Abre crédito especial à Lei Orçamentária Anual do Distrito Federal no valor de R$ 2.882.263,00.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,50296
+2022,Projeto de Lei,2713,"Institui a Política Pública Distrital destinada ao resgate de jovens vítimas de violência sexual, denominada Vira Vida.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2740,"Altera a Lei nº 6.976, de 17 de novembro de 2021, que “institui, no Distrito Federal, o Programa de Proteção à Policial Civil, Policial Militar e Bombeira Militar Gestantes e Lactantes e dá outras providências”.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2022,Projeto de Lei,2749,Dispõe sobre o programa de acesso à justiça e fomento ao advogado iniciante.,parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,50868
+2022,Projeto de Lei,2761,"Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2023, e dá outras providências. 
+
+",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,48194
+2022,Projeto de Lei,2832,"Abre crédito adicional à Lei Orçamentária Anual do Distrito Federal no valor de R$ 36.340.210,00.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,50865
+2022,Projeto de Lei,2886,"Estabelece o crédito responsável e assegura a garantia do mínimo existencial para os endividados do Distrito Federal, com medidas necessárias para dar cumprimento e efetividade aos artigos 6º, XI, e XII, 52, §2º, 54-D da Lei 8.078, de 11 de setembro de 1990.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2023-04-12,VETO TOTAL PROJETO DE LEI 2886/2022,0,21,0,painel,sim,
+2022,Projeto de Lei,2903,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 7.336.250,00.
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2908,Dispõe sobre a obrigatoriedade quanto ao acompanhamento por profissional de saúde do sexo feminino durante a realização de exames ou procedimentos que utilizem de sedação ou anestesia que induzam a inconsciência do paciente e à presença de acompanhante durante os exames sensíveis.,total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,69774
+2022,Projeto de Lei,2944,"Altera a Lei n° 6.934, de 5 de agosto de 2021, que Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022 e dá outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2945,"Altera a Lei n° 6.934, de 5 de agosto de 2021, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022 e dá outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2952,"Regulamenta no Distrito Federal a aplicabilidade da Lei federal nº 14.282, de 28 de dezembro de 2021 – Lei que regulamento o exercício da profissão de despachante documentalista.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2963,"Institui a Campanha de Conscientização sobre a Cinomose Canina, no âmbito do Distrito Federal e dá outras providências.
+
+",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110908
+2022,Projeto de Lei,2986,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 15.924.113,00.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,2992,"Estima a receita e fixa a despesa do Distrito Federal para o exercício financeiro de 2023.
+
+",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,58009
+2022,Projeto de Lei,2999,Institui no Distrito Federal o Programa  de Atenção à Saúde da Mulher no Climatério e na Menopausa.,total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,69778
+2022,Projeto de Lei,3005,"Estabelece diretrizes para a criação da Política Distrital Atendimento às Pessoas com dor crônica, bem como para o sistema distrital de informações sobre o cuidado a pessoa com dor crônica.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,135234
+2022,Projeto de Lei,3013,Institui o Programa de Incentivo à Economia Solidária voltado para mulheres e dá outras providências.,total,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,117367
+2022,Projeto de Lei,3015,"Dispõe sobre o Sistema de Ensino e a Gestão Democrática da Rede Pública de Ensino do Distrito Federal, e dá outras providências.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,57934
+2022,Projeto de Lei,3026,"Institui a atividade econômica denominada Self Storage, para fins de regularização do funcionamento, no âmbito do Distrito Federal, e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110698
+2022,Projeto de Lei,3041,Dispõe sobre a extensão da Indenização de Transporte aos servidores que especifica e dá outras providências.,indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,3049,"Acrescenta as especialidades, Educador Físico, Direito e Legislação, Químico e Médico Veterinário no Anexo IV da Lei n° 3.320, de 18 de fevereiro de 2004.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,3055,"Dispõe sobre a Reestruturação e Desmembramento da Carreira de Vigilância Ambiental e Atenção Comunitária em saúde, altera a Lei nº 5.237, de 16 dezembro 2013 e dá outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,3058,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 7.002.973,00.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei,3062,Dispõe sobre a concessão de benefício de proteção socioeconômica temporária às mulheres vítimas de violência doméstica e familiar que vivem em situação de vulnerabilidade no Distrito Federal e dá outras providências.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2022,Projeto de Lei,3063,"Institui a Semana de Conscientização sobre a Importância da Liberdade de Imprensa para a Democracia, a ser comemorada na primeira semana do mês de abril.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110930
+2022,Projeto de Lei,3069,"Dispõe sobre a prestação dos serviços públicos de iluminação pública no Distrito Federal, e dá outras providências.",parcial,nao,REJEITADA,painel_resultado_rotulo,nao,2023-10-10,VETO PARCIAL PROJETO DE LEI Nº 3069/2022,0,17,1,ambas,sim,84774
+2022,Projeto de Lei,3075,"Altera a Lei nº 7.098, de 02 de abril de 2022 que “Cria a Gratificação de Atividades de Vigilância Ambiental em Saúde – GAVAS, para os Agentes de Vigilância Ambiental em Saúde da Secretaria de Saúde do Distrito Federal e dá outras providências”
+ ",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei Complementar,113,"Altera a Lei Complementar n° 840, de 23 de dezembro de 2011, que dispõe sobre o regime jurídico dos servidores públicos civis do Distrito Federal, das autarquias e das fundações públicas distritais.",parcial,nao,REJEITADAS,painel_resultado_rotulo,nao,2023-04-04,VETO PARCIAL AO PLC Nº 113/2022.,2,18,0,painel,sim,
+2022,Projeto de Lei Complementar,116,"Acrescenta o dispositivo que menciona à Lei Complementar nº 980, de 30 de dezembro de 2020, e dá outras providências.
+
+",total,nao,REJEITADAS,painel_resultado_rotulo,nao,2024-08-27,VETO TOTAL PROJETO DE LEI COMPLEMENTAR Nº 116/2022,0,18,0,painel,sim,
+2022,Projeto de Lei Complementar,120,"Altera a Lei Complementar n° 769, de 30 de junho de 2008, que reorganiza e unifica o Regime Próprio de Previdência Social do Distrito Federal, com fundamento n° Artigo 52. da Lei Complementar n° 932 de 03 outubro de 2017 e altera a Lei Complementar n° 840 de 23 de dezembro de 2011.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2022,Projeto de Lei Complementar,141,"Autoriza a extensão de usos e atividades para os lotes do Setor Comercial Sul – SCS, na Região Administrativa do Plano Piloto – RA I, e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,70996
+2023,Projeto de Lei,128,"
+Dispõe sobre a regulamentação de geladeiras solidárias de uso comunitário e compartilhado no âmbito do Distrito Federal e dá outras providências.
+",total,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110695
+2023,Projeto de Lei,161,"Altera a Lei nº 7.008, de 17 de dezembro de 2021, que “Institui o Plano DF Social, contendo programas que visam à superação da pobreza no Distrito Federal, e dá outras providências. ”, com o objetivo de instituir o programa S.O.S Mulher.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,178,Garante prioridade de atendimento médico-hospitalar às mulheres vítimas de violência.,parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,117362
+2023,Projeto de Lei,179,"CRIA O PROGRAMA INTITULADO “MULHER EM EVIDÊNCIA”, NAS REDES PÚBLICA E PRIVADA DE ENSINO DO DISTRITO FEDERAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,180,Institui o CÓDIGO DE DEFESA DA MULHER e dá outras providências. ,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,184,Determina a rescisão de contratos administrativos por falta de pagamento aos empregados e dá outras providências.,parcial,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,84591
+2023,Projeto de Lei,186,"Dispõe sobre a reserva de vagas para mulheres em situação de violência doméstica e familiar nos editais de licitação que visem a contratação de empresas para prestação de serviços continuados e terceirizados, no âmbito da Administração Pública Direta, Autárquica e Fundacional do Distrito Federal, em observância à Lei Federal nº 14.133/2021. 
+",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,90289
+2023,Projeto de Lei,192,"Altera a Lei nº 2.402, de 15 de junho de 1999, que institui o Programa Bolsa-Atleta.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,196,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 359.846.913,00",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,76045
+2023,Projeto de Lei,198,"Dispõe sobre a proteção contra a discriminação no trabalho para mãe solo, nos órgãos e entidades da administração pública direta e indireta do Distrito Federal.
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,sim,
+2023,Projeto de Lei,212,"Altera a Lei nº 3.361, de 15 de junho de 2004, que institui reserva de vagas, nas universidades e faculdades públicas do Distrito Federal, de, no mínimo, 40% por curso e por turno, para alunos oriundos de escolas públicas do Distrito Federal.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83407
+2023,Projeto de Lei,218,"
+Estabelece a criação de local reservado nas unidades de saúde do Distrito Federal para atendimento a vítimas de violência doméstica e dá outras providências.
+",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,228,"Instituí o programa “Educa Por Elas” no âmbito do Sistema de Ensino do Distrito Federal, que trata do combate à violência contra a mulher e dá outras providências.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,240,"Altera a Lei nº 7.171, de 1 de agosto de 2022, que Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2023 e dá outras providências.
+
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2023,Projeto de Lei,245,"Dispõe sobre as diretrizes para prevenir e combater a violência obstétrica.
+",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,248,"Institui Políticas de Proteção à mulher e de igualdade de gênero no âmbito da administração pública direta, autárquica e fundacional do Distrito Federal e da outras providências.
+",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,273,"Altera a Lei nº 7.171, de 1 de agosto de 2022, que Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2023 e dá outras providências.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,78686
+2023,Projeto de Lei,279,Disciplina a prática e a fiscalização da pesca no Lago Paranoá.,parcial,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,ambas,sim,110758
+2023,Projeto de Lei,281,"Institui a Política de Mobilidade a Pé para o Distrito Federal, e cria o Comitê Técnico da Mobilidade a Pé e dá outras providências. ",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110651
+2023,Projeto de Lei,282,Dispõe sobre a infraestrutura de apoio às atividades de treinamento e instrução de aprendizes de motorista e dá outras providências.,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,313,Dispõe sobre a oferta de opções de refeições veganas na merenda escolar dos estabelecimentos públicos de ensino do Distrito Federal e dá outras providências.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,318,"Institui o Programa de Financiamento da Infraestrutura Pública do Distrito Federal. 
+",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83425
+2023,Projeto de Lei,323,"Abre crédito especial à Lei Orçamentária Anual do Distrito Federal no valor de R$ 210.000,00.
+
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2023,Projeto de Lei,327,"Obriga o Distrito Federal a implantar aplicativo móvel voltado para pessoas com deficiência visual, com previsão de chegada do ônibus em tempo real e recursos de comando de voz para orientação de trajeto.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,127864
+2023,Projeto de Lei,340,"Altera o Capítulo IV da Lei nº 5.106, de 3 de maio de 2013, que “Dispõe sobre a carreira Assistência à Educação do Distrito Federal e dá outras providências”, para incluir o artigo 7º-B, que trata da lotação, exercício e remanejamento dos servidores da Carreira.",total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,279426
+2023,Projeto de Lei,344,"Institui o Sistema Distrital de Informações da Primeira Infância (SiDIPI) e cria o relatório Orçamento da Primeira Infância (OPI), como instrumento de controle social e fiscalização do orçamento público na área da Primeira Infância. 
+",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110643
+2023,Projeto de Lei,354,Dispõe sobre a oferta de capacitação e treinamento aos profissionais da educação do Distrito Federal para identificação de sinais de abuso contra crianças e adolescentes.,total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,ambas,sim,279649
+2023,Projeto de Lei,362,Cria o Fundo Distrital de Transporte Público e Mobilidade Urbana — FDTPMU.,total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110661
+2023,Projeto de Lei,371,Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024 e dá outras providências.,parcial,nao,REJEITADAS,painel_resultado_rotulo,nao,2023-08-22,VETO PARCIAL PROJETO DE LEI Nº 371/2023,1,22,0,ambas,sim,84814
+2023,Projeto de Lei,373,Institui a Política Distrital de Valorização das Disciplinas Elementares.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,379,"Institui o Estatuto do Pedestre no Distrito Federal, cria o Dia do Pedestre e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,128356
+2023,Projeto de Lei,401,"Altera a Lei nº 5.080, de 11 de março de 2013, que “Inclui, no calendário oficial de eventos e no calendário escolar do Distrito Federal, o Dia do Patrimônio Cultural e institui as Jornadas de Brasília Patrimônio Cultural da Humanidade”.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110657
+2023,Projeto de Lei,407,"Proíbe o uso, a posse, a fabricação e a comercialização de produtos acabados com a finalidade de utilização como linhas cortantes no Distrito Federal, e dá outras providências.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,413,"Dispõe sobre a livre organização de entidades representativas estudantis, no âmbito da Universidade do Distrito Federal – UnDF.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,415,"Altera a Lei nº 4.761, de 14 de fevereiro de 2012, que “Dispõe sobre a obrigatoriedade da cirurgia plástica reparadora da mama nos casos de mutilação decorrentes de tratamento de câncer"".  ",total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,117340
+2023,Projeto de Lei,416,"Institui diretrizes, estratégias e ações para o Programa de Atenção e Orientação às Mães Atípicas “CUIDANDO DE QUEM CUIDA”, no âmbito do Distrito Federal e, dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,83878
+2023,Projeto de Lei,418,"Dispõe quanto a criação do Na Hora Mulher - Serviço de Atendimento Imediato e Exclusivo à Mulher, no âmbito do Distrito Federal, e dá outras providências.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,42,"Estabelece diretrizes para a instituição do programa Cartão-Reforma no Distrito Federal, altera a Lei nº 3.877/2016, que “Dispõe sobre a política habitacional do Distrito Federal”, e dá outras providências”.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,422,"Altera a Lei nº 5.286/13, que dispõe sobre a criação da Escola de Contas Públicas do Tribunal de Contas do Distrito Federal e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,98688
+2023,Projeto de Lei,429,Institui a Política Distrital “Vinícius Jr.” de combate ao racismo nos estádios e arenas esportivas no âmbito do Distrito Federal.,parcial,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,128381
+2023,Projeto de Lei,433,Estabelece o limite para a quantidade de refeições vendidas para cada usuário nos restaurantes comunitários.,total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,127869
+2023,Projeto de Lei,436,"Institui o Sistema Distrital de Ambientes de Inovação – SDAI-DF e dá outras providências.
+",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110676
+2023,Projeto de Lei,443,"Altera a Lei nº 7.057, de 05 de janeiro de 2022, que “Dispõe sobre a obrigatoriedade de instalação de salas de apoio à amamentação em órgãos públicos do governo do Distrito Federal”, para garantir o pleno direito ao amamentado em casos excepcionais.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,45,"Altera a Lei nº 4.462, de 13 de janeiro de 2010, que ""dispõe sobre o Passe Livre Estudantil nas modalidades de transporte público coletivo"" e dá outras providências.",total,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,279439
+2023,Projeto de Lei,451,"Dispõe sobre a cooperação, implementação e execução de ações entre a Administração Pública distrital e os serviços sociais autônomos na forma que especifica.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,101461
+2023,Projeto de Lei,452,"Altera a Lei nº 3.877, de 26 de junho de 2006, que dispõe sobre a política habitacional do Distrito Federal.
+",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,110703
+2023,Projeto de Lei,455,"Abre crédito especial à Lei Orçamentária Anual do Distrito Federal no valor de R$ 6.475.000,00.",parcial,sim,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,107409
+2023,Projeto de Lei,466,"Altera a Lei nº 7.171, de 1 de agosto de 2022, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2023 e dá outras providências.",parcial,sim,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,93556
+2023,Projeto de Lei,478,"Institui o Programa de Curso Comunitário Gratuito Pré-Vestibular e Preparatório Básico para Concursos - Aprova DF, no âmbito do Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,502,"Altera a Lei nº 6.466, de 27 de dezembro de 2019, para prorrogar, até 31 de dezembro de 2025,  os benefícios fiscais do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU, do Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos - ITCD, do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis e de Direitos a eles Relativos - ITBI e da Taxa de Limpeza Pública – TLP previstos na Lei mencionada.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110707
+2023,Projeto de Lei,522,"Altera a Lei nº 5.418, de 24 de novembro de 2014, que “Dispõe sobre a Política Distrital de Resíduos Sólidos 6.518, de 12 de março de 2020, que “Dispõe sobre a obrigatoriedade de tratamento dos resíduos sólidos  orgânicos no Distrito Federal por
+processos biológicos”.
+",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,110782
+2023,Projeto de Lei,532,"Fica instituído o Programa Cozinha Solidária, que dispõe sobre a distribuição de alimentação gratuita preferencialmente à população em situação de vulnerabilidade e risco social, incluindo a população em situação de rua, visando a promoção de políticas de segurança alimentar e nutricional, de assistência social, efetivação de direitos sociais, dignidade humana, resgate social e melhoria da qualidade de vida.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2023,Projeto de Lei,535,"Abre crédito adicional à Lei Orçamentária Anual do Distrito Federal no valor R$ 3.663.742,00",parcial,sim,REJEITADA,painel_resultado_rotulo,nao,2023-10-17,VETO TOTAL PROJETO DE LEI Nº 535/2023,0,23,0,ambas,sim,95480
+2023,Projeto de Lei,556,"Institui a obrigatoriedade de contratação de mão de obra proveniente do Programa RENOVADF, em contratos administrativos de execução de obras do Governo do Distrito Federal. ",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2023,Projeto de Lei,56,"Institui os Princípios, as Diretrizes e os Objetivos para a Política Distrital da Mulher no âmbito do Distrito Federal, e dá outras providências.
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,sim,
+2023,Projeto de Lei,57,Cria o selo anticorrupção a ser concedido pelo Distrito Federal às empresas que adotem os programas de integridade.,total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83563
+2023,Projeto de Lei,579,"Institui as diretrizes para a Criação do Relatório e Diagnóstico Socioeconômico Anual da Mulher, como um instrumento para subsidiar políticas públicas e dá outras providências. 
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,58,"Institui o Código de Defesa do Empreendedor, estabelece normas para expedição de atos públicos de liberação da atividade econômica, dispõe sobre a realização de análise de impacto regulatório.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,ambas,sim,84606
+2023,Projeto de Lei,587,"Reconhece a vocação temática de logradouros do Plano Piloto como de relevante interesse cultural, social e econômico para o Distrito Federal",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110678
+2023,Projeto de Lei,612,Dispõe sobre o Plano Plurianual do Distrito Federal para o quadriênio 2024-2027.,parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,110952
+2023,Projeto de Lei,613,Estima a receita e fixa a despesa do Distrito Federal para o exercício financeiro de 2024.,parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,110943
+2023,Projeto de Lei,636,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 3.000.000,00.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,107403
+2023,Projeto de Lei,639,"Institui multa administrativa para coibir atos de agressão contra motoboys no exercício da profissão e dá outras providências.
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2023,Projeto de Lei,663,"Abre crédito adicional à Lei Orçamentária Anual do Distrito Federal no valor de R$ 53.474.423,00. ",parcial,sim,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,111041
+2023,Projeto de Lei,676,Institui o Programa Distrital Casa da Doméstica.,total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,117343
+2023,Projeto de Lei,689,"Institui o Programa de Descentralização Financeira para Ações de Segurança Pública - PDFASP por meio de transferência de recursos financeiros do Governo do Distrito Federal, aos termos da Lei Federal nº 14.133, de 1º de abril de 2021, e dá outras providências.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,701,"Abre crédito adicional à Lei Orçamentária Anual do Distrito Federal no valor de R$ 1.001.943,00. 
+
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2023,Projeto de Lei,724,"Concede remissão, anistia e isenção do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU, do Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos - ITCD, do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis por Natureza ou Acessão Física e de Direitos Reais sobre Imóveis - ITBI e da Taxa de Limpeza Pública - TLP relativos aos imóveis pertencentes ao Fundo Garantidor de Parcerias Público-Privadas do Distrito Federal - FGP-DF, instituído pela Lei nº 5.004, de 21 de dezembro de 2012.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,111020
+2023,Projeto de Lei,73,"""Dispõe sobre o abandono material e afetivo da pessoa idosa no âmbito do Distrito Federal e dá outras providências."" ",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,110683
+2023,Projeto de Lei,749,Dispõe sobre o licenciamento para a realização de eventos e dá outras providências.,parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,127880
+2023,Projeto de Lei,760,Cria o relatório anual de vitimização dos profissionais de saúde no Distrito Federal.,indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei,78,"Dispõe sobre a utilização de endereço de equipamento público como comprovante de residência para fins de concessão de benefício social por parte do Distrito Federal.
+",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83418
+2023,Projeto de Lei,793,"Altera a Lei nº 1.170, de 24 de julho de 1996, que ""institui o instrumento jurídico da outorga onerosa do direito de construir no Distrito Federal"".",parcial,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,274233
+2023,Projeto de Lei,841,"Altera a Lei nº 7.313, de 27 de julho de 2023, que Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024 e dá  outras providências.",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,painel,sim,
+2023,Projeto de Lei,96,"Assegura condições condignas aos advogados inscritos na Ordem dos Advogados do Brasil Seccional Distrito Federal - OAB-DF, nas Delegacias de Polícia Civil do Distrito Federal, quando no exercício efetivo de suas atividades profissionais e dá outras providências.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83521
+2023,Projeto de Lei Complementar,12,"Acrescenta inciso XI ao art. 130 da Lei Complementar n° 840, de 23 de dezembro de 2011, para garantir licença de três dias consecutivos, a cada mês, às mulheres que comprovem sintomas graves associados ao fluxo menstrual.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei Complementar,14,"Altera a Lei Complementar nº 840, de 23 de dezembro de 2011, para garantir a remoção, independentemente do interesse da Administração, de servidora pública vítima de violência institucional.",total,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,ambas,sim,83507
+2023,Projeto de Lei Complementar,18,"Altera a Lei Complementar nº 840, de 23 de dezembro de 2011, que “dispõe sobre o regime jurídico dos servidores públicos civis do Distrito Federal, das autarquias e das fundações públicas distritais”, para conceder jornada de trabalho diferenciada para servidoras lactantes.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei Complementar,2,"Altera a Lei Complementar nº 840, de 23 de dezembro de 2011, para garantir afastamento às servidoras vítimas de violência doméstica e familiar.",indeterminado,nao,REJEITADA,painel_resultado_rotulo,nao,2024-02-20,BLOCO VETOS 20.02.2024,0,34,0,painel,sim,
+2023,Projeto de Lei Complementar,25,Dispõe sobre o parcelamento do solo urbano no Distrito Federal e dá outras providências.,parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,107376
+2023,Projeto de Lei Complementar,31,"Homologa o Convênio ICMS 116, de 04 de agosto de 2023, que autoriza o Distrito Federal a instituir programa de remissão parcial de débitos fiscais e de anistia parcial de suas multas e juros relativos ao ICMS na forma que especifica; e institui o Programa de Incentivo à Regularização Fiscal do Distrito Federal – REFIS-DF 2023.",parcial,nao,APROVADA,painel_resultado_rotulo,nao,2024-04-02,BLOCO VETOS 02.04.2024,64,0,0,ambas,sim,99678
+2023,Projeto de Lei Complementar,37,"Dispõe sobre a concorrência leal entre os agentes econômicos para coibir eventuais desequilíbrios desleais e dolosos na concorrência do mercado no âmbito do distrito federal, identificando o sujeito passivo tributário (contribuinte) considerado como devedor contumaz, e dá outras providências.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2023,Projeto de Lei Complementar,5,"Altera a Complementar nº 840, de 23 de dezembro de 2011. 
+
+",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,128436
+2023,Projeto de Lei Complementar,7,"Adequa o Fundo de Defesa dos Direitos do Consumidor, criado pela Lei Complementar nº 50, de 23 de dezembro de 1997, para garantir o mínimo existencial aos superendividados.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2023,Projeto de Lei Complementar,8,"Altera a Lei Complementar nº 925, de 28 de junho de 2017, que “Dispõe sobre a reversão ao Tesouro do Distrito Federal do superávit financeiro de órgãos e entidades da administração direta e indireta integrantes dos orçamentos fiscal e da seguridade social do Distrito Federal e dá outras providências. ” e revoga dispositivo da Lei Complementar nº 704, de 18 de janeiro de 2005, que “Cria o Fundo para a Geração de Emprego e Renda do Distrito Federal, altera o § nº 2º do art. 25 da Lei 3.196, de 29 de setembro de 2003 e dá outras providências.”
+
+",total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,ambas,sim,127866
+2024,Projeto de Lei,1045,"Dispõe sobre direitos de cães e gatos – domésticos, comunitários ou abandonados –, sobre direitos e deveres de seus responsáveis, tutores e cuidadores, com o propósito de preservar o bem-estar dos animais, e evitar maus tratos por parte de vizinhos, condôminos e administrações de condomínios no Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,1053,Institui protocolo de gestão de crise no enfrentamento de doenças sazonais no Distrito Federal.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2024,Projeto de Lei,1056,"
+Dispõe sobre o Programa de Saúde Reprodutiva da Mulher, Prevenção e Diagnóstico Precoce de Doenças Ginecológicas, e dá outras providências.
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei,1058,"Altera a Lei nº 7.313, de 27 de julho de 2023, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024, e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,121434
+2024,Projeto de Lei,1077,"Institui, no âmbito do Distrito Federal, a obrigatoriedade de as empresas prestadoras de serviços e concessionárias de água, luz, telefone e internet, inserirem, nas faturas de consumo, dos órgãos do Poder Executivo, no âmbito de sua publicidade institucional, as fotos de foragidos da Justiça, condenados definitivamente, por crimes de violência contra a mulher.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei,1081,"Altera a Lei nº 7.155, de 10 de junho de 2022, que dispõe sobre o Serviço Público de Loteria do Distrito Federal, e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,126510
+2024,Projeto de Lei,1108,Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2025 e dá outras providências. ,parcial,nao,REJEITADAS,painel_resultado_rotulo,nao,2024-08-27,VETO PARCIAL AO PL Nº 1108/2024,0,18,0,ambas,sim,127932
+2024,Projeto de Lei,1256,"Altera a Lei nº 4.462, de 13 de janeiro de 2020, para assegurar aos matriculados na educação infantil e a um de seus acompanhantes o Passe Livre Estudantil nas modalidades de transporte público coletivo. 
+",indeterminado,nao,APROVADA,painel_resultado_rotulo,nao,2025-05-13,BLOCO DE VETOS DE 13/05/2025,18,0,0,painel,sim,
+2024,Projeto de Lei,1296,"Abre crédito suplementar à Lei Orçamentária Anual do Distrito Federal no valor de R$ 10.374.718,00. ",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,136640
+2024,Projeto de Lei,1298,"Dispõe sobre as garantias trabalhistas a serem observadas na execução dos contratos administrativos na administração pública direta, autárquica e fundacional do Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei,1309,Estabelece medidas de prevenção e enfrentamento às queimadas anuais no Distrito Federal e dá outras providências.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,1332,"Altera a Lei nº 6.448, de 23 de dezembro de 2019, que “dispõe sobre a carreira Planejamento Urbano e Infraestrutura do Distrito Federal”, e dá outras providências.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,1339,"Altera a Lei nº 6.623, de 25 de junho de 2020, que dispõe sobre a concessão do Aluguel Social às mulheres vítimas de violência doméstica no Distrito Federal e dá outras providências.
+
+
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2024,Projeto de Lei,1449,INSTITUI O SISTEMA DE ACADEMIAS DA TERCEIRA IDADE E ACADEMIA DA SAÚDE E ENVELHECIMENTO SAUDÁVEL NO ÂMBITO DO DISTRITO FEDERAL E DÁ OUTRAS PROVIDÊNCIAS,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,1477,"Dispõe sobre o direito do pedestre à iluminação pública em abrigos e paradas de ônibus, passarelas e passagens subterrâneas no Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,853,"Dispõe acerca da utilização de valores decorrentes de saldo de licença-prêmio convertido em pecúnia para compra de imóveis junto a Terracap, e dá outras providências.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,881,"Altera a Lei nº 6.623, de 25 de junho de 2020, que dispõe sobre a concessão do Aluguel Social às mulheres vítimas de violência doméstica no Distrito Federal e dá outras providências, para incluir às mães ou cuidadoras atípicas ou com filhos com deficiência que tenham sido abandonadas pelo cônjuge ou companheiro.
+
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2024,Projeto de Lei,885,"Altera a Lei 3.830, de 14 de março de 2006, para definir a base de cálculo do Imposto sobre a Transmissão “Inter Vivos” de Bens Imóveis e de Direitos a eles Relativos - ITBI. 
+
+",total,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,128334
+2024,Projeto de Lei,899,"Assegura a gratuidade no Sistema de Transportes Público Coletivo do Distrito Federal para mãe, pai ou responsável legal de bebê prematuro internado em unidade neonatal da rede pública de saúde do Distrito Federal.",total,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,ambas,sim,281963
+2024,Projeto de Lei,918,Institui o “Programa Rotas Rurais e Endereçamento Digital (PRORRED)”.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei,969,"Altera a Lei nº 7.313, de 27 de julho de 2023, que Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2024 e dá outras providências.",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,117440
+2024,Projeto de Lei,981,"Institui o processo administrativo eletrônico relacionado à proteção aos direitos das mulheres, no âmbito do Distrito Federal, e dá outras providências.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei,984,"Dispõe sobre a proteção dos direitos dos trabalhadores terceirizados que prestam serviços nos órgãos do Distrito Federal, estabelecendo que sua devolução à empresa contratada somente ocorra mediante justa causa e dá outras providências.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-06-03,BLOCO VETOS 03.06.2025,0,16,0,painel,sim,
+2024,Projeto de Lei Complementar,41,"Aprova o Plano de Preservação do Conjunto Urbanístico de Brasília – PPCUB e dá outras providências.
+",parcial,nao,sem_deliberacao,sem_votacao,nao,,,,,,relatorio_ccj,sim,129035
+2025,Projeto de Lei,1593,"Altera a Lei 3.830, de 14 de março de 2006, que “Dispõe quanto ao Imposto sobre a Transmissão “Inter Vivos” de Bens Imóveis e de Direitos a eles Relativos – ITBI, e dá outras providências”, para estabelecer o valor de mercado do imóvel como base de cálculo do Imposto sobre a Transmissão “Inter Vivos” de Bens Imóveis e de Direitos a eles Relativos - ITBI. 
+
+",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2025,Projeto de Lei,1630,"Dispõe sobre a instituição de quarentena para o ocupante do cargo de Secretário de Estado de Saúde do Distrito Federal e de Diretor-Presidente do Instituto de Gestão Estratégica de Saúde do Distrito Federal (IGESDF) ao deixar o cargo, na forma que especifica.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2025,Projeto de Lei,1645,"Estabelece diretrizes para implementação e estruturação de espaços físicos, denominados “Centros Interescolar de Robótica – CIR”, a fim de fomentar o letramento digital, robótica e utilização adequada da inteligência artificial como elemento didático na Educação Básica do Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2025,Projeto de Lei,1661,"Altera a Lei nº 4949/2012, que estabelece normas gerais para realização de concurso público pela administração direta, autárquica e fundacional do Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2025,Projeto de Lei,1742,Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2026 e dá outras providências.,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-09-09,BLOCO DE VETOS DE 09/09/2025,0,18,0,painel,sim,
+2025,Projeto de Lei,2003,"Institui o Programa “Beleza Legal DF”, que estabelece diretrizes de apoio, capacitação, saúde e formalização das profissionais e microempreendedoras do setor de beleza, estética e cuidados pessoais no âmbito do Distrito Federal.",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2025,Projeto de Lei,2014,"Reconhece a Língua Brasileira de Sinais - Libras, e demais recursos de expressão a ela associados, como meio legal de comunicação e expressão",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,
+2025,Projeto de Lei Complementar,64,Institui a Política Distrital de Arborização Urbana e de Combate a Desigualdades Ambientais e dá outras providências,indeterminado,nao,REPROVADO,painel_resultado_rotulo,nao,2025-12-03,BLOCO DE VETOS DE 03/12/2025,0,17,0,painel,sim,
+2026,Projeto de Lei Complementar,100,"Altera a Lei nº 5.594, de 28 de dezembro de 2015, que ""institui o Fundo da Receita Tributária do Distrito Federal - PRÓ-RECEITA"", e a Lei Complementar nº 981, de 14 de janeiro de 2021, que ""institui o Fundo de Aprimoramento do Controle Interno do Distrito Federal – Pró-Controle Interno e dá outras providências"".",indeterminado,nao,REPROVADO,painel_resultado_rotulo,sim,2026-04-29,BLOCO DE VETOS 29/04/2026 - PELA REJEIÇÃO,0,17,0,painel,sim,

@@ -1,0 +1,29 @@
+/* OS-079 — hand-written, local stylesheet for the explorer. No CDN, no external font. */
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
+header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
+main { max-width: 1100px; margin: 0 auto; padding: 20px 24px 60px 24px; }
+.cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
+  padding: 16px 20px; margin: 16px 0; }
+select, input, button { font: inherit; padding: 4px 8px; border: 1px solid #ccc;
+  border-radius: 4px; background: #fff; }
+button { cursor: pointer; background: #1a3a52; color: #fff; border-color: #1a3a52; }
+button:hover { background: #234a68; }
+button.secundario { background: #fff; color: #1a3a52; }
+table.explorador { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.explorador th, table.explorador td { border: 1px solid #ddd6c8; padding: 4px 8px;
+  text-align: left; white-space: nowrap; }
+table.explorador th { background: #efe9dc; position: sticky; top: 0; }
+.tabela-scroll { overflow-x: auto; max-width: 100%; }
+.linha-filtro { display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  margin: 8px 0; }
+.aviso { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
+  padding: 10px 14px; margin: 12px 0; font-size: 13px; }
+.aviso.erro { background: #fbe6e6; border-color: #e6a3a3; }
+.rotulo { font-size: 12px; color: #666; margin-right: 4px; }
+.grupo-campo { display: flex; flex-direction: column; gap: 2px; }
+a.ver-perfil { font-size: 12px; }

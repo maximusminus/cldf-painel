@@ -1,0 +1,10 @@
+﻿ano,mes,linhas_na_planilha,linhas_no_portal_de_dados,diferenca,valor_na_planilha,valor_no_portal_de_dados,valor_declarado_na_planilha,concordam,arquivo,as_of
+2026,JANEIRO,2,2,0,40887.00,40887.00,40887.00,sim,01+-+janeiro.xlsx,2026-09-02T13:48:20
+2026,FEVEREIRO,3,3,0,13880.25,13880.25,13880.25,sim,02+-+fevereiro.xlsx,2026-09-02T13:48:20
+2026,MARÇO,5,5,0,30440.50,30440.50,30440.50,sim,03+-+mar%C3%A7o.xlsx,2026-09-02T13:48:20
+2026,ABRIL,-1,0,,,0.00,,não,04+-+abril (0 bytes),2026-09-02T13:48:20
+2026,MAIO,4,4,0,9750.00,9750.00,9750.00,sim,05+-+maio.xlsx,2026-09-02T13:48:20
+2026,JUNHO,4,4,0,5720.00,5720.00,5720.00,sim,06+-+junho.xlsx,2026-09-02T13:48:20
+2026,JULHO,-1,0,,,0.00,,não,07+-+julho (0 bytes),2026-09-02T13:48:20
+2026,AGOSTO,3,4,-1,7930.00,9230.00,7930.00,não,08+-+agosto.xlsx,2026-09-02T13:48:20
+2026,SETEMBRO,1,1,0,1008.00,1008.00,1008.00,sim,09+-+setembro.xlsx,2026-09-02T13:48:20

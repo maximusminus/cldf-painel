@@ -1,0 +1,922 @@
+﻿ano,tipoProposicao,autor_id,autor,apresentadas,aprovadas,rejeitadas,pendentes,nao_se_aplica,inclassificavel
+2022,Indicação,14,Deputada Arlete Sampaio,14,0,0,0,14,0
+2022,Indicação,24,Deputada Jaqueline Silva,219,0,0,0,219,0
+2022,Indicação,54,Deputada Maria Antônia Rodrigues Magalhães (Professora Maria Antônia),24,0,0,0,24,0
+2022,Indicação,13,Deputado Agaciel Maia,37,0,0,0,37,0
+2022,Indicação,55,Deputado Carlos Alberto Rodrigues Tabanez,22,0,0,0,22,0
+2022,Indicação,15,Deputado Chico Vigilante,6,0,0,0,6,0
+2022,Indicação,16,Deputado Claudio Abrantes,10,0,0,0,10,0
+2022,Indicação,17,Deputado Daniel Donizet,153,0,0,0,153,0
+2022,Indicação,21,Deputado Delegado Fernando Fernandes,6,0,0,0,6,0
+2022,Indicação,19,Deputado Eduardo Pedrosa,99,0,0,0,99,0
+2022,Indicação,20,Deputado Fábio Felix,6,0,0,0,6,0
+2022,Indicação,22,Deputado Hermeto,30,0,0,0,30,0
+2022,Indicação,23,Deputado Iolando,29,0,0,0,29,0
+2022,Indicação,26,Deputado Jorge Vianna,20,0,0,0,20,0
+2022,Indicação,27,Deputado José Gomes,55,0,0,0,55,0
+2022,Indicação,25,Deputado João Cardoso ,12,0,0,0,12,0
+2022,Indicação,29,Deputado Leandro Grass,79,0,0,0,79,0
+2022,Indicação,30,Deputado Martins Machado,22,0,0,0,22,0
+2022,Indicação,32,Deputado Professor Reginaldo Veras,18,0,0,0,18,0
+2022,Indicação,31,Deputado Rafael Prudente,144,0,0,0,144,0
+2022,Indicação,35,Deputado Reginaldo Sardinha,47,0,0,0,47,0
+2022,Indicação,33,Deputado Robério Negreiros,74,0,0,0,74,0
+2022,Indicação,34,Deputado Roosevelt Vilela,15,0,0,0,15,0
+2022,Indicação,36,Deputado Valdelino Barcelos,2,0,0,0,2,0
+2022,Moção,14,Deputada Arlete Sampaio,11,0,0,0,11,0
+2022,Moção,24,Deputada Jaqueline Silva,31,0,0,0,31,0
+2022,Moção,28,Deputada Júlia Lucy,26,0,0,0,26,0
+2022,Moção,54,Deputada Maria Antônia Rodrigues Magalhães (Professora Maria Antônia),1,0,0,0,1,0
+2022,Moção,13,Deputado Agaciel Maia,383,0,0,0,383,0
+2022,Moção,55,Deputado Carlos Alberto Rodrigues Tabanez,3,0,0,0,3,0
+2022,Moção,15,Deputado Chico Vigilante,1,0,0,0,1,0
+2022,Moção,16,Deputado Claudio Abrantes,11,0,0,0,11,0
+2022,Moção,17,Deputado Daniel Donizet,3,0,0,0,3,0
+2022,Moção,21,Deputado Delegado Fernando Fernandes,1,0,0,0,1,0
+2022,Moção,18,Deputado Delmasso,62,0,0,0,62,0
+2022,Moção,19,Deputado Eduardo Pedrosa,16,0,0,0,16,0
+2022,Moção,20,Deputado Fábio Felix,4,0,0,0,4,0
+2022,Moção,22,Deputado Hermeto,57,0,0,0,57,0
+2022,Moção,23,Deputado Iolando,51,0,0,0,51,0
+2022,Moção,53,Deputado Janio Farias Marques (Guarda Janio),3,0,0,0,3,0
+2022,Moção,26,Deputado Jorge Vianna,61,0,0,0,61,0
+2022,Moção,27,Deputado José Gomes,7,0,0,0,7,0
+2022,Moção,25,Deputado João Cardoso ,13,0,0,0,13,0
+2022,Moção,29,Deputado Leandro Grass,45,0,0,0,45,0
+2022,Moção,30,Deputado Martins Machado,19,0,0,0,19,0
+2022,Moção,32,Deputado Professor Reginaldo Veras,11,0,0,0,11,0
+2022,Moção,31,Deputado Rafael Prudente,6,0,0,0,6,0
+2022,Moção,35,Deputado Reginaldo Sardinha,56,0,0,0,56,0
+2022,Moção,33,Deputado Robério Negreiros,7,0,0,0,7,0
+2022,Moção,34,Deputado Roosevelt Vilela,24,0,0,0,24,0
+2022,Moção,36,Deputado Valdelino Barcelos,2,0,0,0,2,0
+2022,Proc,6,Poder Executivo,7,0,0,7,0,0
+2022,Projeto de Decreto Legislativo,9,"Comissão de Economia, Orçamento e Finanças",5,0,0,5,0,0
+2022,Projeto de Decreto Legislativo,14,Deputada Arlete Sampaio,7,5,0,2,0,0
+2022,Projeto de Decreto Legislativo,24,Deputada Jaqueline Silva,4,1,0,3,0,0
+2022,Projeto de Decreto Legislativo,28,Deputada Júlia Lucy,2,0,0,2,0,0
+2022,Projeto de Decreto Legislativo,54,Deputada Maria Antônia Rodrigues Magalhães (Professora Maria Antônia),6,0,0,6,0,0
+2022,Projeto de Decreto Legislativo,13,Deputado Agaciel Maia,8,3,0,5,0,0
+2022,Projeto de Decreto Legislativo,15,Deputado Chico Vigilante,7,5,0,2,0,0
+2022,Projeto de Decreto Legislativo,16,Deputado Claudio Abrantes,5,0,0,5,0,0
+2022,Projeto de Decreto Legislativo,17,Deputado Daniel Donizet,2,0,0,2,0,0
+2022,Projeto de Decreto Legislativo,21,Deputado Delegado Fernando Fernandes,2,0,0,2,0,0
+2022,Projeto de Decreto Legislativo,18,Deputado Delmasso,13,1,0,12,0,0
+2022,Projeto de Decreto Legislativo,19,Deputado Eduardo Pedrosa,8,2,0,6,0,0
+2022,Projeto de Decreto Legislativo,20,Deputado Fábio Felix,4,3,0,1,0,0
+2022,Projeto de Decreto Legislativo,22,Deputado Hermeto,5,1,0,4,0,0
+2022,Projeto de Decreto Legislativo,23,Deputado Iolando,14,3,0,11,0,0
+2022,Projeto de Decreto Legislativo,53,Deputado Janio Farias Marques (Guarda Janio),6,0,0,6,0,0
+2022,Projeto de Decreto Legislativo,26,Deputado Jorge Vianna,4,0,0,4,0,0
+2022,Projeto de Decreto Legislativo,27,Deputado José Gomes,2,1,0,1,0,0
+2022,Projeto de Decreto Legislativo,25,Deputado João Cardoso ,6,3,0,3,0,0
+2022,Projeto de Decreto Legislativo,29,Deputado Leandro Grass,6,1,0,5,0,0
+2022,Projeto de Decreto Legislativo,30,Deputado Martins Machado,15,5,0,10,0,0
+2022,Projeto de Decreto Legislativo,32,Deputado Professor Reginaldo Veras,3,0,0,3,0,0
+2022,Projeto de Decreto Legislativo,31,Deputado Rafael Prudente,10,2,0,8,0,0
+2022,Projeto de Decreto Legislativo,35,Deputado Reginaldo Sardinha,4,2,0,2,0,0
+2022,Projeto de Decreto Legislativo,33,Deputado Robério Negreiros,12,4,0,8,0,0
+2022,Projeto de Decreto Legislativo,34,Deputado Roosevelt Vilela,5,1,0,4,0,0
+2022,Projeto de Decreto Legislativo,36,Deputado Valdelino Barcelos,5,2,0,3,0,0
+2022,Projeto de Lei,42,Defensoria Pública do Distrito Federal,4,1,0,3,0,0
+2022,Projeto de Lei,14,Deputada Arlete Sampaio,13,0,0,13,0,0
+2022,Projeto de Lei,24,Deputada Jaqueline Silva,9,0,0,9,0,0
+2022,Projeto de Lei,28,Deputada Júlia Lucy,16,0,0,16,0,0
+2022,Projeto de Lei,54,Deputada Maria Antônia Rodrigues Magalhães (Professora Maria Antônia),3,0,0,3,0,0
+2022,Projeto de Lei,13,Deputado Agaciel Maia,38,0,0,38,0,0
+2022,Projeto de Lei,55,Deputado Carlos Alberto Rodrigues Tabanez,49,0,0,49,0,0
+2022,Projeto de Lei,15,Deputado Chico Vigilante,17,3,0,14,0,0
+2022,Projeto de Lei,16,Deputado Claudio Abrantes,10,0,0,10,0,0
+2022,Projeto de Lei,17,Deputado Daniel Donizet,10,0,0,10,0,0
+2022,Projeto de Lei,21,Deputado Delegado Fernando Fernandes,12,0,0,12,0,0
+2022,Projeto de Lei,18,Deputado Delmasso,66,1,0,65,0,0
+2022,Projeto de Lei,19,Deputado Eduardo Pedrosa,10,4,0,6,0,0
+2022,Projeto de Lei,20,Deputado Fábio Felix,7,1,0,6,0,0
+2022,Projeto de Lei,22,Deputado Hermeto,11,0,0,11,0,0
+2022,Projeto de Lei,23,Deputado Iolando,23,5,0,18,0,0
+2022,Projeto de Lei,26,Deputado Jorge Vianna,14,0,0,14,0,0
+2022,Projeto de Lei,27,Deputado José Gomes,22,0,0,22,0,0
+2022,Projeto de Lei,25,Deputado João Cardoso ,18,1,0,17,0,0
+2022,Projeto de Lei,29,Deputado Leandro Grass,9,0,0,9,0,0
+2022,Projeto de Lei,30,Deputado Martins Machado,13,2,0,11,0,0
+2022,Projeto de Lei,32,Deputado Professor Reginaldo Veras,2,0,0,2,0,0
+2022,Projeto de Lei,31,Deputado Rafael Prudente,24,0,0,24,0,0
+2022,Projeto de Lei,35,Deputado Reginaldo Sardinha,57,0,0,57,0,0
+2022,Projeto de Lei,33,Deputado Robério Negreiros,51,4,0,47,0,0
+2022,Projeto de Lei,34,Deputado Roosevelt Vilela,21,2,0,19,0,0
+2022,Projeto de Lei,36,Deputado Valdelino Barcelos,6,0,0,6,0,0
+2022,Projeto de Lei,56,Mesa Diretora,1,1,0,0,0,0
+2022,Projeto de Lei,6,Poder Executivo,102,19,0,83,0,0
+2022,Projeto de Lei,7,Tribunal de Contas do Distrito Federal,2,0,0,2,0,0
+2022,Projeto de Lei Complementar,42,Defensoria Pública do Distrito Federal,1,1,0,0,0,0
+2022,Projeto de Lei Complementar,15,Deputado Chico Vigilante,1,0,0,1,0,0
+2022,Projeto de Lei Complementar,18,Deputado Delmasso,9,1,0,8,0,0
+2022,Projeto de Lei Complementar,20,Deputado Fábio Felix,1,1,0,0,0,0
+2022,Projeto de Lei Complementar,29,Deputado Leandro Grass,1,0,0,1,0,0
+2022,Projeto de Lei Complementar,35,Deputado Reginaldo Sardinha,5,0,0,5,0,0
+2022,Projeto de Lei Complementar,6,Poder Executivo,18,2,0,16,0,0
+2022,Projeto de Lei Complementar,7,Tribunal de Contas do Distrito Federal,1,1,0,0,0,0
+2022,Projeto de Resolução,14,Deputada Arlete Sampaio,2,0,0,2,0,0
+2022,Projeto de Resolução,28,Deputada Júlia Lucy,1,0,0,1,0,0
+2022,Projeto de Resolução,13,Deputado Agaciel Maia,2,0,0,2,0,0
+2022,Projeto de Resolução,16,Deputado Claudio Abrantes,1,0,0,1,0,0
+2022,Projeto de Resolução,18,Deputado Delmasso,3,0,0,3,0,0
+2022,Projeto de Resolução,19,Deputado Eduardo Pedrosa,1,0,0,1,0,0
+2022,Projeto de Resolução,23,Deputado Iolando,2,0,0,2,0,0
+2022,Projeto de Resolução,26,Deputado Jorge Vianna,1,0,0,1,0,0
+2022,Projeto de Resolução,29,Deputado Leandro Grass,1,0,0,1,0,0
+2022,Projeto de Resolução,30,Deputado Martins Machado,1,0,0,1,0,0
+2022,Projeto de Resolução,32,Deputado Professor Reginaldo Veras,1,0,0,1,0,0
+2022,Projeto de Resolução,31,Deputado Rafael Prudente,2,0,0,2,0,0
+2022,Projeto de Resolução,35,Deputado Reginaldo Sardinha,2,0,0,2,0,0
+2022,Projeto de Resolução,33,Deputado Robério Negreiros,2,0,0,2,0,0
+2022,Projeto de Resolução,36,Deputado Valdelino Barcelos,1,0,0,1,0,0
+2022,Projeto de Resolução,56,Mesa Diretora,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,14,Deputada Arlete Sampaio,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,24,Deputada Jaqueline Silva,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,28,Deputada Júlia Lucy,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,13,Deputado Agaciel Maia,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,15,Deputado Chico Vigilante,3,0,0,3,0,0
+2022,Proposta de Emenda à Lei Orgânica,16,Deputado Claudio Abrantes,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,17,Deputado Daniel Donizet,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,18,Deputado Delmasso,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,19,Deputado Eduardo Pedrosa,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,20,Deputado Fábio Felix,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,22,Deputado Hermeto,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,23,Deputado Iolando,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,26,Deputado Jorge Vianna,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,27,Deputado José Gomes,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,25,Deputado João Cardoso ,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,29,Deputado Leandro Grass,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,30,Deputado Martins Machado,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,32,Deputado Professor Reginaldo Veras,3,0,0,3,0,0
+2022,Proposta de Emenda à Lei Orgânica,35,Deputado Reginaldo Sardinha,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,33,Deputado Robério Negreiros,2,0,0,2,0,0
+2022,Proposta de Emenda à Lei Orgânica,34,Deputado Roosevelt Vilela,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,36,Deputado Valdelino Barcelos,1,0,0,1,0,0
+2022,Proposta de Emenda à Lei Orgânica,6,Poder Executivo,2,0,0,2,0,0
+2022,Recurso,28,Deputada Júlia Lucy,1,0,0,0,1,0
+2022,Requerimento,48,Comissão de Educação Saúde e Cultura,5,0,0,0,5,0
+2022,Requerimento,42,Defensoria Pública do Distrito Federal,1,0,0,0,1,0
+2022,Requerimento,14,Deputada Arlete Sampaio,63,0,0,0,63,0
+2022,Requerimento,24,Deputada Jaqueline Silva,43,0,0,0,43,0
+2022,Requerimento,28,Deputada Júlia Lucy,103,0,0,0,103,0
+2022,Requerimento,54,Deputada Maria Antônia Rodrigues Magalhães (Professora Maria Antônia),4,0,0,0,4,0
+2022,Requerimento,13,Deputado Agaciel Maia,55,0,0,0,55,0
+2022,Requerimento,55,Deputado Carlos Alberto Rodrigues Tabanez,2,0,0,0,2,0
+2022,Requerimento,15,Deputado Chico Vigilante,42,0,0,0,42,0
+2022,Requerimento,16,Deputado Claudio Abrantes,54,0,0,0,54,0
+2022,Requerimento,17,Deputado Daniel Donizet,10,0,0,0,10,0
+2022,Requerimento,21,Deputado Delegado Fernando Fernandes,7,0,0,0,7,0
+2022,Requerimento,18,Deputado Delmasso,22,0,0,0,22,0
+2022,Requerimento,19,Deputado Eduardo Pedrosa,63,0,0,0,63,0
+2022,Requerimento,20,Deputado Fábio Felix,44,0,0,0,44,0
+2022,Requerimento,22,Deputado Hermeto,15,0,0,0,15,0
+2022,Requerimento,23,Deputado Iolando,31,0,0,0,31,0
+2022,Requerimento,53,Deputado Janio Farias Marques (Guarda Janio),15,0,0,0,15,0
+2022,Requerimento,26,Deputado Jorge Vianna,44,0,0,0,44,0
+2022,Requerimento,27,Deputado José Gomes,20,0,0,0,20,0
+2022,Requerimento,25,Deputado João Cardoso ,49,0,0,0,49,0
+2022,Requerimento,29,Deputado Leandro Grass,197,0,0,0,197,0
+2022,Requerimento,30,Deputado Martins Machado,36,0,0,0,36,0
+2022,Requerimento,32,Deputado Professor Reginaldo Veras,72,0,0,0,72,0
+2022,Requerimento,31,Deputado Rafael Prudente,28,0,0,0,28,0
+2022,Requerimento,35,Deputado Reginaldo Sardinha,53,0,0,0,53,0
+2022,Requerimento,33,Deputado Robério Negreiros,42,0,0,0,42,0
+2022,Requerimento,34,Deputado Roosevelt Vilela,59,0,0,0,59,0
+2022,Requerimento,36,Deputado Valdelino Barcelos,49,0,0,0,49,0
+2023,Indicação,60,Deputada Dayse Amarilio,286,0,0,0,286,0
+2023,Indicação,61,Deputada Doutora Jane,134,0,0,0,134,0
+2023,Indicação,24,Deputada Jaqueline Silva,1340,0,0,0,1340,0
+2023,Indicação,64,Deputada Paula Belmonte,118,0,0,0,118,0
+2023,Indicação,15,Deputado Chico Vigilante,88,0,0,0,88,0
+2023,Indicação,17,Deputado Daniel Donizet,199,0,0,0,199,0
+2023,Indicação,19,Deputado Eduardo Pedrosa,219,0,0,0,219,0
+2023,Indicação,20,Deputado Fábio Felix,69,0,0,0,69,0
+2023,Indicação,68,Deputado Gabriel Magno,130,0,0,0,130,0
+2023,Indicação,22,Deputado Hermeto,124,0,0,0,124,0
+2023,Indicação,23,Deputado Iolando,54,0,0,0,54,0
+2023,Indicação,62,Deputado Joaquim Roriz Neto,465,0,0,0,465,0
+2023,Indicação,26,Deputado Jorge Vianna,46,0,0,0,46,0
+2023,Indicação,25,Deputado João Cardoso ,66,0,0,0,66,0
+2023,Indicação,30,Deputado Martins Machado,49,0,0,0,49,0
+2023,Indicação,63,Deputado Max Maciel,110,0,0,0,110,0
+2023,Indicação,59,Deputado Pastor Daniel de Castro,178,0,0,0,178,0
+2023,Indicação,65,Deputado Pepa,82,0,0,0,82,0
+2023,Indicação,31,Deputado Rafael Prudente,1,0,0,0,1,0
+2023,Indicação,57,Deputado Ricardo Vale,182,0,0,0,182,0
+2023,Indicação,33,Deputado Robério Negreiros,129,0,0,0,129,0
+2023,Indicação,67,Deputado Rogério Morro da Cruz,136,0,0,0,136,0
+2023,Indicação,34,Deputado Roosevelt Vilela,19,0,0,0,19,0
+2023,Indicação,66,Deputado Thiago Manzoni,3,0,0,0,3,0
+2023,Indicação,58,Deputado Wellington Luiz,94,0,0,0,94,0
+2023,Moção,48,Comissão de Educação Saúde e Cultura,4,0,0,0,4,0
+2023,Moção,60,Deputada Dayse Amarilio,37,0,0,0,37,0
+2023,Moção,61,Deputada Doutora Jane,23,0,0,0,23,0
+2023,Moção,24,Deputada Jaqueline Silva,65,1,0,0,64,0
+2023,Moção,64,Deputada Paula Belmonte,27,0,0,0,27,0
+2023,Moção,15,Deputado Chico Vigilante,4,0,0,0,4,0
+2023,Moção,17,Deputado Daniel Donizet,27,0,0,0,27,0
+2023,Moção,19,Deputado Eduardo Pedrosa,23,2,0,0,21,0
+2023,Moção,20,Deputado Fábio Felix,22,0,0,0,22,0
+2023,Moção,68,Deputado Gabriel Magno,41,0,0,0,41,0
+2023,Moção,22,Deputado Hermeto,37,0,0,0,37,0
+2023,Moção,23,Deputado Iolando,16,0,0,0,16,0
+2023,Moção,62,Deputado Joaquim Roriz Neto,23,0,0,0,23,0
+2023,Moção,26,Deputado Jorge Vianna,77,0,0,0,77,0
+2023,Moção,25,Deputado João Cardoso ,12,0,0,0,12,0
+2023,Moção,30,Deputado Martins Machado,19,0,0,0,19,0
+2023,Moção,63,Deputado Max Maciel,12,0,0,0,12,0
+2023,Moção,59,Deputado Pastor Daniel de Castro,54,0,0,0,54,0
+2023,Moção,65,Deputado Pepa,19,1,0,0,18,0
+2023,Moção,57,Deputado Ricardo Vale,13,0,0,0,13,0
+2023,Moção,33,Deputado Robério Negreiros,19,1,0,0,18,0
+2023,Moção,67,Deputado Rogério Morro da Cruz,17,0,0,0,17,0
+2023,Moção,34,Deputado Roosevelt Vilela,35,0,0,0,35,0
+2023,Moção,66,Deputado Thiago Manzoni,13,0,0,0,13,0
+2023,Moção,58,Deputado Wellington Luiz,14,0,0,0,14,0
+2023,Proc,6,Poder Executivo,17,2,0,15,0,0
+2023,Projeto de Decreto Legislativo,9,"Comissão de Economia, Orçamento e Finanças",4,3,0,1,0,0
+2023,Projeto de Decreto Legislativo,60,Deputada Dayse Amarilio,4,2,0,2,0,0
+2023,Projeto de Decreto Legislativo,61,Deputada Doutora Jane,9,7,0,2,0,0
+2023,Projeto de Decreto Legislativo,24,Deputada Jaqueline Silva,5,3,0,2,0,0
+2023,Projeto de Decreto Legislativo,64,Deputada Paula Belmonte,15,7,0,8,0,0
+2023,Projeto de Decreto Legislativo,15,Deputado Chico Vigilante,7,3,0,4,0,0
+2023,Projeto de Decreto Legislativo,17,Deputado Daniel Donizet,4,4,0,0,0,0
+2023,Projeto de Decreto Legislativo,19,Deputado Eduardo Pedrosa,13,12,0,1,0,0
+2023,Projeto de Decreto Legislativo,20,Deputado Fábio Felix,3,2,0,1,0,0
+2023,Projeto de Decreto Legislativo,68,Deputado Gabriel Magno,14,6,0,8,0,0
+2023,Projeto de Decreto Legislativo,22,Deputado Hermeto,3,2,0,1,0,0
+2023,Projeto de Decreto Legislativo,23,Deputado Iolando,5,2,0,3,0,0
+2023,Projeto de Decreto Legislativo,62,Deputado Joaquim Roriz Neto,5,2,0,3,0,0
+2023,Projeto de Decreto Legislativo,26,Deputado Jorge Vianna,8,6,0,2,0,0
+2023,Projeto de Decreto Legislativo,25,Deputado João Cardoso ,7,4,0,3,0,0
+2023,Projeto de Decreto Legislativo,30,Deputado Martins Machado,4,1,0,3,0,0
+2023,Projeto de Decreto Legislativo,63,Deputado Max Maciel,7,4,0,3,0,0
+2023,Projeto de Decreto Legislativo,59,Deputado Pastor Daniel de Castro,24,10,0,14,0,0
+2023,Projeto de Decreto Legislativo,65,Deputado Pepa,10,6,0,4,0,0
+2023,Projeto de Decreto Legislativo,57,Deputado Ricardo Vale,11,6,0,5,0,0
+2023,Projeto de Decreto Legislativo,33,Deputado Robério Negreiros,9,7,0,2,0,0
+2023,Projeto de Decreto Legislativo,67,Deputado Rogério Morro da Cruz,7,4,0,3,0,0
+2023,Projeto de Decreto Legislativo,34,Deputado Roosevelt Vilela,11,7,0,4,0,0
+2023,Projeto de Decreto Legislativo,66,Deputado Thiago Manzoni,10,2,0,8,0,0
+2023,Projeto de Decreto Legislativo,58,Deputado Wellington Luiz,14,5,0,9,0,0
+2023,Projeto de Lei,42,Defensoria Pública do Distrito Federal,7,1,0,6,0,0
+2023,Projeto de Lei,60,Deputada Dayse Amarilio,21,4,0,17,0,0
+2023,Projeto de Lei,61,Deputada Doutora Jane,22,7,0,15,0,0
+2023,Projeto de Lei,24,Deputada Jaqueline Silva,32,5,0,27,0,0
+2023,Projeto de Lei,64,Deputada Paula Belmonte,70,9,0,61,0,0
+2023,Projeto de Lei,15,Deputado Chico Vigilante,9,2,0,7,0,0
+2023,Projeto de Lei,17,Deputado Daniel Donizet,10,1,0,9,0,0
+2023,Projeto de Lei,19,Deputado Eduardo Pedrosa,39,5,0,34,0,0
+2023,Projeto de Lei,20,Deputado Fábio Felix,20,4,0,16,0,0
+2023,Projeto de Lei,68,Deputado Gabriel Magno,55,8,0,47,0,0
+2023,Projeto de Lei,22,Deputado Hermeto,22,2,0,20,0,0
+2023,Projeto de Lei,23,Deputado Iolando,48,3,0,45,0,0
+2023,Projeto de Lei,62,Deputado Joaquim Roriz Neto,52,11,0,41,0,0
+2023,Projeto de Lei,26,Deputado Jorge Vianna,23,4,0,19,0,0
+2023,Projeto de Lei,25,Deputado João Cardoso ,33,5,0,28,0,0
+2023,Projeto de Lei,30,Deputado Martins Machado,17,3,0,14,0,0
+2023,Projeto de Lei,63,Deputado Max Maciel,15,8,0,7,0,0
+2023,Projeto de Lei,59,Deputado Pastor Daniel de Castro,83,10,0,73,0,0
+2023,Projeto de Lei,65,Deputado Pepa,19,8,0,11,0,0
+2023,Projeto de Lei,57,Deputado Ricardo Vale,30,9,0,21,0,0
+2023,Projeto de Lei,33,Deputado Robério Negreiros,41,6,0,35,0,0
+2023,Projeto de Lei,67,Deputado Rogério Morro da Cruz,48,8,0,40,0,0
+2023,Projeto de Lei,34,Deputado Roosevelt Vilela,23,2,0,21,0,0
+2023,Projeto de Lei,66,Deputado Thiago Manzoni,21,7,0,14,0,0
+2023,Projeto de Lei,58,Deputado Wellington Luiz,23,9,0,14,0,0
+2023,Projeto de Lei,56,Mesa Diretora,2,0,0,2,0,0
+2023,Projeto de Lei,6,Poder Executivo,87,56,0,31,0,0
+2023,Projeto de Lei,7,Tribunal de Contas do Distrito Federal,6,2,0,4,0,0
+2023,Projeto de Lei Complementar,60,Deputada Dayse Amarilio,3,0,0,3,0,0
+2023,Projeto de Lei Complementar,24,Deputada Jaqueline Silva,1,0,0,1,0,0
+2023,Projeto de Lei Complementar,64,Deputada Paula Belmonte,3,1,0,2,0,0
+2023,Projeto de Lei Complementar,20,Deputado Fábio Felix,2,1,0,1,0,0
+2023,Projeto de Lei Complementar,68,Deputado Gabriel Magno,5,1,0,4,0,0
+2023,Projeto de Lei Complementar,26,Deputado Jorge Vianna,2,0,0,2,0,0
+2023,Projeto de Lei Complementar,25,Deputado João Cardoso ,1,0,0,1,0,0
+2023,Projeto de Lei Complementar,63,Deputado Max Maciel,2,1,0,1,0,0
+2023,Projeto de Lei Complementar,59,Deputado Pastor Daniel de Castro,3,0,0,3,0,0
+2023,Projeto de Lei Complementar,67,Deputado Rogério Morro da Cruz,8,1,0,7,0,0
+2023,Projeto de Lei Complementar,66,Deputado Thiago Manzoni,2,0,0,2,0,0
+2023,Projeto de Lei Complementar,58,Deputado Wellington Luiz,1,0,0,1,0,0
+2023,Projeto de Lei Complementar,6,Poder Executivo,8,5,0,3,0,0
+2023,Projeto de Resolução,60,Deputada Dayse Amarilio,6,1,0,5,0,0
+2023,Projeto de Resolução,61,Deputada Doutora Jane,10,2,0,8,0,0
+2023,Projeto de Resolução,24,Deputada Jaqueline Silva,3,1,0,2,0,0
+2023,Projeto de Resolução,64,Deputada Paula Belmonte,10,1,0,9,0,0
+2023,Projeto de Resolução,15,Deputado Chico Vigilante,1,1,0,0,0,0
+2023,Projeto de Resolução,17,Deputado Daniel Donizet,3,1,0,2,0,0
+2023,Projeto de Resolução,19,Deputado Eduardo Pedrosa,6,1,0,5,0,0
+2023,Projeto de Resolução,20,Deputado Fábio Felix,3,1,0,2,0,0
+2023,Projeto de Resolução,68,Deputado Gabriel Magno,4,1,0,3,0,0
+2023,Projeto de Resolução,22,Deputado Hermeto,5,2,0,3,0,0
+2023,Projeto de Resolução,23,Deputado Iolando,6,2,0,4,0,0
+2023,Projeto de Resolução,62,Deputado Joaquim Roriz Neto,6,2,0,4,0,0
+2023,Projeto de Resolução,26,Deputado Jorge Vianna,4,0,0,4,0,0
+2023,Projeto de Resolução,25,Deputado João Cardoso ,7,2,0,5,0,0
+2023,Projeto de Resolução,30,Deputado Martins Machado,5,1,0,4,0,0
+2023,Projeto de Resolução,63,Deputado Max Maciel,4,1,0,3,0,0
+2023,Projeto de Resolução,59,Deputado Pastor Daniel de Castro,14,3,0,11,0,0
+2023,Projeto de Resolução,65,Deputado Pepa,8,2,0,6,0,0
+2023,Projeto de Resolução,57,Deputado Ricardo Vale,5,1,0,4,0,0
+2023,Projeto de Resolução,33,Deputado Robério Negreiros,5,1,0,4,0,0
+2023,Projeto de Resolução,67,Deputado Rogério Morro da Cruz,6,1,0,5,0,0
+2023,Projeto de Resolução,34,Deputado Roosevelt Vilela,9,3,0,6,0,0
+2023,Projeto de Resolução,66,Deputado Thiago Manzoni,4,1,0,3,0,0
+2023,Projeto de Resolução,58,Deputado Wellington Luiz,12,3,0,9,0,0
+2023,Projeto de Resolução,56,Mesa Diretora,5,2,0,3,0,0
+2023,Proposta de Emenda à Lei Orgânica,60,Deputada Dayse Amarilio,5,1,0,4,0,0
+2023,Proposta de Emenda à Lei Orgânica,61,Deputada Doutora Jane,6,1,0,5,0,0
+2023,Proposta de Emenda à Lei Orgânica,24,Deputada Jaqueline Silva,1,1,0,0,0,0
+2023,Proposta de Emenda à Lei Orgânica,64,Deputada Paula Belmonte,4,0,0,4,0,0
+2023,Proposta de Emenda à Lei Orgânica,15,Deputado Chico Vigilante,3,1,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,19,Deputado Eduardo Pedrosa,2,0,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,20,Deputado Fábio Felix,3,1,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,68,Deputado Gabriel Magno,4,1,0,3,0,0
+2023,Proposta de Emenda à Lei Orgânica,22,Deputado Hermeto,2,1,0,1,0,0
+2023,Proposta de Emenda à Lei Orgânica,23,Deputado Iolando,3,0,0,3,0,0
+2023,Proposta de Emenda à Lei Orgânica,62,Deputado Joaquim Roriz Neto,5,1,0,4,0,0
+2023,Proposta de Emenda à Lei Orgânica,26,Deputado Jorge Vianna,2,0,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,25,Deputado João Cardoso ,1,0,0,1,0,0
+2023,Proposta de Emenda à Lei Orgânica,30,Deputado Martins Machado,1,1,0,0,0,0
+2023,Proposta de Emenda à Lei Orgânica,63,Deputado Max Maciel,5,1,0,4,0,0
+2023,Proposta de Emenda à Lei Orgânica,59,Deputado Pastor Daniel de Castro,6,1,0,5,0,0
+2023,Proposta de Emenda à Lei Orgânica,65,Deputado Pepa,5,1,0,4,0,0
+2023,Proposta de Emenda à Lei Orgânica,57,Deputado Ricardo Vale,4,1,0,3,0,0
+2023,Proposta de Emenda à Lei Orgânica,33,Deputado Robério Negreiros,2,0,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,67,Deputado Rogério Morro da Cruz,3,1,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,34,Deputado Roosevelt Vilela,2,1,0,1,0,0
+2023,Proposta de Emenda à Lei Orgânica,66,Deputado Thiago Manzoni,2,1,0,1,0,0
+2023,Proposta de Emenda à Lei Orgânica,58,Deputado Wellington Luiz,4,2,0,2,0,0
+2023,Proposta de Emenda à Lei Orgânica,6,Poder Executivo,1,1,0,0,0,0
+2023,Questão de Ordem,46,"Comissão de Defesa dos Direitos Humanos, Cidadania e Legislação Participativa",1,0,0,0,1,0
+2023,Recurso,60,Deputada Dayse Amarilio,1,0,0,0,1,0
+2023,Recurso,64,Deputada Paula Belmonte,4,0,0,0,4,0
+2023,Recurso,15,Deputado Chico Vigilante,1,0,0,0,1,0
+2023,Recurso,20,Deputado Fábio Felix,1,0,0,0,1,0
+2023,Recurso,68,Deputado Gabriel Magno,2,0,0,0,2,0
+2023,Recurso,22,Deputado Hermeto,1,0,0,0,1,0
+2023,Recurso,23,Deputado Iolando,3,0,0,0,3,0
+2023,Recurso,62,Deputado Joaquim Roriz Neto,2,0,0,0,2,0
+2023,Recurso,63,Deputado Max Maciel,2,0,0,0,2,0
+2023,Recurso,59,Deputado Pastor Daniel de Castro,3,0,0,0,3,0
+2023,Recurso,65,Deputado Pepa,2,0,0,0,2,0
+2023,Recurso,33,Deputado Robério Negreiros,2,0,0,0,2,0
+2023,Recurso,34,Deputado Roosevelt Vilela,1,0,0,0,1,0
+2023,Recurso,66,Deputado Thiago Manzoni,2,0,0,0,2,0
+2023,Requerimento,8,Comissão de Constituição e Justiça,1,0,0,0,1,0
+2023,Requerimento,48,Comissão de Educação Saúde e Cultura,3,0,0,0,3,0
+2023,Requerimento,49,Comissão de Fiscalização Governança Transparência Controle,26,0,0,0,26,0
+2023,Requerimento,51,Comissão de Transporte e Mobilidade Urbana,3,0,0,0,3,0
+2023,Requerimento,42,Defensoria Pública do Distrito Federal,3,0,0,0,3,0
+2023,Requerimento,60,Deputada Dayse Amarilio,331,1,0,0,330,0
+2023,Requerimento,61,Deputada Doutora Jane,129,1,0,0,128,0
+2023,Requerimento,24,Deputada Jaqueline Silva,124,0,0,0,124,0
+2023,Requerimento,64,Deputada Paula Belmonte,280,1,0,0,279,0
+2023,Requerimento,15,Deputado Chico Vigilante,77,1,0,0,76,0
+2023,Requerimento,17,Deputado Daniel Donizet,50,0,0,0,50,0
+2023,Requerimento,19,Deputado Eduardo Pedrosa,193,0,0,0,193,0
+2023,Requerimento,20,Deputado Fábio Felix,142,2,0,0,140,0
+2023,Requerimento,68,Deputado Gabriel Magno,229,2,0,0,227,0
+2023,Requerimento,22,Deputado Hermeto,121,0,0,0,121,0
+2023,Requerimento,23,Deputado Iolando,117,0,0,0,117,0
+2023,Requerimento,62,Deputado Joaquim Roriz Neto,121,0,0,0,121,0
+2023,Requerimento,26,Deputado Jorge Vianna,103,0,0,0,103,0
+2023,Requerimento,25,Deputado João Cardoso ,138,1,0,0,137,0
+2023,Requerimento,30,Deputado Martins Machado,131,1,0,0,130,0
+2023,Requerimento,63,Deputado Max Maciel,188,0,0,0,188,0
+2023,Requerimento,59,Deputado Pastor Daniel de Castro,235,0,0,0,235,0
+2023,Requerimento,65,Deputado Pepa,160,0,0,0,160,0
+2023,Requerimento,57,Deputado Ricardo Vale,176,1,0,0,175,0
+2023,Requerimento,33,Deputado Robério Negreiros,176,0,0,0,176,0
+2023,Requerimento,67,Deputado Rogério Morro da Cruz,115,0,0,0,115,0
+2023,Requerimento,34,Deputado Roosevelt Vilela,165,0,0,0,165,0
+2023,Requerimento,66,Deputado Thiago Manzoni,108,0,0,0,108,0
+2023,Requerimento,58,Deputado Wellington Luiz,63,1,0,0,62,0
+2023,Requerimento,56,Mesa Diretora,1,0,0,0,1,0
+2024,Indicação,51,Comissão de Transporte e Mobilidade Urbana,1,0,0,0,1,0
+2024,Indicação,60,Deputada Dayse Amarilio,84,0,0,0,84,0
+2024,Indicação,61,Deputada Doutora Jane,74,0,0,0,74,0
+2024,Indicação,24,Deputada Jaqueline Silva,638,0,0,0,638,0
+2024,Indicação,64,Deputada Paula Belmonte,8,0,0,0,8,0
+2024,Indicação,15,Deputado Chico Vigilante,10,0,0,0,10,0
+2024,Indicação,17,Deputado Daniel Donizet,45,0,0,0,45,0
+2024,Indicação,19,Deputado Eduardo Pedrosa,36,0,0,0,36,0
+2024,Indicação,20,Deputado Fábio Felix,30,0,0,0,30,0
+2024,Indicação,68,Deputado Gabriel Magno,11,0,0,0,11,0
+2024,Indicação,22,Deputado Hermeto,168,0,0,0,168,0
+2024,Indicação,23,Deputado Iolando,22,0,0,0,22,0
+2024,Indicação,62,Deputado Joaquim Roriz Neto,1048,0,0,0,1048,0
+2024,Indicação,26,Deputado Jorge Vianna,46,0,0,0,46,0
+2024,Indicação,25,Deputado João Cardoso ,16,0,0,0,16,0
+2024,Indicação,30,Deputado Martins Machado,2,0,0,0,2,0
+2024,Indicação,63,Deputado Max Maciel,72,0,0,0,72,0
+2024,Indicação,59,Deputado Pastor Daniel de Castro,56,0,0,0,56,0
+2024,Indicação,65,Deputado Pepa,113,0,0,0,113,0
+2024,Indicação,57,Deputado Ricardo Vale,89,0,0,0,89,0
+2024,Indicação,33,Deputado Robério Negreiros,58,0,0,0,58,0
+2024,Indicação,67,Deputado Rogério Morro da Cruz,69,0,0,0,69,0
+2024,Indicação,66,Deputado Thiago Manzoni,17,0,0,0,17,0
+2024,Indicação,58,Deputado Wellington Luiz,31,0,0,0,31,0
+2024,Moção,60,Deputada Dayse Amarilio,43,0,0,0,43,0
+2024,Moção,61,Deputada Doutora Jane,55,0,0,0,55,0
+2024,Moção,24,Deputada Jaqueline Silva,41,0,0,0,41,0
+2024,Moção,64,Deputada Paula Belmonte,29,0,0,0,29,0
+2024,Moção,15,Deputado Chico Vigilante,12,0,0,0,12,0
+2024,Moção,17,Deputado Daniel Donizet,3,0,0,0,3,0
+2024,Moção,19,Deputado Eduardo Pedrosa,20,0,0,0,20,0
+2024,Moção,20,Deputado Fábio Felix,19,0,0,0,19,0
+2024,Moção,68,Deputado Gabriel Magno,57,0,0,0,57,0
+2024,Moção,22,Deputado Hermeto,40,0,0,0,40,0
+2024,Moção,23,Deputado Iolando,15,0,0,0,15,0
+2024,Moção,62,Deputado Joaquim Roriz Neto,3,0,0,0,3,0
+2024,Moção,26,Deputado Jorge Vianna,50,0,0,0,50,0
+2024,Moção,25,Deputado João Cardoso ,20,0,0,0,20,0
+2024,Moção,30,Deputado Martins Machado,52,0,0,0,52,0
+2024,Moção,63,Deputado Max Maciel,21,0,0,0,21,0
+2024,Moção,59,Deputado Pastor Daniel de Castro,62,0,0,0,62,0
+2024,Moção,65,Deputado Pepa,7,0,0,0,7,0
+2024,Moção,57,Deputado Ricardo Vale,24,0,0,0,24,0
+2024,Moção,33,Deputado Robério Negreiros,7,0,0,0,7,0
+2024,Moção,67,Deputado Rogério Morro da Cruz,11,0,0,0,11,0
+2024,Moção,34,Deputado Roosevelt Vilela,37,0,0,0,37,0
+2024,Moção,66,Deputado Thiago Manzoni,30,0,0,0,30,0
+2024,Moção,58,Deputado Wellington Luiz,20,0,0,0,20,0
+2024,Proc,6,Poder Executivo,10,1,0,9,0,0
+2024,Projeto de Decreto Legislativo,9,"Comissão de Economia, Orçamento e Finanças",2,2,0,0,0,0
+2024,Projeto de Decreto Legislativo,60,Deputada Dayse Amarilio,8,2,0,6,0,0
+2024,Projeto de Decreto Legislativo,61,Deputada Doutora Jane,2,1,0,1,0,0
+2024,Projeto de Decreto Legislativo,24,Deputada Jaqueline Silva,5,2,0,3,0,0
+2024,Projeto de Decreto Legislativo,64,Deputada Paula Belmonte,11,10,0,1,0,0
+2024,Projeto de Decreto Legislativo,15,Deputado Chico Vigilante,5,4,0,1,0,0
+2024,Projeto de Decreto Legislativo,17,Deputado Daniel Donizet,3,2,0,1,0,0
+2024,Projeto de Decreto Legislativo,19,Deputado Eduardo Pedrosa,10,8,0,2,0,0
+2024,Projeto de Decreto Legislativo,20,Deputado Fábio Felix,2,1,0,1,0,0
+2024,Projeto de Decreto Legislativo,68,Deputado Gabriel Magno,11,4,0,7,0,0
+2024,Projeto de Decreto Legislativo,22,Deputado Hermeto,13,6,0,7,0,0
+2024,Projeto de Decreto Legislativo,23,Deputado Iolando,6,3,0,3,0,0
+2024,Projeto de Decreto Legislativo,62,Deputado Joaquim Roriz Neto,6,4,0,2,0,0
+2024,Projeto de Decreto Legislativo,26,Deputado Jorge Vianna,3,1,0,2,0,0
+2024,Projeto de Decreto Legislativo,25,Deputado João Cardoso ,5,3,0,2,0,0
+2024,Projeto de Decreto Legislativo,30,Deputado Martins Machado,13,6,0,7,0,0
+2024,Projeto de Decreto Legislativo,63,Deputado Max Maciel,9,6,0,3,0,0
+2024,Projeto de Decreto Legislativo,59,Deputado Pastor Daniel de Castro,23,17,0,6,0,0
+2024,Projeto de Decreto Legislativo,65,Deputado Pepa,13,7,0,6,0,0
+2024,Projeto de Decreto Legislativo,57,Deputado Ricardo Vale,8,4,0,4,0,0
+2024,Projeto de Decreto Legislativo,33,Deputado Robério Negreiros,5,4,0,1,0,0
+2024,Projeto de Decreto Legislativo,67,Deputado Rogério Morro da Cruz,10,6,0,4,0,0
+2024,Projeto de Decreto Legislativo,34,Deputado Roosevelt Vilela,8,3,0,5,0,0
+2024,Projeto de Decreto Legislativo,66,Deputado Thiago Manzoni,11,6,1,4,0,0
+2024,Projeto de Decreto Legislativo,58,Deputado Wellington Luiz,21,15,0,6,0,0
+2024,Projeto de Lei,51,Comissão de Transporte e Mobilidade Urbana,1,1,0,0,0,0
+2024,Projeto de Lei,42,Defensoria Pública do Distrito Federal,2,2,0,0,0,0
+2024,Projeto de Lei,60,Deputada Dayse Amarilio,11,5,0,6,0,0
+2024,Projeto de Lei,61,Deputada Doutora Jane,23,7,0,16,0,0
+2024,Projeto de Lei,24,Deputada Jaqueline Silva,24,5,0,19,0,0
+2024,Projeto de Lei,64,Deputada Paula Belmonte,25,3,1,21,0,0
+2024,Projeto de Lei,15,Deputado Chico Vigilante,14,3,0,11,0,0
+2024,Projeto de Lei,19,Deputado Eduardo Pedrosa,19,2,0,17,0,0
+2024,Projeto de Lei,20,Deputado Fábio Felix,22,1,0,21,0,0
+2024,Projeto de Lei,68,Deputado Gabriel Magno,17,3,0,14,0,0
+2024,Projeto de Lei,22,Deputado Hermeto,26,4,1,21,0,0
+2024,Projeto de Lei,23,Deputado Iolando,43,2,0,41,0,0
+2024,Projeto de Lei,62,Deputado Joaquim Roriz Neto,14,2,0,12,0,0
+2024,Projeto de Lei,26,Deputado Jorge Vianna,21,4,0,17,0,0
+2024,Projeto de Lei,25,Deputado João Cardoso ,18,4,0,14,0,0
+2024,Projeto de Lei,30,Deputado Martins Machado,8,3,0,5,0,0
+2024,Projeto de Lei,63,Deputado Max Maciel,21,6,0,15,0,0
+2024,Projeto de Lei,59,Deputado Pastor Daniel de Castro,84,6,0,78,0,0
+2024,Projeto de Lei,65,Deputado Pepa,11,6,0,5,0,0
+2024,Projeto de Lei,57,Deputado Ricardo Vale,18,6,0,12,0,0
+2024,Projeto de Lei,33,Deputado Robério Negreiros,26,2,0,24,0,0
+2024,Projeto de Lei,67,Deputado Rogério Morro da Cruz,33,4,0,29,0,0
+2024,Projeto de Lei,34,Deputado Roosevelt Vilela,15,3,0,12,0,0
+2024,Projeto de Lei,66,Deputado Thiago Manzoni,14,4,0,10,0,0
+2024,Projeto de Lei,58,Deputado Wellington Luiz,37,9,0,28,0,0
+2024,Projeto de Lei,56,Mesa Diretora,3,3,0,0,0,0
+2024,Projeto de Lei,6,Poder Executivo,108,93,0,15,0,0
+2024,Projeto de Lei,7,Tribunal de Contas do Distrito Federal,3,3,0,0,0,0
+2024,Projeto de Lei Complementar,60,Deputada Dayse Amarilio,2,0,0,2,0,0
+2024,Projeto de Lei Complementar,24,Deputada Jaqueline Silva,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,23,Deputado Iolando,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,62,Deputado Joaquim Roriz Neto,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,63,Deputado Max Maciel,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,59,Deputado Pastor Daniel de Castro,6,0,0,6,0,0
+2024,Projeto de Lei Complementar,66,Deputado Thiago Manzoni,1,0,0,1,0,0
+2024,Projeto de Lei Complementar,6,Poder Executivo,10,7,0,3,0,0
+2024,Projeto de Resolução,69,Comissão de Produção Rural e Abastecimento,1,0,0,1,0,0
+2024,Projeto de Resolução,60,Deputada Dayse Amarilio,7,3,0,4,0,0
+2024,Projeto de Resolução,61,Deputada Doutora Jane,3,0,0,3,0,0
+2024,Projeto de Resolução,24,Deputada Jaqueline Silva,3,0,0,3,0,0
+2024,Projeto de Resolução,64,Deputada Paula Belmonte,8,1,0,7,0,0
+2024,Projeto de Resolução,15,Deputado Chico Vigilante,1,0,0,1,0,0
+2024,Projeto de Resolução,17,Deputado Daniel Donizet,3,0,0,3,0,0
+2024,Projeto de Resolução,19,Deputado Eduardo Pedrosa,7,2,0,5,0,0
+2024,Projeto de Resolução,20,Deputado Fábio Felix,1,0,0,1,0,0
+2024,Projeto de Resolução,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2024,Projeto de Resolução,22,Deputado Hermeto,1,0,0,1,0,0
+2024,Projeto de Resolução,23,Deputado Iolando,2,0,0,2,0,0
+2024,Projeto de Resolução,62,Deputado Joaquim Roriz Neto,4,1,0,3,0,0
+2024,Projeto de Resolução,26,Deputado Jorge Vianna,1,1,0,0,0,0
+2024,Projeto de Resolução,25,Deputado João Cardoso ,4,1,0,3,0,0
+2024,Projeto de Resolução,30,Deputado Martins Machado,5,1,0,4,0,0
+2024,Projeto de Resolução,63,Deputado Max Maciel,2,0,0,2,0,0
+2024,Projeto de Resolução,59,Deputado Pastor Daniel de Castro,11,1,0,10,0,0
+2024,Projeto de Resolução,65,Deputado Pepa,7,1,0,6,0,0
+2024,Projeto de Resolução,33,Deputado Robério Negreiros,2,0,0,2,0,0
+2024,Projeto de Resolução,67,Deputado Rogério Morro da Cruz,5,1,0,4,0,0
+2024,Projeto de Resolução,66,Deputado Thiago Manzoni,3,1,0,2,0,0
+2024,Projeto de Resolução,58,Deputado Wellington Luiz,3,0,0,3,0,0
+2024,Projeto de Resolução,56,Mesa Diretora,5,3,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,60,Deputada Dayse Amarilio,3,1,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,61,Deputada Doutora Jane,3,1,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,24,Deputada Jaqueline Silva,4,1,0,3,0,0
+2024,Proposta de Emenda à Lei Orgânica,64,Deputada Paula Belmonte,5,1,0,4,0,0
+2024,Proposta de Emenda à Lei Orgânica,15,Deputado Chico Vigilante,2,1,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,17,Deputado Daniel Donizet,1,0,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,19,Deputado Eduardo Pedrosa,4,1,0,3,0,0
+2024,Proposta de Emenda à Lei Orgânica,20,Deputado Fábio Felix,2,0,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,68,Deputado Gabriel Magno,2,1,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,22,Deputado Hermeto,1,1,0,0,0,0
+2024,Proposta de Emenda à Lei Orgânica,62,Deputado Joaquim Roriz Neto,2,1,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,25,Deputado João Cardoso ,1,0,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,30,Deputado Martins Machado,1,1,0,0,0,0
+2024,Proposta de Emenda à Lei Orgânica,63,Deputado Max Maciel,1,0,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,59,Deputado Pastor Daniel de Castro,4,1,0,3,0,0
+2024,Proposta de Emenda à Lei Orgânica,65,Deputado Pepa,3,1,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,57,Deputado Ricardo Vale,4,1,0,3,0,0
+2024,Proposta de Emenda à Lei Orgânica,67,Deputado Rogério Morro da Cruz,2,0,0,2,0,0
+2024,Proposta de Emenda à Lei Orgânica,34,Deputado Roosevelt Vilela,2,1,0,1,0,0
+2024,Proposta de Emenda à Lei Orgânica,58,Deputado Wellington Luiz,3,1,0,2,0,0
+2024,Questão de Ordem,8,Comissão de Constituição e Justiça,1,0,0,0,1,0
+2024,Recurso,20,Deputado Fábio Felix,1,0,0,0,1,0
+2024,Recurso,34,Deputado Roosevelt Vilela,1,0,0,0,1,0
+2024,Recurso,66,Deputado Thiago Manzoni,1,0,0,0,1,0
+2024,Requerimento,43,Comissão de Assuntos Fundiários,1,0,0,0,1,0
+2024,Requerimento,8,Comissão de Constituição e Justiça,1,0,0,0,1,0
+2024,Requerimento,48,Comissão de Educação Saúde e Cultura,5,0,0,0,5,0
+2024,Requerimento,49,Comissão de Fiscalização Governança Transparência Controle,15,0,0,0,15,0
+2024,Requerimento,69,Comissão de Produção Rural e Abastecimento,1,0,0,0,1,0
+2024,Requerimento,60,Deputada Dayse Amarilio,170,0,0,0,170,0
+2024,Requerimento,61,Deputada Doutora Jane,91,0,0,0,91,0
+2024,Requerimento,24,Deputada Jaqueline Silva,69,0,0,0,69,0
+2024,Requerimento,64,Deputada Paula Belmonte,208,0,0,0,208,0
+2024,Requerimento,15,Deputado Chico Vigilante,56,0,0,0,56,0
+2024,Requerimento,17,Deputado Daniel Donizet,22,0,0,0,22,0
+2024,Requerimento,19,Deputado Eduardo Pedrosa,128,0,0,0,128,0
+2024,Requerimento,20,Deputado Fábio Felix,130,0,0,0,130,0
+2024,Requerimento,68,Deputado Gabriel Magno,137,0,0,0,137,0
+2024,Requerimento,22,Deputado Hermeto,35,0,0,0,35,0
+2024,Requerimento,23,Deputado Iolando,38,0,0,0,38,0
+2024,Requerimento,62,Deputado Joaquim Roriz Neto,21,0,0,0,21,0
+2024,Requerimento,26,Deputado Jorge Vianna,41,0,0,0,41,0
+2024,Requerimento,25,Deputado João Cardoso ,55,0,0,0,55,0
+2024,Requerimento,30,Deputado Martins Machado,65,0,0,0,65,0
+2024,Requerimento,63,Deputado Max Maciel,91,0,0,0,91,0
+2024,Requerimento,59,Deputado Pastor Daniel de Castro,158,0,0,0,158,0
+2024,Requerimento,65,Deputado Pepa,73,0,0,0,73,0
+2024,Requerimento,57,Deputado Ricardo Vale,85,0,0,0,85,0
+2024,Requerimento,33,Deputado Robério Negreiros,52,0,0,0,52,0
+2024,Requerimento,67,Deputado Rogério Morro da Cruz,73,0,0,0,73,0
+2024,Requerimento,34,Deputado Roosevelt Vilela,52,0,0,0,52,0
+2024,Requerimento,66,Deputado Thiago Manzoni,71,0,0,0,71,0
+2024,Requerimento,58,Deputado Wellington Luiz,60,0,0,0,60,0
+2024,Requerimento,56,Mesa Diretora,1,0,0,0,1,0
+2025,Indicação,49,Comissão de Fiscalização Governança Transparência Controle,1,0,0,0,1,0
+2025,Indicação,60,Deputada Dayse Amarilio,43,0,0,0,43,0
+2025,Indicação,61,Deputada Doutora Jane,71,0,0,0,71,0
+2025,Indicação,24,Deputada Jaqueline Silva,139,0,0,0,139,0
+2025,Indicação,64,Deputada Paula Belmonte,15,0,0,0,15,0
+2025,Indicação,15,Deputado Chico Vigilante,6,0,0,0,6,0
+2025,Indicação,17,Deputado Daniel Donizet,21,0,0,0,21,0
+2025,Indicação,19,Deputado Eduardo Pedrosa,3,0,0,0,3,0
+2025,Indicação,20,Deputado Fábio Felix,51,0,0,0,51,0
+2025,Indicação,68,Deputado Gabriel Magno,33,0,0,0,33,0
+2025,Indicação,22,Deputado Hermeto,41,0,0,0,41,0
+2025,Indicação,23,Deputado Iolando,27,0,0,0,27,0
+2025,Indicação,62,Deputado Joaquim Roriz Neto,1490,0,0,0,1490,0
+2025,Indicação,26,Deputado Jorge Vianna,13,0,0,0,13,0
+2025,Indicação,25,Deputado João Cardoso ,3,0,0,0,3,0
+2025,Indicação,30,Deputado Martins Machado,11,0,0,0,11,0
+2025,Indicação,63,Deputado Max Maciel,191,0,0,0,191,0
+2025,Indicação,59,Deputado Pastor Daniel de Castro,115,0,0,0,115,0
+2025,Indicação,65,Deputado Pepa,107,0,0,0,107,0
+2025,Indicação,57,Deputado Ricardo Vale,114,0,0,0,114,0
+2025,Indicação,33,Deputado Robério Negreiros,32,0,0,0,32,0
+2025,Indicação,67,Deputado Rogério Morro da Cruz,36,0,0,0,36,0
+2025,Indicação,34,Deputado Roosevelt Vilela,4,0,0,0,4,0
+2025,Indicação,66,Deputado Thiago Manzoni,19,0,0,0,19,0
+2025,Indicação,58,Deputado Wellington Luiz,86,0,0,0,86,0
+2025,Moção,60,Deputada Dayse Amarilio,46,0,0,0,46,0
+2025,Moção,61,Deputada Doutora Jane,53,0,0,0,53,0
+2025,Moção,24,Deputada Jaqueline Silva,10,0,0,0,10,0
+2025,Moção,64,Deputada Paula Belmonte,20,0,0,0,20,0
+2025,Moção,15,Deputado Chico Vigilante,7,0,0,0,7,0
+2025,Moção,17,Deputado Daniel Donizet,3,0,0,0,3,0
+2025,Moção,19,Deputado Eduardo Pedrosa,64,0,0,0,64,0
+2025,Moção,20,Deputado Fábio Felix,13,0,0,0,13,0
+2025,Moção,68,Deputado Gabriel Magno,36,0,0,0,36,0
+2025,Moção,22,Deputado Hermeto,68,0,0,0,68,0
+2025,Moção,23,Deputado Iolando,14,0,0,0,14,0
+2025,Moção,62,Deputado Joaquim Roriz Neto,3,0,0,0,3,0
+2025,Moção,26,Deputado Jorge Vianna,72,0,0,0,72,0
+2025,Moção,25,Deputado João Cardoso ,22,0,0,0,22,0
+2025,Moção,30,Deputado Martins Machado,38,0,0,0,38,0
+2025,Moção,63,Deputado Max Maciel,11,0,0,0,11,0
+2025,Moção,59,Deputado Pastor Daniel de Castro,27,0,0,0,27,0
+2025,Moção,65,Deputado Pepa,9,0,0,0,9,0
+2025,Moção,57,Deputado Ricardo Vale,25,0,0,0,25,0
+2025,Moção,33,Deputado Robério Negreiros,14,0,0,0,14,0
+2025,Moção,67,Deputado Rogério Morro da Cruz,15,0,0,0,15,0
+2025,Moção,34,Deputado Roosevelt Vilela,39,0,0,0,39,0
+2025,Moção,66,Deputado Thiago Manzoni,12,0,0,0,12,0
+2025,Moção,58,Deputado Wellington Luiz,26,0,0,0,26,0
+2025,Proc,6,Poder Executivo,20,0,0,20,0,0
+2025,Projeto de Decreto Legislativo,8,Comissão de Constituição e Justiça,1,1,0,0,0,0
+2025,Projeto de Decreto Legislativo,47,Comissão de Desenvolvimento Econômico Sustentável Ciência Tecnologia Meio Ambiente e Turismo,2,1,0,1,0,0
+2025,Projeto de Decreto Legislativo,9,"Comissão de Economia, Orçamento e Finanças",14,11,0,3,0,0
+2025,Projeto de Decreto Legislativo,236,Comissão de Saúde,1,0,0,1,0,0
+2025,Projeto de Decreto Legislativo,60,Deputada Dayse Amarilio,1,0,0,1,0,0
+2025,Projeto de Decreto Legislativo,61,Deputada Doutora Jane,2,2,0,0,0,0
+2025,Projeto de Decreto Legislativo,24,Deputada Jaqueline Silva,8,6,0,2,0,0
+2025,Projeto de Decreto Legislativo,64,Deputada Paula Belmonte,7,7,0,0,0,0
+2025,Projeto de Decreto Legislativo,15,Deputado Chico Vigilante,9,4,0,5,0,0
+2025,Projeto de Decreto Legislativo,17,Deputado Daniel Donizet,1,1,0,0,0,0
+2025,Projeto de Decreto Legislativo,19,Deputado Eduardo Pedrosa,16,7,0,9,0,0
+2025,Projeto de Decreto Legislativo,20,Deputado Fábio Felix,5,2,0,3,0,0
+2025,Projeto de Decreto Legislativo,68,Deputado Gabriel Magno,6,1,0,5,0,0
+2025,Projeto de Decreto Legislativo,22,Deputado Hermeto,5,3,0,2,0,0
+2025,Projeto de Decreto Legislativo,23,Deputado Iolando,4,3,0,1,0,0
+2025,Projeto de Decreto Legislativo,62,Deputado Joaquim Roriz Neto,2,1,0,1,0,0
+2025,Projeto de Decreto Legislativo,26,Deputado Jorge Vianna,7,6,0,1,0,0
+2025,Projeto de Decreto Legislativo,25,Deputado João Cardoso ,7,4,0,3,0,0
+2025,Projeto de Decreto Legislativo,30,Deputado Martins Machado,8,3,0,5,0,0
+2025,Projeto de Decreto Legislativo,63,Deputado Max Maciel,4,3,0,1,0,0
+2025,Projeto de Decreto Legislativo,59,Deputado Pastor Daniel de Castro,13,3,0,10,0,0
+2025,Projeto de Decreto Legislativo,65,Deputado Pepa,5,4,0,1,0,0
+2025,Projeto de Decreto Legislativo,57,Deputado Ricardo Vale,8,4,0,4,0,0
+2025,Projeto de Decreto Legislativo,33,Deputado Robério Negreiros,2,2,0,0,0,0
+2025,Projeto de Decreto Legislativo,67,Deputado Rogério Morro da Cruz,6,2,0,4,0,0
+2025,Projeto de Decreto Legislativo,34,Deputado Roosevelt Vilela,6,3,0,3,0,0
+2025,Projeto de Decreto Legislativo,66,Deputado Thiago Manzoni,10,5,0,5,0,0
+2025,Projeto de Decreto Legislativo,58,Deputado Wellington Luiz,11,4,0,7,0,0
+2025,Projeto de Decreto Legislativo,56,Mesa Diretora,1,1,0,0,0,0
+2025,Projeto de Lei,42,Defensoria Pública do Distrito Federal,1,1,0,0,0,0
+2025,Projeto de Lei,60,Deputada Dayse Amarilio,12,6,0,6,0,0
+2025,Projeto de Lei,61,Deputada Doutora Jane,16,5,0,11,0,0
+2025,Projeto de Lei,24,Deputada Jaqueline Silva,25,7,0,18,0,0
+2025,Projeto de Lei,64,Deputada Paula Belmonte,19,4,0,15,0,0
+2025,Projeto de Lei,15,Deputado Chico Vigilante,11,3,0,8,0,0
+2025,Projeto de Lei,17,Deputado Daniel Donizet,1,0,0,1,0,0
+2025,Projeto de Lei,19,Deputado Eduardo Pedrosa,27,6,0,21,0,0
+2025,Projeto de Lei,20,Deputado Fábio Felix,22,1,0,21,0,0
+2025,Projeto de Lei,68,Deputado Gabriel Magno,11,0,0,11,0,0
+2025,Projeto de Lei,22,Deputado Hermeto,18,6,0,12,0,0
+2025,Projeto de Lei,23,Deputado Iolando,58,4,0,54,0,0
+2025,Projeto de Lei,62,Deputado Joaquim Roriz Neto,11,3,0,8,0,0
+2025,Projeto de Lei,26,Deputado Jorge Vianna,20,5,0,15,0,0
+2025,Projeto de Lei,25,Deputado João Cardoso ,18,2,0,16,0,0
+2025,Projeto de Lei,30,Deputado Martins Machado,12,4,0,8,0,0
+2025,Projeto de Lei,63,Deputado Max Maciel,13,0,0,13,0,0
+2025,Projeto de Lei,59,Deputado Pastor Daniel de Castro,75,4,0,71,0,0
+2025,Projeto de Lei,65,Deputado Pepa,18,3,0,15,0,0
+2025,Projeto de Lei,57,Deputado Ricardo Vale,20,2,0,18,0,0
+2025,Projeto de Lei,33,Deputado Robério Negreiros,42,2,0,40,0,0
+2025,Projeto de Lei,67,Deputado Rogério Morro da Cruz,24,1,0,23,0,0
+2025,Projeto de Lei,34,Deputado Roosevelt Vilela,35,3,0,32,0,0
+2025,Projeto de Lei,66,Deputado Thiago Manzoni,15,4,0,11,0,0
+2025,Projeto de Lei,58,Deputado Wellington Luiz,23,6,1,16,0,0
+2025,Projeto de Lei,56,Mesa Diretora,1,1,0,0,0,0
+2025,Projeto de Lei,6,Poder Executivo,99,77,1,21,0,0
+2025,Projeto de Lei,7,Tribunal de Contas do Distrito Federal,1,1,0,0,0,0
+2025,Projeto de Lei Complementar,20,Deputado Fábio Felix,1,1,0,0,0,0
+2025,Projeto de Lei Complementar,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2025,Projeto de Lei Complementar,30,Deputado Martins Machado,1,0,0,1,0,0
+2025,Projeto de Lei Complementar,59,Deputado Pastor Daniel de Castro,3,1,0,2,0,0
+2025,Projeto de Lei Complementar,57,Deputado Ricardo Vale,1,1,0,0,0,0
+2025,Projeto de Lei Complementar,67,Deputado Rogério Morro da Cruz,2,0,0,2,0,0
+2025,Projeto de Lei Complementar,34,Deputado Roosevelt Vilela,2,0,0,2,0,0
+2025,Projeto de Lei Complementar,58,Deputado Wellington Luiz,2,1,0,1,0,0
+2025,Projeto de Lei Complementar,6,Poder Executivo,20,16,0,4,0,0
+2025,Projeto de Lei Complementar,7,Tribunal de Contas do Distrito Federal,1,1,0,0,0,0
+2025,Projeto de Resolução,60,Deputada Dayse Amarilio,1,0,0,1,0,0
+2025,Projeto de Resolução,61,Deputada Doutora Jane,2,0,0,2,0,0
+2025,Projeto de Resolução,64,Deputada Paula Belmonte,3,1,0,2,0,0
+2025,Projeto de Resolução,15,Deputado Chico Vigilante,2,1,0,1,0,0
+2025,Projeto de Resolução,20,Deputado Fábio Felix,1,0,0,1,0,0
+2025,Projeto de Resolução,22,Deputado Hermeto,1,0,0,1,0,0
+2025,Projeto de Resolução,23,Deputado Iolando,1,0,0,1,0,0
+2025,Projeto de Resolução,62,Deputado Joaquim Roriz Neto,1,1,0,0,0,0
+2025,Projeto de Resolução,26,Deputado Jorge Vianna,1,0,0,1,0,0
+2025,Projeto de Resolução,59,Deputado Pastor Daniel de Castro,3,0,0,3,0,0
+2025,Projeto de Resolução,33,Deputado Robério Negreiros,1,0,0,1,0,0
+2025,Projeto de Resolução,67,Deputado Rogério Morro da Cruz,1,0,0,1,0,0
+2025,Projeto de Resolução,66,Deputado Thiago Manzoni,1,0,0,1,0,0
+2025,Projeto de Resolução,58,Deputado Wellington Luiz,2,1,0,1,0,0
+2025,Projeto de Resolução,56,Mesa Diretora,8,7,0,1,0,0
+2025,Proposta de Emenda à Lei Orgânica,64,Deputada Paula Belmonte,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,17,Deputado Daniel Donizet,1,0,0,1,0,0
+2025,Proposta de Emenda à Lei Orgânica,19,Deputado Eduardo Pedrosa,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,23,Deputado Iolando,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,62,Deputado Joaquim Roriz Neto,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,59,Deputado Pastor Daniel de Castro,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,65,Deputado Pepa,1,0,0,1,0,0
+2025,Proposta de Emenda à Lei Orgânica,33,Deputado Robério Negreiros,1,0,0,1,0,0
+2025,Proposta de Emenda à Lei Orgânica,67,Deputado Rogério Morro da Cruz,1,0,0,1,0,0
+2025,Proposta de Emenda à Lei Orgânica,34,Deputado Roosevelt Vilela,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,66,Deputado Thiago Manzoni,2,0,0,2,0,0
+2025,Proposta de Emenda à Lei Orgânica,6,Poder Executivo,1,0,0,1,0,0
+2025,Questão de Ordem,20,Deputado Fábio Felix,1,0,0,0,1,0
+2025,Requerimento,43,Comissão de Assuntos Fundiários,1,0,0,0,1,0
+2025,Requerimento,238,Comissão de Defesa dos Direitos da Mulher,1,0,0,0,1,0
+2025,Requerimento,236,Comissão de Saúde,2,0,0,0,2,0
+2025,Requerimento,60,Deputada Dayse Amarilio,67,0,0,0,67,0
+2025,Requerimento,61,Deputada Doutora Jane,21,0,0,0,21,0
+2025,Requerimento,24,Deputada Jaqueline Silva,18,0,0,0,18,0
+2025,Requerimento,64,Deputada Paula Belmonte,88,0,0,0,88,0
+2025,Requerimento,15,Deputado Chico Vigilante,24,0,0,0,24,0
+2025,Requerimento,17,Deputado Daniel Donizet,6,0,0,0,6,0
+2025,Requerimento,19,Deputado Eduardo Pedrosa,37,0,0,0,37,0
+2025,Requerimento,20,Deputado Fábio Felix,198,0,0,0,198,0
+2025,Requerimento,68,Deputado Gabriel Magno,69,0,0,0,69,0
+2025,Requerimento,22,Deputado Hermeto,17,0,0,0,17,0
+2025,Requerimento,23,Deputado Iolando,24,0,0,0,24,0
+2025,Requerimento,62,Deputado Joaquim Roriz Neto,13,0,0,0,13,0
+2025,Requerimento,26,Deputado Jorge Vianna,33,0,0,0,33,0
+2025,Requerimento,25,Deputado João Cardoso ,19,0,0,0,19,0
+2025,Requerimento,30,Deputado Martins Machado,25,0,0,0,25,0
+2025,Requerimento,63,Deputado Max Maciel,61,0,0,0,61,0
+2025,Requerimento,59,Deputado Pastor Daniel de Castro,24,0,0,0,24,0
+2025,Requerimento,65,Deputado Pepa,17,0,0,0,17,0
+2025,Requerimento,57,Deputado Ricardo Vale,30,0,0,0,30,0
+2025,Requerimento,33,Deputado Robério Negreiros,17,0,0,0,17,0
+2025,Requerimento,67,Deputado Rogério Morro da Cruz,36,0,0,0,36,0
+2025,Requerimento,34,Deputado Roosevelt Vilela,28,0,0,0,28,0
+2025,Requerimento,66,Deputado Thiago Manzoni,22,0,0,0,22,0
+2025,Requerimento,58,Deputado Wellington Luiz,23,0,0,0,23,0
+2026,Indicação,239,Comissão Parlamentar de Inquérito do Rio Melchior,5,0,0,0,5,0
+2026,Indicação,49,Comissão de Fiscalização Governança Transparência Controle,1,0,0,0,1,0
+2026,Indicação,60,Deputada Dayse Amarilio,18,0,0,0,18,0
+2026,Indicação,61,Deputada Doutora Jane,40,0,0,0,40,0
+2026,Indicação,24,Deputada Jaqueline Silva,209,0,0,0,209,0
+2026,Indicação,64,Deputada Paula Belmonte,1,0,0,0,1,0
+2026,Indicação,15,Deputado Chico Vigilante,1,0,0,0,1,0
+2026,Indicação,17,Deputado Daniel Donizet,8,0,0,0,8,0
+2026,Indicação,19,Deputado Eduardo Pedrosa,2,0,0,0,2,0
+2026,Indicação,20,Deputado Fábio Felix,5,0,0,0,5,0
+2026,Indicação,68,Deputado Gabriel Magno,9,0,0,0,9,0
+2026,Indicação,22,Deputado Hermeto,9,0,0,0,9,0
+2026,Indicação,23,Deputado Iolando,24,0,0,0,24,0
+2026,Indicação,62,Deputado Joaquim Roriz Neto,831,0,0,0,831,0
+2026,Indicação,26,Deputado Jorge Vianna,12,0,0,0,12,0
+2026,Indicação,25,Deputado João Cardoso ,5,0,0,0,5,0
+2026,Indicação,30,Deputado Martins Machado,6,0,0,0,6,0
+2026,Indicação,63,Deputado Max Maciel,33,0,0,0,33,0
+2026,Indicação,59,Deputado Pastor Daniel de Castro,14,0,0,0,14,0
+2026,Indicação,65,Deputado Pepa,45,0,0,0,45,0
+2026,Indicação,57,Deputado Ricardo Vale,26,0,0,0,26,0
+2026,Indicação,33,Deputado Robério Negreiros,12,0,0,0,12,0
+2026,Indicação,67,Deputado Rogério Morro da Cruz,3,0,0,0,3,0
+2026,Indicação,34,Deputado Roosevelt Vilela,1,0,0,0,1,0
+2026,Indicação,66,Deputado Thiago Manzoni,6,0,0,0,6,0
+2026,Indicação,58,Deputado Wellington Luiz,37,0,0,0,37,0
+2026,Moção,60,Deputada Dayse Amarilio,39,0,0,0,39,0
+2026,Moção,61,Deputada Doutora Jane,19,0,0,0,19,0
+2026,Moção,24,Deputada Jaqueline Silva,19,0,0,0,19,0
+2026,Moção,64,Deputada Paula Belmonte,11,0,0,0,11,0
+2026,Moção,15,Deputado Chico Vigilante,5,0,0,0,5,0
+2026,Moção,17,Deputado Daniel Donizet,1,0,0,0,1,0
+2026,Moção,19,Deputado Eduardo Pedrosa,24,0,0,0,24,0
+2026,Moção,20,Deputado Fábio Felix,8,0,0,0,8,0
+2026,Moção,68,Deputado Gabriel Magno,20,0,0,0,20,0
+2026,Moção,22,Deputado Hermeto,35,0,0,0,35,0
+2026,Moção,23,Deputado Iolando,4,0,0,0,4,0
+2026,Moção,26,Deputado Jorge Vianna,34,0,0,0,34,0
+2026,Moção,25,Deputado João Cardoso ,17,0,0,0,17,0
+2026,Moção,30,Deputado Martins Machado,20,0,0,0,20,0
+2026,Moção,63,Deputado Max Maciel,8,0,0,0,8,0
+2026,Moção,59,Deputado Pastor Daniel de Castro,9,0,0,0,9,0
+2026,Moção,57,Deputado Ricardo Vale,15,0,0,0,15,0
+2026,Moção,33,Deputado Robério Negreiros,5,0,0,0,5,0
+2026,Moção,67,Deputado Rogério Morro da Cruz,7,0,0,0,7,0
+2026,Moção,34,Deputado Roosevelt Vilela,12,0,0,0,12,0
+2026,Moção,66,Deputado Thiago Manzoni,2,0,0,0,2,0
+2026,Moção,58,Deputado Wellington Luiz,4,0,0,0,4,0
+2026,Proc,6,Poder Executivo,6,0,0,6,0,0
+2026,Projeto de Decreto Legislativo,8,Comissão de Constituição e Justiça,1,1,0,0,0,0
+2026,Projeto de Decreto Legislativo,9,"Comissão de Economia, Orçamento e Finanças",2,2,0,0,0,0
+2026,Projeto de Decreto Legislativo,236,Comissão de Saúde,1,1,0,0,0,0
+2026,Projeto de Decreto Legislativo,60,Deputada Dayse Amarilio,3,3,0,0,0,0
+2026,Projeto de Decreto Legislativo,61,Deputada Doutora Jane,9,3,0,6,0,0
+2026,Projeto de Decreto Legislativo,24,Deputada Jaqueline Silva,1,1,0,0,0,0
+2026,Projeto de Decreto Legislativo,64,Deputada Paula Belmonte,12,4,0,8,0,0
+2026,Projeto de Decreto Legislativo,15,Deputado Chico Vigilante,1,1,0,0,0,0
+2026,Projeto de Decreto Legislativo,19,Deputado Eduardo Pedrosa,10,4,0,6,0,0
+2026,Projeto de Decreto Legislativo,20,Deputado Fábio Felix,1,0,0,1,0,0
+2026,Projeto de Decreto Legislativo,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2026,Projeto de Decreto Legislativo,22,Deputado Hermeto,1,0,0,1,0,0
+2026,Projeto de Decreto Legislativo,23,Deputado Iolando,4,3,0,1,0,0
+2026,Projeto de Decreto Legislativo,26,Deputado Jorge Vianna,4,0,0,4,0,0
+2026,Projeto de Decreto Legislativo,25,Deputado João Cardoso ,3,1,0,2,0,0
+2026,Projeto de Decreto Legislativo,30,Deputado Martins Machado,1,0,0,1,0,0
+2026,Projeto de Decreto Legislativo,63,Deputado Max Maciel,2,1,0,1,0,0
+2026,Projeto de Decreto Legislativo,59,Deputado Pastor Daniel de Castro,7,1,0,6,0,0
+2026,Projeto de Decreto Legislativo,65,Deputado Pepa,8,3,0,5,0,0
+2026,Projeto de Decreto Legislativo,57,Deputado Ricardo Vale,3,0,0,3,0,0
+2026,Projeto de Decreto Legislativo,67,Deputado Rogério Morro da Cruz,1,0,0,1,0,0
+2026,Projeto de Decreto Legislativo,34,Deputado Roosevelt Vilela,5,1,0,4,0,0
+2026,Projeto de Decreto Legislativo,66,Deputado Thiago Manzoni,2,0,0,2,0,0
+2026,Projeto de Decreto Legislativo,58,Deputado Wellington Luiz,7,3,0,4,0,0
+2026,Projeto de Lei,239,Comissão Parlamentar de Inquérito do Rio Melchior,4,4,0,0,0,0
+2026,Projeto de Lei,60,Deputada Dayse Amarilio,9,2,0,7,0,0
+2026,Projeto de Lei,61,Deputada Doutora Jane,10,2,0,8,0,0
+2026,Projeto de Lei,24,Deputada Jaqueline Silva,8,1,0,7,0,0
+2026,Projeto de Lei,64,Deputada Paula Belmonte,6,1,0,5,0,0
+2026,Projeto de Lei,15,Deputado Chico Vigilante,5,2,0,3,0,0
+2026,Projeto de Lei,17,Deputado Daniel Donizet,6,0,0,6,0,0
+2026,Projeto de Lei,19,Deputado Eduardo Pedrosa,32,2,0,30,0,0
+2026,Projeto de Lei,20,Deputado Fábio Felix,12,1,0,11,0,0
+2026,Projeto de Lei,68,Deputado Gabriel Magno,2,0,0,2,0,0
+2026,Projeto de Lei,22,Deputado Hermeto,7,0,0,7,0,0
+2026,Projeto de Lei,23,Deputado Iolando,26,1,0,25,0,0
+2026,Projeto de Lei,62,Deputado Joaquim Roriz Neto,5,0,0,5,0,0
+2026,Projeto de Lei,26,Deputado Jorge Vianna,8,1,0,7,0,0
+2026,Projeto de Lei,25,Deputado João Cardoso ,11,1,0,10,0,0
+2026,Projeto de Lei,30,Deputado Martins Machado,4,0,0,4,0,0
+2026,Projeto de Lei,59,Deputado Pastor Daniel de Castro,45,1,0,44,0,0
+2026,Projeto de Lei,65,Deputado Pepa,20,2,0,18,0,0
+2026,Projeto de Lei,57,Deputado Ricardo Vale,11,0,0,11,0,0
+2026,Projeto de Lei,33,Deputado Robério Negreiros,26,0,0,26,0,0
+2026,Projeto de Lei,67,Deputado Rogério Morro da Cruz,8,0,0,8,0,0
+2026,Projeto de Lei,34,Deputado Roosevelt Vilela,17,3,0,14,0,0
+2026,Projeto de Lei,66,Deputado Thiago Manzoni,10,1,0,9,0,0
+2026,Projeto de Lei,58,Deputado Wellington Luiz,17,3,0,14,0,0
+2026,Projeto de Lei,56,Mesa Diretora,3,2,0,1,0,0
+2026,Projeto de Lei,6,Poder Executivo,44,29,0,15,0,0
+2026,Projeto de Lei,7,Tribunal de Contas do Distrito Federal,2,1,0,1,0,0
+2026,Projeto de Lei Complementar,42,Defensoria Pública do Distrito Federal,1,1,0,0,0,0
+2026,Projeto de Lei Complementar,20,Deputado Fábio Felix,1,0,0,1,0,0
+2026,Projeto de Lei Complementar,22,Deputado Hermeto,1,0,0,1,0,0
+2026,Projeto de Lei Complementar,65,Deputado Pepa,2,0,0,2,0,0
+2026,Projeto de Lei Complementar,33,Deputado Robério Negreiros,1,0,0,1,0,0
+2026,Projeto de Lei Complementar,34,Deputado Roosevelt Vilela,2,0,0,2,0,0
+2026,Projeto de Lei Complementar,58,Deputado Wellington Luiz,2,0,0,2,0,0
+2026,Projeto de Lei Complementar,6,Poder Executivo,10,3,0,7,0,0
+2026,Projeto de Resolução,24,Deputada Jaqueline Silva,2,0,0,2,0,0
+2026,Projeto de Resolução,64,Deputada Paula Belmonte,2,0,0,2,0,0
+2026,Projeto de Resolução,15,Deputado Chico Vigilante,1,0,0,1,0,0
+2026,Projeto de Resolução,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2026,Projeto de Resolução,59,Deputado Pastor Daniel de Castro,2,0,0,2,0,0
+2026,Projeto de Resolução,56,Mesa Diretora,5,4,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,60,Deputada Dayse Amarilio,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,61,Deputada Doutora Jane,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,64,Deputada Paula Belmonte,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,15,Deputado Chico Vigilante,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,17,Deputado Daniel Donizet,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,19,Deputado Eduardo Pedrosa,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,20,Deputado Fábio Felix,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,68,Deputado Gabriel Magno,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,22,Deputado Hermeto,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,23,Deputado Iolando,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,62,Deputado Joaquim Roriz Neto,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,26,Deputado Jorge Vianna,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,25,Deputado João Cardoso ,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,30,Deputado Martins Machado,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,63,Deputado Max Maciel,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,59,Deputado Pastor Daniel de Castro,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,65,Deputado Pepa,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,67,Deputado Rogério Morro da Cruz,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,34,Deputado Roosevelt Vilela,1,0,0,1,0,0
+2026,Proposta de Emenda à Lei Orgânica,58,Deputado Wellington Luiz,2,0,0,2,0,0
+2026,Proposta de Emenda à Lei Orgânica,6,Poder Executivo,1,1,0,0,0,0
+2026,Requerimento,9,"Comissão de Economia, Orçamento e Finanças",3,0,0,0,3,0
+2026,Requerimento,237,Comissão de Educação e Cultura,6,0,0,0,6,0
+2026,Requerimento,236,Comissão de Saúde,15,0,0,0,15,0
+2026,Requerimento,60,Deputada Dayse Amarilio,33,0,0,0,33,0
+2026,Requerimento,61,Deputada Doutora Jane,17,0,0,0,17,0
+2026,Requerimento,24,Deputada Jaqueline Silva,8,0,0,0,8,0
+2026,Requerimento,64,Deputada Paula Belmonte,32,0,0,0,32,0
+2026,Requerimento,15,Deputado Chico Vigilante,24,0,0,0,24,0
+2026,Requerimento,17,Deputado Daniel Donizet,12,0,0,0,12,0
+2026,Requerimento,19,Deputado Eduardo Pedrosa,22,0,0,0,22,0
+2026,Requerimento,20,Deputado Fábio Felix,46,0,1,0,45,0
+2026,Requerimento,68,Deputado Gabriel Magno,155,0,0,0,155,0
+2026,Requerimento,22,Deputado Hermeto,7,0,0,0,7,0
+2026,Requerimento,23,Deputado Iolando,5,0,0,0,5,0
+2026,Requerimento,62,Deputado Joaquim Roriz Neto,1,0,0,0,1,0
+2026,Requerimento,26,Deputado Jorge Vianna,20,0,0,0,20,0
+2026,Requerimento,25,Deputado João Cardoso ,12,0,0,0,12,0
+2026,Requerimento,30,Deputado Martins Machado,14,0,0,0,14,0
+2026,Requerimento,63,Deputado Max Maciel,18,0,0,0,18,0
+2026,Requerimento,59,Deputado Pastor Daniel de Castro,10,0,0,0,10,0
+2026,Requerimento,65,Deputado Pepa,4,0,0,0,4,0
+2026,Requerimento,57,Deputado Ricardo Vale,33,0,0,0,33,0
+2026,Requerimento,33,Deputado Robério Negreiros,11,0,0,0,11,0
+2026,Requerimento,67,Deputado Rogério Morro da Cruz,8,0,0,0,8,0
+2026,Requerimento,34,Deputado Roosevelt Vilela,13,0,0,0,13,0
+2026,Requerimento,66,Deputado Thiago Manzoni,18,0,0,0,18,0
+2026,Requerimento,58,Deputado Wellington Luiz,13,0,0,0,13,0
+2026,Sugestão Legislativa,240,Sugestão Legislativa,1,0,0,1,0,0

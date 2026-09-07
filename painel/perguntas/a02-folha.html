@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eixo: folha de pagamento — o painel (cldf)</title>
+<style>
+:root { color-scheme: light; }
+body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
+header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
+main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
+.cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
+  padding: 16px 20px; margin: 16px 0; }
+.pergunta-origem { font-style: italic; color: #555; border-left: 3px solid #c7752f;
+  padding-left: 12px; margin: 12px 0; }
+.taxa, .numero { font-size: 28px; font-weight: 700; color: #1a3a52; display: inline-block; }
+.rotulo-cabecalho { font-size: 13px; color: #666; text-transform: uppercase;
+  letter-spacing: .04em; }
+.limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
+  padding: 12px 16px; margin: 16px 0; font-size: 14px; }
+.limite b { color: #a3612f; }
+.fonte { font-size: 12px; color: #777; margin-top: 8px; }
+table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
+table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
+  padding: 4px 8px; text-align: left; }
+table.tabela-simples th { background: #efe9dc; }
+nav.indice ul { columns: 2; list-style: none; padding: 0; }
+nav.indice li { margin: 4px 0; }
+a { color: #1a3a52; }
+.rodape { font-size: 12px; color: #888; margin-top: 40px; border-top: 1px solid #ddd6c8;
+  padding-top: 12px; }
+</style>
+</head>
+<body>
+<header class="topo">
+<a href="../index.html">&larr; o painel</a>
+<h1>Eixo: folha de pagamento</h1>
+</header>
+<main>
+<div class="pergunta-origem">eixo acrescentado — a folha de pagamento da Casa, por cargo e por ano</div>
+<div class="cartao">
+<div class="rotulo-cabecalho">número-chave</div>
+<span class="taxa" data-n="4221243067.38" data-d="6216349402.47">4.221.243.067,38 de 6.216.349.402,47 líquido sobre os créditos — 67,9%</span>
+</div>
+<div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 382" width="640" height="382" role="img" aria-label="Líquido, por cargo efetivo" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<rect x="0" y="0" width="640" height="382" fill="#ffffff" />
+<text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Líquido, por cargo efetivo</text>
+<text x="212" y="55" font-size="12" fill="#1a1a1a" text-anchor="end"></text>
+<rect x="220" y="43" width="350.0" height="14" fill="#2b5f8a" />
+<text x="576.0" y="55" font-size="12" fill="#1a1a1a">1.263.848.626,13</text>
+<text x="212" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">CONSULTOR TECNICO LEGISLATIVO</text>
+<rect x="220" y="65" width="256.8" height="14" fill="#2b5f8a" />
+<text x="482.8" y="77" font-size="12" fill="#1a1a1a">927.201.575,32</text>
+<text x="212" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">TECNICO LEGISLATIVO</text>
+<rect x="220" y="87" width="150.5" height="14" fill="#2b5f8a" />
+<text x="376.5" y="99" font-size="12" fill="#1a1a1a">543.379.209,89</text>
+<text x="212" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">ANALISTA LEGISLATIVO</text>
+<rect x="220" y="109" width="103.1" height="14" fill="#2b5f8a" />
+<text x="329.1" y="121" font-size="12" fill="#1a1a1a">372.224.151,09</text>
+<text x="212" y="143" font-size="12" fill="#1a1a1a" text-anchor="end">CONSULTOR LEGISLATIVO</text>
+<rect x="220" y="131" width="96.8" height="14" fill="#2b5f8a" />
+<text x="322.8" y="143" font-size="12" fill="#1a1a1a">349.656.340,61</text>
+<text x="212" y="165" font-size="12" fill="#1a1a1a" text-anchor="end">ASSISTENTE LEGISLATIVO</text>
+<rect x="220" y="153" width="61.5" height="14" fill="#2b5f8a" />
+<text x="287.5" y="165" font-size="12" fill="#1a1a1a">222.169.590,27</text>
+<text x="212" y="187" font-size="12" fill="#1a1a1a" text-anchor="end">AUXILIAR LEGISLATIVO</text>
+<rect x="220" y="175" width="57.3" height="14" fill="#2b5f8a" />
+<text x="283.3" y="187" font-size="12" fill="#1a1a1a">207.018.806,78</text>
+<text x="212" y="209" font-size="12" fill="#1a1a1a" text-anchor="end">TECNICO ADMINISTRATIVO LEGISLATIVO</text>
+<rect x="220" y="197" width="29.9" height="14" fill="#2b5f8a" />
+<text x="255.9" y="209" font-size="12" fill="#1a1a1a">107.989.891,19</text>
+<text x="212" y="231" font-size="12" fill="#1a1a1a" text-anchor="end">ASSISTENTE TECNICO LEGISLATIVO</text>
+<rect x="220" y="219" width="25.2" height="14" fill="#2b5f8a" />
+<text x="251.2" y="231" font-size="12" fill="#1a1a1a">91.022.140,52</text>
+<text x="212" y="253" font-size="12" fill="#1a1a1a" text-anchor="end">PROCURADOR LEGISLATIVO</text>
+<rect x="220" y="241" width="15.6" height="14" fill="#2b5f8a" />
+<text x="241.6" y="253" font-size="12" fill="#1a1a1a">56.235.804,83</text>
+<text x="212" y="275" font-size="12" fill="#1a1a1a" text-anchor="end">CONSULTOR TÉCNICO LEGISLATIVO</text>
+<rect x="220" y="263" width="9.8" height="14" fill="#2b5f8a" />
+<text x="235.8" y="275" font-size="12" fill="#1a1a1a">35.338.691,08</text>
+<text x="212" y="297" font-size="12" fill="#1a1a1a" text-anchor="end">TÉCNICO LEGISLATIVO</text>
+<rect x="220" y="285" width="9.3" height="14" fill="#2b5f8a" />
+<text x="235.3" y="297" font-size="12" fill="#1a1a1a">33.552.550,24</text>
+<text x="212" y="319" font-size="12" fill="#1a1a1a" text-anchor="end">PROCURADOR</text>
+<rect x="220" y="307" width="0.8" height="14" fill="#2b5f8a" />
+<text x="226.8" y="319" font-size="12" fill="#1a1a1a">2.856.886,41</text>
+<text x="212" y="341" font-size="12" fill="#1a1a1a" text-anchor="end">Téc. Legislativo</text>
+<rect x="220" y="329" width="0.6" height="14" fill="#2b5f8a" />
+<text x="226.6" y="341" font-size="12" fill="#1a1a1a">2.115.336,18</text>
+<text x="212" y="363" font-size="12" fill="#1a1a1a" text-anchor="end">Consultor Téc. Legislativo</text>
+<rect x="220" y="351" width="0.6" height="14" fill="#2b5f8a" />
+<text x="226.6" y="363" font-size="12" fill="#1a1a1a">2.111.362,02</text>
+</svg></div>
+<div class="limite"><b>Também informa</b> — signal 27 também informa que 95.716 linhas da fonte (21,6 %) carregam os próprios artefatos de ponto flutuante da planilha original, e que a Casa e a folha não podem ser cruzadas linha a linha com uma ordem bancária — são dois registros, não um.</div>
+<div class="fonte">Tabela(s) lida(s): <code>folha-por-cargo-e-ano.csv</code></div>
+<p class="rodape">Gerado por <code>cldf.painel_estatico</code>, um construtor de página estática. Todo
+número desta página foi recalculado a partir da tabela publicada em
+<code>data/derived/</code> no momento da construção — não é uma cópia de outro texto.</p>
+</main>
+</body>
+</html>

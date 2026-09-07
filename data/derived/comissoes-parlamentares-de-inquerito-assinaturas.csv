@@ -1,0 +1,64 @@
+﻿ano,numero,siglaNumeroAno,autor_id,deputado
+2023,1,REQ 1/2023,15,Deputado Chico Vigilante
+2023,1,REQ 1/2023,19,Deputado Eduardo Pedrosa
+2023,1,REQ 1/2023,20,Deputado Fábio Felix
+2023,1,REQ 1/2023,22,Deputado Hermeto
+2023,1,REQ 1/2023,23,Deputado Iolando
+2023,1,REQ 1/2023,24,Deputada Jaqueline Silva
+2023,1,REQ 1/2023,25,Deputado João Cardoso 
+2023,1,REQ 1/2023,26,Deputado Jorge Vianna
+2023,1,REQ 1/2023,30,Deputado Martins Machado
+2023,1,REQ 1/2023,33,Deputado Robério Negreiros
+2023,1,REQ 1/2023,34,Deputado Roosevelt Vilela
+2023,1,REQ 1/2023,57,Deputado Ricardo Vale
+2023,1,REQ 1/2023,58,Deputado Wellington Luiz
+2023,1,REQ 1/2023,59,Deputado Pastor Daniel de Castro
+2023,1,REQ 1/2023,60,Deputada Dayse Amarilio
+2023,1,REQ 1/2023,61,Deputada Doutora Jane
+2023,1,REQ 1/2023,62,Deputado Joaquim Roriz Neto
+2023,1,REQ 1/2023,63,Deputado Max Maciel
+2023,1,REQ 1/2023,64,Deputada Paula Belmonte
+2023,1,REQ 1/2023,65,Deputado Pepa
+2023,1,REQ 1/2023,66,Deputado Thiago Manzoni
+2023,1,REQ 1/2023,67,Deputado Rogério Morro da Cruz
+2023,1,REQ 1/2023,68,Deputado Gabriel Magno
+2023,207,REQ 207/2023,19,Deputado Eduardo Pedrosa
+2023,207,REQ 207/2023,22,Deputado Hermeto
+2023,207,REQ 207/2023,23,Deputado Iolando
+2023,207,REQ 207/2023,33,Deputado Robério Negreiros
+2023,207,REQ 207/2023,34,Deputado Roosevelt Vilela
+2023,207,REQ 207/2023,61,Deputada Doutora Jane
+2023,207,REQ 207/2023,62,Deputado Joaquim Roriz Neto
+2023,207,REQ 207/2023,65,Deputado Pepa
+2023,207,REQ 207/2023,67,Deputado Rogério Morro da Cruz
+2023,804,REQ 804/2023,15,Deputado Chico Vigilante
+2023,804,REQ 804/2023,20,Deputado Fábio Felix
+2023,804,REQ 804/2023,23,Deputado Iolando
+2023,804,REQ 804/2023,25,Deputado João Cardoso 
+2023,804,REQ 804/2023,26,Deputado Jorge Vianna
+2023,804,REQ 804/2023,33,Deputado Robério Negreiros
+2023,804,REQ 804/2023,57,Deputado Ricardo Vale
+2023,804,REQ 804/2023,60,Deputada Dayse Amarilio
+2023,804,REQ 804/2023,63,Deputado Max Maciel
+2023,804,REQ 804/2023,64,Deputada Paula Belmonte
+2023,804,REQ 804/2023,68,Deputado Gabriel Magno
+2023,1065,REQ 1065/2023,19,Deputado Eduardo Pedrosa
+2023,1065,REQ 1065/2023,23,Deputado Iolando
+2023,1065,REQ 1065/2023,24,Deputada Jaqueline Silva
+2023,1065,REQ 1065/2023,30,Deputado Martins Machado
+2023,1065,REQ 1065/2023,33,Deputado Robério Negreiros
+2023,1065,REQ 1065/2023,34,Deputado Roosevelt Vilela
+2023,1065,REQ 1065/2023,58,Deputado Wellington Luiz
+2023,1065,REQ 1065/2023,59,Deputado Pastor Daniel de Castro
+2023,1065,REQ 1065/2023,60,Deputada Dayse Amarilio
+2023,1065,REQ 1065/2023,61,Deputada Doutora Jane
+2023,1065,REQ 1065/2023,65,Deputado Pepa
+2023,1065,REQ 1065/2023,66,Deputado Thiago Manzoni
+2024,1419,REQ 1419/2024,15,Deputado Chico Vigilante
+2024,1419,REQ 1419/2024,20,Deputado Fábio Felix
+2024,1419,REQ 1419/2024,26,Deputado Jorge Vianna
+2024,1419,REQ 1419/2024,57,Deputado Ricardo Vale
+2024,1419,REQ 1419/2024,60,Deputada Dayse Amarilio
+2024,1419,REQ 1419/2024,63,Deputado Max Maciel
+2024,1419,REQ 1419/2024,64,Deputada Paula Belmonte
+2024,1419,REQ 1419/2024,68,Deputado Gabriel Magno
