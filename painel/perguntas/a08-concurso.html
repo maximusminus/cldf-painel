@@ -10,6 +10,7 @@ body { margin: 0; padding: 0; background: #f6f4ef; color: #1a1a1a;
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
 header.topo { background: #1a3a52; color: #fff; padding: 16px 24px; }
 header.topo a { color: #cfe0ee; text-decoration: none; font-size: 13px; }
+header.topo nav.nav-topo a + a { margin-left: 12px; }
 header.topo h1 { margin: 4px 0 0 0; font-size: 20px; }
 main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .cartao { background: #fff; border: 1px solid #ddd6c8; border-radius: 6px;
@@ -36,7 +37,7 @@ a { color: #1a3a52; }
 </head>
 <body>
 <header class="topo">
-<a href="../index.html">&larr; o painel</a>
+<nav class="nav-topo"><a href="../index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a></nav>
 <h1>Eixo: concurso de 2018</h1>
 </header>
 <main>
@@ -63,9 +64,8 @@ a { color: #1a3a52; }
 </svg></div>
 <div class="limite"><b>Também informa</b> — signal 34 também informa que nenhum nome da lista de aprovados alcança publicação — a tabela não tem coluna de nome, por desenho — e que 26 dos 596 nomes nomeados não batem com a lista de aprovados por chave.</div>
 <div class="fonte">Tabela(s) lida(s): <code>concurso-2018-funil.csv</code></div>
-<p class="rodape">Gerado por <code>cldf.painel_estatico</code>, um construtor de página estática. Todo
-número desta página foi recalculado a partir da tabela publicada em
-<code>data/derived/</code> no momento da construção — não é uma cópia de outro texto.</p>
+<p class="rodape">Código-fonte e dados publicados:
+<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a></p>
 </main>
 </body>
 </html>

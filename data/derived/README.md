@@ -5,8 +5,9 @@ nenhum número desta pasta: você pode refazê-lo.**
 
 Coleta das proposições realizada a partir de **21 de agosto de 2026**; das votações, em
 **26–28 de agosto de 2026**. Fontes: a API pública da Câmara Legislativa do Distrito Federal e o
-Painel de Votação do seu Portal da Transparência. Licença dos dados: **CC BY 4.0**
-([`../../LICENSE-data`](../../LICENSE-data)).
+Painel de Votação do seu Portal da Transparência. Licença dos dados: **CC BY-SA 4.0**
+([`../../LICENSE-data`](../../LICENSE-data)) — re-escolhida na OS-083 para seguir a mesma
+licença que a maioria dos pacotes de `dados.cl.df.gov.br` já declara.
 
 ## O que existe hoje
 

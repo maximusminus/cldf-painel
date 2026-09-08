@@ -1,6 +1,6 @@
 # cldf — dados abertos de accountability legislativo do Distrito Federal
 
-Versão 0.36.0 · 102 tabelas · 53 arquivos de painel
+Versão 0.36.1 · 102 tabelas · 54 arquivos de painel
 
 Os dados consolidados de accountability legislativo do Distrito Federal que a Câmara
 Legislativa declarou formalmente não possuir consolidados, montados a partir da API
@@ -11,10 +11,9 @@ cidadão pode rederivar ou contestar em vez de simplesmente acreditar.
 
 - **O painel** — `painel/index.html`: as perguntas da missão, uma tela por pergunta.
 - **O explorador** — `painel/explorador.html`: filtre, agrupe e baixe qualquer tabela.
-- **O dicionário de dados** — `data/derived/README.md`: o que cada tabela é, de onde cada
-  número veio e o que ele **não** diz.
-- **A proveniência** — `data/derived/provenance.json`: as medições e os sinais de
-  qualidade, em JSON.
+- **Fontes e metodologia** — `painel/fontes-e-metodologia.html`: o que cada tabela é, de
+  onde cada número veio, o que ele **não** diz, e o link de cada arquivo no repositório —
+  inclui `data/derived/provenance.json`, as medições e os sinais de qualidade em JSON.
 
 ## Os dados
 
@@ -35,5 +34,10 @@ paralelo.
 
 ## Licença
 
-Dados: [CC BY 4.0](LICENSE-data) — copie, redistribua, cruze e publique, inclusive
-comercialmente, citando a fonte. Código: [MIT](LICENSE).
+Dados: [CC BY-SA 4.0](LICENSE-data) — copie, redistribua, cruze e publique, inclusive
+comercialmente, citando a fonte e mantendo a mesma licença em qualquer adaptação. Código e
+interface: [PolyForm Noncommercial 1.0.0](LICENSE) — uso não comercial.
+
+## Código-fonte
+
+https://github.com/maximusminus/cldf-painel

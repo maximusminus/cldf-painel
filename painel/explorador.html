@@ -8,16 +8,18 @@
 </head>
 <body>
 <header class="topo">
-<a href="index.html">&larr; o painel</a>
+<nav class="nav-topo"><a href="index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a></nav>
 <h1>Explorador de tabelas</h1>
 </header>
 <main id="app">
-<p>Precisa ser servido por HTTP — <code>python3 -m cldf.painel_estatico serve</code> — porque busca
-o CSV escolhido sob demanda, uma tabela de cada vez. Nenhuma tabela é combinada com outra
-aqui; a única navegação entre tabelas é o link "ver perfil", que segue o nome do deputado
-até <code>deputados-chave.csv</code>.</p>
+<p>Esta página só funciona publicada num site — ela não abre corretamente se você apenas
+clicar duas vezes no arquivo no seu computador, porque carrega uma tabela de cada vez, sob
+demanda. Nenhuma tabela é combinada com outra aqui; a única forma de ir de uma tabela para
+outra é o link "ver perfil", que segue o nome do deputado até <code>deputados-chave.csv</code>.</p>
 <div id="explorador-raiz"></div>
 </main>
+<p class="rodape">Código-fonte e dados publicados:
+<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a></p>
 <script src="static/explorador.js"></script>
 </body>
 </html>

@@ -614,8 +614,38 @@
     return html;
   }
 
+  // ------------------------------------------------------------------------------------
+  // Issue #111 item 8 — every column header carries a mouse-over label. `manifest.tabelas`
+  // already declares a `colunas` kind (chave/data/dinheiro/contagem/texto) per real column
+  // of the currently-loaded table (build.py's own `infer_kind`); the "valor" column an
+  // aggregation produces has no source column, so it is described from the aggregation
+  // itself instead.
+  // ------------------------------------------------------------------------------------
+  var ROTULOS_TIPO_COLUNA = {
+    chave: "identificador — usado para juntar linhas, não para somar",
+    data: "data, no formato AAAA-MM-DD",
+    dinheiro: "valor em reais",
+    contagem: "contagem — um número inteiro",
+    texto: "texto livre",
+  };
+
+  function descricaoColuna(nomeColuna) {
+    if (nomeColuna === "valor") {
+      return "valor agregado (" + estado.agregacao +
+        (estado.agregarColuna ? " de " + estado.agregarColuna : "") + ")";
+    }
+    var infoTabela = manifest && TABELA_ATUAL && manifest.tabelas ? manifest.tabelas[TABELA_ATUAL.nome] : null;
+    var tipo = infoTabela && infoTabela.colunas ? infoTabela.colunas[nomeColuna] : null;
+    if (tipo && ROTULOS_TIPO_COLUNA[tipo]) {
+      return nomeColuna + " — " + ROTULOS_TIPO_COLUNA[tipo];
+    }
+    return nomeColuna;
+  }
+
   function renderTabelaResultado(tabela, temPerfil) {
-    var thead = "<tr>" + tabela.colunas.map(function (c) { return "<th>" + esc(c) + "</th>"; }).join("") +
+    var thead = "<tr>" + tabela.colunas.map(function (c) {
+      return '<th title="' + esc(descricaoColuna(c)) + '">' + esc(c) + "</th>";
+    }).join("") +
       (temPerfil ? "<th></th>" : "") + "</tr>";
     var tbody = tabela.linhas.slice(0, 500).map(function (l) {
       var linkPerfil = "";
@@ -764,6 +794,7 @@
       processarEExibir: processarEExibir,
       criarParserCSV: criarParserCSV,
       esc: esc,
+      descricaoColuna: descricaoColuna,
       __definirManifest: function (m) { manifest = m; },
       __definirTabelaAtual: function (t) { TABELA_ATUAL = t; },
       __definirEstado: function (e) { estado = Object.assign(estado, e); },
