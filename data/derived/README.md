@@ -111,6 +111,30 @@ há **1.662 dias**, e esse máximo é o limite da coleta, não o limite da Casa.
 > refletem o acervo — de 4.932 para 22.748 registros. **Os números de 2024 não mudaram** (a soma
 > de 2024 continua exatamente 4.932); o que havia era ausência, não erro.
 
+## Legislaturas anteriores — as 7 tabelas de arquivo
+
+**Nenhuma linha foi retirada desta pasta e nenhuma tabela foi despublicada.** O que mudou na
+OS-086 é o painel: ele conta **só a 9ª legislatura, 2023–2026**, com 2022 ao lado como linha de
+base da legislatura anterior. As sete tabelas abaixo são inteiramente anteriores a 2023, portanto
+**nenhuma delas alimenta qualquer número da legislatura atual** — elas continuam aqui, continuam
+recalculáveis, e o painel as reúne numa seção declarada, "Legislaturas anteriores".
+
+| Arquivo | O que é, e de quando |
+|---|---|
+| `folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv` | folha de pagamento de 2012 a 2016 — 7ª legislatura e anteriores |
+| `folha-de-pagamento-por-pessoa-e-mes-2017-2018.csv` | folha de pagamento de 2017 e 2018 — 7ª legislatura |
+| `folha-de-pagamento-por-pessoa-e-mes-2019-2022.csv` | folha de pagamento de 2019 a 2022 — 8ª legislatura, a anterior a esta |
+| `emendas-loa-execucao-2021-2022.csv` / `.xlsx` | execução das emendas parlamentares à LOA em 2021 e 2022 — 8ª legislatura |
+| `concurso-2018-aprovados-por-cargo-e-categoria.csv` / `.xlsx` | concurso público de 2018 — lista de aprovados, por cargo e categoria |
+| `concurso-2018-nomeados.csv` / `.xlsx` | concurso público de 2018 — nomeações publicadas |
+| `concurso-2018-funil.csv` / `.xlsx` | concurso público de 2018 — do aprovado ao empossado |
+
+**As outras 95 tabelas não são "atuais" por serem desta lista ou daquela.** Muitas delas — a
+folha 2023–2026, a LOA, os créditos adicionais, as proposições — publicam anos anteriores a 2023
+no mesmo arquivo, e continuam publicando. É o painel que corta, receita por receita, nomeando a
+coluna de ano de cada tabela; a tabela publicada aqui não muda de bytes por causa disso. Quem
+quiser a série inteira lê o `.csv`, ou abre o explorador do painel, que não corta nada.
+
 ## O que estas tabelas NÃO dizem
 
 > **Atualização de 27/08/2026 — esta seção era verdadeira e deixou de ser.** Até esta versão ela

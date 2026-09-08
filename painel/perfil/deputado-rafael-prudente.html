@@ -23,6 +23,11 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 12px 16px; margin: 16px 0; font-size: 14px; }
 .limite b { color: #a3612f; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
+.cartao.linha-de-base { background: #f4f1ea; border-style: dashed; }
+.cartao.linha-de-base .taxa, .cartao.linha-de-base .numero { color: #6b6257; font-size: 22px; }
+.cartao.arquivo { background: #f4f1ea; border-style: dashed; }
 .fonte { font-size: 12px; color: #777; margin-top: 8px; }
 table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
 table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
@@ -42,6 +47,7 @@ a { color: #1a3a52; }
 </header>
 <main>
 <div class="cartao"><div class="rotulo-cabecalho">deputado(a)</div><div class="taxa">Deputado Rafael Prudente</div></div>
+<div class="janela" data-janela="sem_eixo">Janela: esta página lê uma tabela sem eixo de tempo. producao-por-deputado.csv não tem coluna de ano: cada coluna já é uma re-soma da 9ª legislatura (2023–2026), feita na exportação e declarada em provenance.json. O painel não re-janela esta tabela — ele confere que ela já está na janela.</div>
 <div class="fonte">Nomes na fonte: — (painel de votação), RAFAEL PRUDENTE (painel de emendas)</div>
 <div class="cartao">
 <div class="rotulo-cabecalho">sessões presentes</div>

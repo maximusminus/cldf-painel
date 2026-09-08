@@ -200,7 +200,6 @@
     }
   ],
   "sem_descricao": [
-    "folha-de-pagamento-por-pessoa-e-mes-2012-2016",
     "terceirizados-por-cargo-e-mes",
     "terceirizados-por-empresa-e-mes",
     "terceirizados-por-mes"
@@ -555,7 +554,7 @@
         "pior_classificacao": "contagem"
       },
       "consulta_ou_fonte": "Uma linha por (cargo, categoria) — 46 categorias sobre 5 grafias de cargo, incluindo a grafia `Consulktor` que a própria fonte publicou para uma linha de 1.061. `cargo` traz a grafia corrigida; `cargo_na_fonte`, a grafia verbatim. **Nenhum nome da lista de aprovados alcança esta tabela, nem qualquer outra publicada por este módulo** — decisão do operador, 2026-09-06 (\"Nomeados nominal, aprovados aggregate\"): os 986 aprovados que nunca foram chamados aparecem só como contagem. `nomeados_na_mesma_categoria` é uma recontagem direta da tabela de nomeados pelo mesmo par (cargo, categoria), nunca uma correspondência de nome.",
-      "descricao": "`concurso-2018-aprovados-por-cargo-e-categoria` é um agregado por (cargo, categoria), sem",
+      "descricao": "| `concurso-2018-aprovados-por-cargo-e-categoria.csv` / `.xlsx` | concurso público de 2018 — lista de aprovados, por cargo e categoria |",
       "formatos": [
         "csv",
         "xlsx"
@@ -635,7 +634,7 @@
         "nomeacao_tornada_sem_efeito": "texto"
       },
       "consulta_ou_fonte": "Uma linha por nomeação, exatamente no grão que a própria CLDF publica em \"Lista de Nomeados - Concurso 2018\" — 632 linhas. `nome` é publicado porque esta pessoa tornou-se servidora e já está nomeada na folha de pagamento publicada (OS-066/OS-072) — decisão do operador, 2026-09-06. `data_nomeacao_na_fonte` é o texto em prosa portuguesa da própria fonte (`\"quarta-feira, 13 de março de 2019\"`), publicado ao lado da data ISO que este módulo lê dele. `nomeacao_tornada_sem_efeito` é publicada verbatim — a fonte não escreve ali só uma data, mas uma data mais a referência de um Ato (`\"02/12/2020 (Ato do Presidente nº 359, de 2020 - DCL nº 287)\"`), e este módulo não separa os dois. `data_exoneracao` é a data ISO extraída do mesmo tipo de célula, descartando a referência ao Ato. `data_posse` e `data_exercicio` vazias são uma pessoa nomeada que nunca tomou posse ou nunca entrou em exercício, um fato da própria fonte, não uma falha de leitura.",
-      "descricao": "sim são publicados, em `concurso-2018-nomeados`, um por linha.",
+      "descricao": "| `concurso-2018-nomeados.csv` / `.xlsx` | concurso público de 2018 — nomeações publicadas |",
       "formatos": [
         "csv",
         "xlsx"
@@ -1766,7 +1765,7 @@
         "vl_saldo_a_solicitar": "texto"
       },
       "consulta_ou_fonte": "Uma linha por emenda de 2021 ou 2022 — 1.972 linhas, o portal `emendas-parlamentares` publicando os 18 campos próprios, normalizados. **Nenhuma coluna de parlamentar existe aqui — não uma vazia** (decisão do operador, 2026-09-06): nem o portal nem o painel atribuem autor a estes dois exercícios, e uma célula vazia nunca pode ser confundida com um cruzamento que falhou. status é ATIVO ou CANCELADO.",
-      "descricao": "`partido_no_painel`; `emendas-loa-execucao-2021-2022` (1.972 linhas) **não publica coluna de",
+      "descricao": "| `emendas-loa-execucao-2021-2022.csv` / `.xlsx` | execução das emendas parlamentares à LOA em 2021 e 2022 — 8ª legislatura |",
       "formatos": [
         "csv",
         "xlsx"
@@ -2172,7 +2171,7 @@
         "vencimentos_subsidio_ou_provento": "dinheiro"
       },
       "consulta_ou_fonte": "Uma linha por pessoa, por folha e por mês, exatamente no grão que a Casa publica. A chave é (competencia, matricula, folha) e NÃO a matrícula: em 2026-07 são 5.052 linhas para 2.623 matrículas distintas, porque a mesma pessoa aparece em mais de uma folha no mesmo mês. Somar por nome conta duas vezes. Os cinco créditos, os quatro descontos (que já chegam negativos) e os três auxílios somam exatamente o `liquido` — conferido linha a linha antes de qualquer publicação, na maior parte das linhas. `superficie` diz de qual das três publicações da Casa a linha veio: o arquivo do mês, o consolidado 2022-2025, ou o PDF da era 2012-07..2017-08 (OS-072). As colunas `ingresso`, `obs`, `bruto`, `redutor` e `teto` só a era A dos PDFs (2012-07 a 2013-09, 27.516 linhas) publica — vazias em toda linha fora dela, porque a fonte não detalha créditos/descontos/auxílios nesses meses, e nenhuma outra identidade é conferida ali: medida contra o acervo real, `bruto - redutor = líquido` só se sustenta em 1,29 % dessas linhas, porque a fonte omite um valor (aparentemente um IRRF) que nenhuma coluna da era A carrega. Uma única linha do resto da série (competência 2014-01, matrícula 11448) também não tem sua identidade conferida: a fonte imprime `########` no lugar do próprio IRRF, e a coluna fica vazia em vez de um número inventado. Esta é a única tabela do projeto publicada só em .csv; o motivo está no README. Esta partição cobre a era em PDF (OS-072), 6ª e o início da 7ª legislatura — 2012-07 a 2016-12, antes do início do datastore.",
-      "descricao": null,
+      "descricao": "| `folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv` | folha de pagamento de 2012 a 2016 — 7ª legislatura e anteriores |",
       "formatos": [
         "csv"
       ],

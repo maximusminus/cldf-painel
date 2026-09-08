@@ -26,6 +26,8 @@ table.explorador th { background: #efe9dc; position: sticky; top: 0; }
 .aviso { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 10px 14px; margin: 12px 0; font-size: 13px; }
 .aviso.erro { background: #fbe6e6; border-color: #e6a3a3; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
 .rotulo { font-size: 12px; color: #666; margin-right: 4px; }
 .grupo-campo { display: flex; flex-direction: column; gap: 2px; }
 a.ver-perfil { font-size: 12px; }

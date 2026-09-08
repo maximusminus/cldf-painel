@@ -23,6 +23,11 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 12px 16px; margin: 16px 0; font-size: 14px; }
 .limite b { color: #a3612f; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
+.cartao.linha-de-base { background: #f4f1ea; border-style: dashed; }
+.cartao.linha-de-base .taxa, .cartao.linha-de-base .numero { color: #6b6257; font-size: 22px; }
+.cartao.arquivo { background: #f4f1ea; border-style: dashed; }
 .fonte { font-size: 12px; color: #777; margin-top: 8px; }
 table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
 table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
@@ -42,29 +47,34 @@ a { color: #1a3a52; }
 </header>
 <main>
 <div class="pergunta-origem">proposições de iniciativa do Executivo: aprovadas no texto original / com emenda de mérito (quantas acatadas) / rejeitadas</div>
+<div class="janela" data-janela="legislatura">Janela: a 9ª legislatura, 2023–2026. Todo número desta página é contado só sobre esses quatro anos. 2022 — o último ano da legislatura anterior — aparece ao lado como linha de base, rotulado, e nunca é somado a um total de 2023–2026.</div>
 <div class="cartao">
-<div class="rotulo-cabecalho">número-chave</div>
-<span class="taxa" data-n="312" data-d="571">312 de 571 aprovadas (texto original ou com emenda) — 54,6%</span>
+<div class="rotulo-cabecalho">número-chave — 2023–2026</div>
+<span class="taxa" data-n="291" data-d="442">291 de 442 aprovadas (texto original ou com emenda) — 65,8%</span>
+</div>
+<div class="cartao linha-de-base">
+<div class="rotulo-cabecalho">linha de base — 2022, último ano da legislatura anterior (não somado acima)</div>
+<span class="taxa" data-n="21" data-d="129">21 de 129 aprovadas (texto original ou com emenda) — 16,3%</span>
 </div>
 <div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 168" width="680" height="168" role="img" aria-label="Desfecho, por espécie" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
 <rect x="0" y="0" width="680" height="168" fill="#ffffff" />
 <text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Desfecho, por espécie</text>
 <text x="152" y="55" font-size="12" fill="#1a1a1a" text-anchor="end">Proc</text>
-<rect x="160.0" y="43" width="4.9" height="14" fill="#2b5f8a" />
-<text x="170.9" y="55" font-size="12" fill="#1a1a1a">3</text>
+<rect x="160.0" y="43" width="5.3" height="14" fill="#2b5f8a" />
+<text x="171.3" y="55" font-size="12" fill="#1a1a1a">3</text>
 <text x="152" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">Projeto de Lei</text>
-<rect x="160.0" y="65" width="270.0" height="14" fill="#2b5f8a" />
-<rect x="430.0" y="65" width="178.4" height="14" fill="#c7752f" />
-<rect x="608.4" y="65" width="1.6" height="14" fill="#4c8c5b" />
-<text x="616.0" y="77" font-size="12" fill="#1a1a1a">275</text>
+<rect x="160.0" y="65" width="260.2" height="14" fill="#2b5f8a" />
+<rect x="420.2" y="65" width="188.1" height="14" fill="#c7752f" />
+<rect x="608.2" y="65" width="1.8" height="14" fill="#4c8c5b" />
+<text x="616.0" y="77" font-size="12" fill="#1a1a1a">256</text>
 <text x="152" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">Projeto de Lei Complementar</text>
-<rect x="160.0" y="87" width="21.3" height="14" fill="#2b5f8a" />
-<rect x="181.3" y="87" width="32.7" height="14" fill="#c7752f" />
-<text x="220.0" y="99" font-size="12" fill="#1a1a1a">33</text>
+<rect x="160.0" y="87" width="19.3" height="14" fill="#2b5f8a" />
+<rect x="179.3" y="87" width="35.2" height="14" fill="#c7752f" />
+<text x="220.5" y="99" font-size="12" fill="#1a1a1a">31</text>
 <text x="152" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">Proposta de Emenda à Lei Orgânica</text>
-<rect x="160.0" y="109" width="1.6" height="14" fill="#2b5f8a" />
-<rect x="161.6" y="109" width="1.6" height="14" fill="#c7752f" />
-<text x="169.3" y="121" font-size="12" fill="#1a1a1a">2</text>
+<rect x="160.0" y="109" width="1.8" height="14" fill="#2b5f8a" />
+<rect x="161.8" y="109" width="1.8" height="14" fill="#c7752f" />
+<text x="169.5" y="121" font-size="12" fill="#1a1a1a">2</text>
 <rect x="160" y="132" width="10" height="10" fill="#2b5f8a" />
 <text x="174" y="141" font-size="11" fill="#1a1a1a">texto original</text>
 <rect x="320" y="132" width="10" height="10" fill="#c7752f" />

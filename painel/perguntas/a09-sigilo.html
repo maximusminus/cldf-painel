@@ -23,6 +23,11 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 12px 16px; margin: 16px 0; font-size: 14px; }
 .limite b { color: #a3612f; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
+.cartao.linha-de-base { background: #f4f1ea; border-style: dashed; }
+.cartao.linha-de-base .taxa, .cartao.linha-de-base .numero { color: #6b6257; font-size: 22px; }
+.cartao.arquivo { background: #f4f1ea; border-style: dashed; }
 .fonte { font-size: 12px; color: #777; margin-top: 8px; }
 table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
 table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
@@ -42,34 +47,39 @@ a { color: #1a3a52; }
 </header>
 <main>
 <div class="pergunta-origem">eixo acrescentado — o rol de informações classificadas, por unidade e por ano</div>
+<div class="janela" data-janela="legislatura">Janela: a 9ª legislatura, 2023–2026. Todo número desta página é contado só sobre esses quatro anos. 2022 — o último ano da legislatura anterior — aparece ao lado como linha de base, rotulado, e nunca é somado a um total de 2023–2026.</div>
 <div class="cartao">
-<div class="rotulo-cabecalho">número-chave</div>
-<span class="taxa" data-n="147" data-d="175">147 de 175 classificados sem grau publicado — 84,0%</span>
+<div class="rotulo-cabecalho">número-chave — 2023–2026</div>
+<span class="taxa" data-n="118" data-d="146">118 de 146 classificados sem grau publicado — 80,8%</span>
+</div>
+<div class="cartao linha-de-base">
+<div class="rotulo-cabecalho">linha de base — 2022, último ano da legislatura anterior (não somado acima)</div>
+<span class="taxa" data-n="23" data-d="23">23 de 23 classificados sem grau publicado — 100,0%</span>
 </div>
 <div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 206" width="640" height="206" role="img" aria-label="Processos, por grau declarado" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
 <rect x="0" y="0" width="640" height="206" fill="#ffffff" />
 <text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Processos, por grau declarado</text>
 <text x="212" y="55" font-size="12" fill="#1a1a1a" text-anchor="end">restrito</text>
-<rect x="220" y="43" width="185.7" height="14" fill="#2b5f8a" />
-<text x="411.7" y="55" font-size="12" fill="#1a1a1a">78</text>
+<rect x="220" y="43" width="172.0" height="14" fill="#2b5f8a" />
+<text x="398.0" y="55" font-size="12" fill="#1a1a1a">58</text>
 <text x="212" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">sigiloso</text>
-<rect x="220" y="65" width="226.2" height="14" fill="#2b5f8a" />
-<text x="452.2" y="77" font-size="12" fill="#1a1a1a">95</text>
+<rect x="220" y="65" width="255.1" height="14" fill="#2b5f8a" />
+<text x="481.1" y="77" font-size="12" fill="#1a1a1a">86</text>
 <text x="212" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">sem categoria</text>
-<rect x="220" y="87" width="4.8" height="14" fill="#2b5f8a" />
-<text x="230.8" y="99" font-size="12" fill="#1a1a1a">2</text>
+<rect x="220" y="87" width="5.9" height="14" fill="#2b5f8a" />
+<text x="231.9" y="99" font-size="12" fill="#1a1a1a">2</text>
 <text x="212" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">reservado</text>
-<rect x="220" y="109" width="42.9" height="14" fill="#2b5f8a" />
-<text x="268.9" y="121" font-size="12" fill="#1a1a1a">18</text>
+<rect x="220" y="109" width="53.4" height="14" fill="#2b5f8a" />
+<text x="279.4" y="121" font-size="12" fill="#1a1a1a">18</text>
 <text x="212" y="143" font-size="12" fill="#1a1a1a" text-anchor="end">secreto</text>
-<rect x="220" y="131" width="21.4" height="14" fill="#2b5f8a" />
-<text x="247.4" y="143" font-size="12" fill="#1a1a1a">9</text>
+<rect x="220" y="131" width="26.7" height="14" fill="#2b5f8a" />
+<text x="252.7" y="143" font-size="12" fill="#1a1a1a">9</text>
 <text x="212" y="165" font-size="12" fill="#1a1a1a" text-anchor="end">ultrassecreto</text>
-<rect x="220" y="153" width="2.4" height="14" fill="#2b5f8a" />
-<text x="228.4" y="165" font-size="12" fill="#1a1a1a">1</text>
+<rect x="220" y="153" width="3.0" height="14" fill="#2b5f8a" />
+<text x="229.0" y="165" font-size="12" fill="#1a1a1a">1</text>
 <text x="212" y="187" font-size="12" fill="#1a1a1a" text-anchor="end">sem grau</text>
 <rect x="220" y="175" width="350.0" height="14" fill="#2b5f8a" />
-<text x="576.0" y="187" font-size="12" fill="#1a1a1a">147</text>
+<text x="576.0" y="187" font-size="12" fill="#1a1a1a">118</text>
 </svg></div>
 <div class="limite"><b>Também informa</b> — signal 31 também informa que a Casa classifica muito mais do que rotula — o grau fica vazio em 149 das 177 linhas — e que o rol de desclassificados publica 118 linhas sem nenhum conteúdo.</div>
 <div class="fonte">Tabela(s) lida(s): <code>informacoes-classificadas-por-unidade-e-ano.csv</code></div>

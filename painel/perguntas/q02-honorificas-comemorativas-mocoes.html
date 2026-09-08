@@ -23,6 +23,11 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 12px 16px; margin: 16px 0; font-size: 14px; }
 .limite b { color: #a3612f; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
+.cartao.linha-de-base { background: #f4f1ea; border-style: dashed; }
+.cartao.linha-de-base .taxa, .cartao.linha-de-base .numero { color: #6b6257; font-size: 22px; }
+.cartao.arquivo { background: #f4f1ea; border-style: dashed; }
 .fonte { font-size: 12px; color: #777; margin-top: 8px; }
 table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
 table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
@@ -42,28 +47,33 @@ a { color: #1a3a52; }
 </header>
 <main>
 <div class="pergunta-origem">proposições honoríficas/comemorativas/moções — relação nominal com número, ano, autoria, ementa</div>
+<div class="janela" data-janela="legislatura">Janela: a 9ª legislatura, 2023–2026. Todo número desta página é contado só sobre esses quatro anos. 2022 — o último ano da legislatura anterior — aparece ao lado como linha de base, rotulado, e nunca é somado a um total de 2023–2026.</div>
 <div class="cartao">
-<div class="rotulo-cabecalho">número-chave</div>
-<span class="numero" data-n="3952">3.952  proposições honoríficas/comemorativas/moções publicadas</span>
+<div class="rotulo-cabecalho">número-chave — 2023–2026</div>
+<span class="numero" data-n="2909">2.909  proposições honoríficas/comemorativas/moções publicadas</span>
+</div>
+<div class="cartao linha-de-base">
+<div class="rotulo-cabecalho">linha de base — 2022, último ano da legislatura anterior (não somado acima)</div>
+<span class="numero" data-n="1043">1.043  proposições honoríficas/comemorativas/moções publicadas</span>
 </div>
 <div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 162" width="640" height="162" role="img" aria-label="Por categoria" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
 <rect x="0" y="0" width="640" height="162" fill="#ffffff" />
 <text x="12" y="20" font-size="13" font-weight="600" fill="#1a1a1a">Por categoria</text>
 <text x="212" y="55" font-size="12" fill="#1a1a1a" text-anchor="end">mocao</text>
 <rect x="220" y="43" width="350.0" height="14" fill="#2b5f8a" />
-<text x="576.0" y="55" font-size="12" fill="#1a1a1a">3.034</text>
+<text x="576.0" y="55" font-size="12" fill="#1a1a1a">2.121</text>
 <text x="212" y="77" font-size="12" fill="#1a1a1a" text-anchor="end">titulo_honorifico</text>
-<rect x="220" y="65" width="55.4" height="14" fill="#2b5f8a" />
-<text x="281.4" y="77" font-size="12" fill="#1a1a1a">480</text>
+<rect x="220" y="65" width="72.6" height="14" fill="#2b5f8a" />
+<text x="298.6" y="77" font-size="12" fill="#1a1a1a">440</text>
 <text x="212" y="99" font-size="12" fill="#1a1a1a" text-anchor="end">data_comemorativa</text>
-<rect x="220" y="87" width="40.7" height="14" fill="#2b5f8a" />
-<text x="266.7" y="99" font-size="12" fill="#1a1a1a">353</text>
+<rect x="220" y="87" width="47.4" height="14" fill="#2b5f8a" />
+<text x="273.4" y="99" font-size="12" fill="#1a1a1a">287</text>
 <text x="212" y="121" font-size="12" fill="#1a1a1a" text-anchor="end">denominacao</text>
-<rect x="220" y="109" width="7.7" height="14" fill="#2b5f8a" />
-<text x="233.7" y="121" font-size="12" fill="#1a1a1a">67</text>
+<rect x="220" y="109" width="7.4" height="14" fill="#2b5f8a" />
+<text x="233.4" y="121" font-size="12" fill="#1a1a1a">45</text>
 <text x="212" y="143" font-size="12" fill="#1a1a1a" text-anchor="end">indeterminada</text>
-<rect x="220" y="131" width="2.1" height="14" fill="#2b5f8a" />
-<text x="228.1" y="143" font-size="12" fill="#1a1a1a">18</text>
+<rect x="220" y="131" width="2.6" height="14" fill="#2b5f8a" />
+<text x="228.6" y="143" font-size="12" fill="#1a1a1a">16</text>
 </svg></div>
 <div class="limite"><b>Também informa</b> — signal 6 (dataset 2) também informa a taxa de erro da própria regra de classificação (48/353) e o achado de auditoria manual (2 em 60) — a categoria é lida da ementa, não declarada pela fonte.</div>
 <div class="fonte">Tabela(s) lida(s): <code>proposicoes-honorificas-comemorativas-e-mocoes.csv</code></div>

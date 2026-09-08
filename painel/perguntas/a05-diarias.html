@@ -23,6 +23,11 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .limite { background: #fdf3e7; border: 1px solid #e6c99a; border-radius: 6px;
   padding: 12px 16px; margin: 16px 0; font-size: 14px; }
 .limite b { color: #a3612f; }
+.janela { background: #eaf1f6; border: 1px solid #b7cbd9; border-radius: 6px;
+  padding: 10px 16px; margin: 16px 0; font-size: 14px; color: #1a3a52; }
+.cartao.linha-de-base { background: #f4f1ea; border-style: dashed; }
+.cartao.linha-de-base .taxa, .cartao.linha-de-base .numero { color: #6b6257; font-size: 22px; }
+.cartao.arquivo { background: #f4f1ea; border-style: dashed; }
 .fonte { font-size: 12px; color: #777; margin-top: 8px; }
 table.tabela-simples { border-collapse: collapse; width: 100%; font-size: 13px; }
 table.tabela-simples th, table.tabela-simples td { border: 1px solid #ddd6c8;
@@ -42,8 +47,9 @@ a { color: #1a3a52; }
 </header>
 <main>
 <div class="pergunta-origem">eixo acrescentado — diárias pagas a deputados e servidores</div>
+<div class="janela" data-janela="legislatura">Janela: a 9ª legislatura, 2023–2026. Todo número desta página é contado só sobre esses quatro anos. 2022 — o último ano da legislatura anterior — aparece ao lado como linha de base, rotulado, e nunca é somado a um total de 2023–2026.</div>
 <div class="cartao">
-<div class="rotulo-cabecalho">número-chave</div>
+<div class="rotulo-cabecalho">número-chave — 2023–2026</div>
 <span class="taxa" data-n="44" data-d="163">44 de 163 diárias pagas a deputado — 27,0%</span>
 </div>
 <div class="cartao"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1790" width="640" height="1790" role="img" aria-label="Diárias, por motivo" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
