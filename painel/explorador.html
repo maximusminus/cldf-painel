@@ -8,7 +8,7 @@
 </head>
 <body>
 <header class="topo">
-<nav class="nav-topo"><a href="index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a></nav>
+<nav class="nav-topo"><a href="index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link" href="#reportar">reportar um problema</a></nav>
 <h1>Explorador de tabelas</h1>
 </header>
 <main id="app">
@@ -18,9 +18,27 @@ clicar duas vezes no arquivo no seu computador, porque carrega uma tabela de cad
 demanda. Nenhuma tabela é combinada com outra aqui; a única forma de ir de uma tabela para
 outra é o link "ver perfil", que segue o nome do deputado até <code>deputados-chave.csv</code>.</p>
 <div id="explorador-raiz"></div>
+<section id="reportar" class="reportar">
+<h2>Reportar um problema</h2>
+<p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva
+abaixo. Ao enviar, o texto abre uma issue no repositório público do painel — para publicá-la
+é preciso ter uma conta no GitHub.</p>
+<form id="form-reportar" method="get" action="https://github.com/maximusminus/cldf-painel/issues/new" target="_blank" rel="noopener" data-acao="https://github.com/maximusminus/cldf-painel/issues/new" data-limite="6000">
+<label for="reportar-titulo">Título</label>
+<input id="reportar-titulo" name="title" type="text" maxlength="180" required>
+<label for="reportar-corpo">O que aconteceu</label>
+<textarea id="reportar-corpo" name="body" rows="6" maxlength="6000" required></textarea>
+<label for="reportar-pagina">URL relacionada</label>
+<input id="reportar-pagina" name="pagina" type="url" value="https://maximusminus.github.io/cldf-painel/painel/explorador.html">
+<p class="aviso-reportar" id="reportar-aviso"></p>
+<button type="submit">Abrir a issue no GitHub</button>
+</form>
+</section>
+
 </main>
 <p class="rodape">Código-fonte e dados publicados:
-<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a></p>
+<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a> &middot; <a class="reportar-link" href="#reportar">reportar um problema</a></p>
 <script src="static/explorador.js"></script>
+<script src="static/reportar.js"></script>
 </body>
 </html>
