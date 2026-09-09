@@ -28,11 +28,28 @@ main { max-width: 920px; margin: 0 auto; padding: 20px 24px 60px 24px; }
 .rodape { font-size: 12px; color: #888; margin-top: 40px; border-top: 1px solid #ddd6c8;
   padding-top: 12px; }
 code { background: #efe9dc; padding: 1px 4px; border-radius: 3px; font-size: 13px; }
+.reportar { border: 1px solid #ddd6c8; border-radius: 6px; background: #fbf9f4;
+  padding: 16px; margin: 32px 0 8px; }
+.reportar h2 { font-size: 16px; margin: 0 0 8px; }
+.reportar p { font-size: 13px; color: #555; margin: 0 0 12px; }
+.reportar label { display: block; font-size: 12px; color: #444; margin: 10px 0 2px; }
+.reportar input, .reportar textarea { width: 100%; box-sizing: border-box; font: inherit;
+  font-size: 13px; padding: 6px 8px; border: 1px solid #ccc4b4; border-radius: 4px;
+  background: #fff; }
+.reportar button { margin-top: 12px; font: inherit; font-size: 13px; padding: 7px 14px;
+  border: 1px solid #1a3a52; border-radius: 4px; background: #1a3a52; color: #fff;
+  cursor: pointer; }
+.aviso-reportar { color: #a3612f; font-size: 12px; margin: 8px 0 0; }
+a.reportar-link { font-weight: 600; }
+header.topo nav.nav-topo { display: flex; align-items: center; flex-wrap: wrap; }
+header.topo a.reportar-link.destaque { margin-left: auto; background: #fff; color: #c1121f;
+  font-weight: 700; font-size: 17px; padding: 8px 16px; border: 2px solid #c1121f;
+  border-radius: 4px; }
 </style>
 </head>
 <body>
 <header class="topo">
-<nav class="nav-topo"><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a></nav>
+<nav class="nav-topo"><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link destaque" href="#reportar">reportar um problema</a></nav>
 <h1>cldf — dados abertos da Câmara Legislativa do Distrito Federal</h1>
 <p>Os dados consolidados de accountability legislativo que a Casa declarou formalmente não
 possuir consolidados, montados a partir da sua própria API pública e dos seus portais.</p>
@@ -72,11 +89,30 @@ escolhida; onde a fonte é silenciosa, o silêncio é publicado como contagem.
 publique, inclusive comercialmente, citando a fonte e mantendo a mesma licença em qualquer
 adaptação. O código e a interface estão sob
 <a href="LICENSE">PolyForm Noncommercial 1.0.0</a> — uso não comercial.</p>
-<p class="fonte">versão 0.38.1</p>
+<p class="fonte">versão 0.38.3</p>
 </div>
+
+<section id="reportar" class="reportar">
+<h2>Reportar um problema ou enviar sugestões de melhorias</h2>
+<p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva
+abaixo. Este é também o canal para <strong>enviar sugestões de melhorias</strong>. Ao enviar,
+o texto abre uma issue no repositório público do painel — para publicá-la é preciso ter uma
+conta no GitHub.</p>
+<form id="form-reportar" method="get" action="https://github.com/maximusminus/cldf-painel/issues/new" target="_blank" rel="noopener" data-acao="https://github.com/maximusminus/cldf-painel/issues/new" data-limite="6000">
+<label for="reportar-titulo">Título</label>
+<input id="reportar-titulo" name="title" type="text" maxlength="180" required>
+<label for="reportar-corpo">O que aconteceu</label>
+<textarea id="reportar-corpo" name="body" rows="6" maxlength="6000" required></textarea>
+<label for="reportar-pagina">URL relacionada</label>
+<input id="reportar-pagina" name="pagina" type="url" value="https://maximusminus.github.io/cldf-painel/index.html">
+<p class="aviso-reportar" id="reportar-aviso"></p>
+<button type="submit">Abrir a issue no GitHub</button>
+</form>
+</section>
 
 </main>
 <p class="rodape">Código-fonte e dados publicados:
-<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a></p>
+<a href="https://github.com/maximusminus/cldf-painel">github.com/maximusminus/cldf-painel</a> &middot; <a class="reportar-link" href="#reportar">reportar um problema</a></p>
+<script src="painel/static/reportar.js"></script>
 </body>
 </html>
