@@ -51,11 +51,15 @@ a { color: #1a3a52; }
   cursor: pointer; }
 .aviso-reportar { color: #a3612f; font-size: 12px; margin: 8px 0 0; }
 a.reportar-link { font-weight: 600; }
+header.topo nav.nav-topo { display: flex; align-items: center; flex-wrap: wrap; }
+header.topo a.reportar-link.destaque { margin-left: auto; background: #fff; color: #c1121f;
+  font-weight: 700; font-size: 17px; padding: 8px 16px; border: 2px solid #c1121f;
+  border-radius: 4px; }
 </style>
 </head>
 <body>
 <header class="topo">
-<nav class="nav-topo"><a href="../index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link" href="#reportar">reportar um problema</a></nav>
+<nav class="nav-topo"><a href="../index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link destaque" href="#reportar">reportar um problema</a></nav>
 <h1>Vetos do Governador</h1>
 </header>
 <main>
@@ -91,10 +95,11 @@ a.reportar-link { font-weight: 600; }
 <div class="limite"><b>Também informa</b> — signal 14 (dataset 5) também informa 24 vetos que só o relatório final registra, 2 casos de má classificação e 4 auto-contradições na fonte — publicados, nunca corrigidos por inferência.</div>
 <div class="fonte">Tabela(s) lida(s): <code>vetos-do-governador.csv</code></div>
 <section id="reportar" class="reportar">
-<h2>Reportar um problema</h2>
+<h2>Reportar um problema ou enviar sugestões de melhorias</h2>
 <p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva
-abaixo. Ao enviar, o texto abre uma issue no repositório público do painel — para publicá-la
-é preciso ter uma conta no GitHub.</p>
+abaixo. Este é também o canal para <strong>enviar sugestões de melhorias</strong>. Ao enviar,
+o texto abre uma issue no repositório público do painel — para publicá-la é preciso ter uma
+conta no GitHub.</p>
 <form id="form-reportar" method="get" action="https://github.com/maximusminus/cldf-painel/issues/new" target="_blank" rel="noopener" data-acao="https://github.com/maximusminus/cldf-painel/issues/new" data-limite="6000">
 <label for="reportar-titulo">Título</label>
 <input id="reportar-titulo" name="title" type="text" maxlength="180" required>

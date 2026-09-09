@@ -44,3 +44,7 @@ a.ver-perfil { font-size: 12px; }
   cursor: pointer; }
 .aviso-reportar { color: #a3612f; font-size: 12px; margin: 8px 0 0; }
 a.reportar-link { font-weight: 600; }
+header.topo nav.nav-topo { display: flex; align-items: center; flex-wrap: wrap; }
+header.topo a.reportar-link.destaque { margin-left: auto; background: #fff; color: #c1121f;
+  font-weight: 700; font-size: 17px; padding: 8px 16px; border: 2px solid #c1121f;
+  border-radius: 4px; }

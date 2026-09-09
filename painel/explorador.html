@@ -8,7 +8,7 @@
 </head>
 <body>
 <header class="topo">
-<nav class="nav-topo"><a href="index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link" href="#reportar">reportar um problema</a></nav>
+<nav class="nav-topo"><a href="index.html">&larr; o painel</a><a href="https://github.com/maximusminus/cldf-painel">código-fonte e dados no GitHub</a><a class="reportar-link destaque" href="#reportar">reportar um problema</a></nav>
 <h1>Explorador de tabelas</h1>
 </header>
 <main id="app">
@@ -19,10 +19,11 @@ demanda. Nenhuma tabela é combinada com outra aqui; a única forma de ir de uma
 outra é o link "ver perfil", que segue o nome do deputado até <code>deputados-chave.csv</code>.</p>
 <div id="explorador-raiz"></div>
 <section id="reportar" class="reportar">
-<h2>Reportar um problema</h2>
+<h2>Reportar um problema ou enviar sugestões de melhorias</h2>
 <p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva
-abaixo. Ao enviar, o texto abre uma issue no repositório público do painel — para publicá-la
-é preciso ter uma conta no GitHub.</p>
+abaixo. Este é também o canal para <strong>enviar sugestões de melhorias</strong>. Ao enviar,
+o texto abre uma issue no repositório público do painel — para publicá-la é preciso ter uma
+conta no GitHub.</p>
 <form id="form-reportar" method="get" action="https://github.com/maximusminus/cldf-painel/issues/new" target="_blank" rel="noopener" data-acao="https://github.com/maximusminus/cldf-painel/issues/new" data-limite="6000">
 <label for="reportar-titulo">Título</label>
 <input id="reportar-titulo" name="title" type="text" maxlength="180" required>
