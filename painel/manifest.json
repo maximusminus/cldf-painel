@@ -113,7 +113,7 @@
       "titulo": "Frequência dos deputados em plenário"
     }
   ],
-  "contagem_tabelas": 102,
+  "contagem_tabelas": 106,
   "explorador": {
     "arquivo": "explorador.html",
     "linha_limite": 200000,
@@ -534,6 +534,146 @@
       "sha256": {
         "csv": "sha256:0593509d82a891822237d835b64b9652fd63a0f389256decc327f8b0bce6883a",
         "xlsx": "sha256:3071c0b497f2e40347073b37821052cf4be8ba0431892febba91af7c43ee428f"
+      }
+    },
+    "campos-atomicos": {
+      "arquivo": "campos-atomicos.csv",
+      "bytes": 1519265,
+      "cabecalho": [
+        "fonte",
+        "entidade",
+        "origem_arquivo",
+        "origem_registro",
+        "campo_original",
+        "campo_normalizado",
+        "tipo_original",
+        "rotulo_original",
+        "descricao_original",
+        "origem_conjunto",
+        "descricao_do_conjunto_original",
+        "modulo",
+        "publicado_em"
+      ],
+      "colunas": {
+        "campo_normalizado": "texto",
+        "campo_original": "texto",
+        "descricao_do_conjunto_original": "texto",
+        "descricao_original": "texto",
+        "entidade": "texto",
+        "fonte": "texto",
+        "modulo": "texto",
+        "origem_arquivo": "texto",
+        "origem_conjunto": "texto",
+        "origem_registro": "texto",
+        "publicado_em": "texto",
+        "rotulo_original": "texto",
+        "tipo_original": "texto"
+      },
+      "consulta_ou_fonte": "Uma linha por campo atômico que o acervo bruto (data/raw/) guarda, lido mecanicamente das próprias respostas armazenadas: campo como a fonte o escreve, tipo que a fonte declara (ou n/d), rótulo e descrição que a FONTE escreveu (ou n/d) — nenhuma descrição foi escrita por este projeto, e o sinal 37c prova cada uma como substring byte a byte do arquivo em origem_registro. publicado_em lista as colunas publicadas que o campo alimenta, segundo as declarações ORIGEM dos módulos; 'não publicado' quando nenhuma. campo_normalizado (OS-106) é uma chave que ESTE PROJETO calcula a partir de campo_original — minúsculas, sem acentos, qualquer espaço em branco (inclusive quebra de linha e tabulação) e o hífen viram '_', e nada mais — para agrupar as grafias que a mesma fonte usa em arquivos diferentes (Nome/nome, Lotação/Lotacao); não é um fato da fonte, e a chave é única por arquivo de origem, não na tabela (sinal 37f).",
+      "descricao": "**o mapa de campos**: cada campo atômico que o acervo bruto guarda, com o tipo, o rótulo e a descrição que a fonte escreveu (ou `n/d`), o arquivo de origem, o módulo e as colunas publicadas que alimenta — OS-104; e, desde a OS-106, `campo_normalizado`, a chave que ESTE projeto computa a partir da grafia (caixa, acentos e separadores dobrados), ao lado dela",
+      "formatos": [
+        "csv",
+        "xlsx"
+      ],
+      "linhas": 2591,
+      "paginas": [],
+      "sha256": {
+        "csv": "sha256:bfef8910773df63494486b68cd79d047cea07cf082e2139ffd99d6845148f23d",
+        "xlsx": "sha256:aba5580a3e2ffe21ae3567d106e8322f7d6667065e101c129bc53f38a431ae09"
+      }
+    },
+    "campos-unicos": {
+      "arquivo": "campos-unicos.csv",
+      "bytes": 1002781,
+      "cabecalho": [
+        "fonte",
+        "entidade",
+        "campo_normalizado",
+        "grafias",
+        "n_arquivos",
+        "origem_arquivos",
+        "tipo_original",
+        "rotulo_original",
+        "descricao_original",
+        "modulo",
+        "publicado_em"
+      ],
+      "colunas": {
+        "campo_normalizado": "texto",
+        "descricao_original": "texto",
+        "entidade": "texto",
+        "fonte": "texto",
+        "grafias": "texto",
+        "modulo": "texto",
+        "n_arquivos": "contagem",
+        "origem_arquivos": "texto",
+        "publicado_em": "texto",
+        "rotulo_original": "texto",
+        "tipo_original": "texto"
+      },
+      "consulta_ou_fonte": "Uma linha por (fonte, entidade, campo_normalizado) de campos-atomicos — a mesma tabela dobrada sobre a chave que este projeto calcula, para que cada campo apareça UMA vez, ordenada por (fonte, entidade, campo_normalizado): grafias lista as formas que a fonte escreveu, origem_arquivos os arquivos em que aparece, n_arquivos conta EXATAMENTE os itens de origem_arquivos (o leitor reconta a célula ao lado), e tipo, rótulo, descrição e publicado_em são a união dos valores das linhas dobradas ('; ' entre eles). Nenhuma célula nasce aqui: o sinal 37f prova que as grafias e as origens listadas são EXATAMENTE as das linhas dobradas de campos-atomicos — nenhuma a mais, nenhuma a menos — e que nenhuma chave se repete. A tabela NÃO afirma o produto das duas listas: uma grafia aparece em ALGUMA das origens listadas, não necessariamente em todas.",
+      "descricao": "**o mapa de campos, um campo por linha**: uma linha por (fonte, entidade, `campo_normalizado`), com as grafias que a fonte usa, os arquivos, os tipos, rótulos e descrições originais e as colunas publicadas, unidos por `;` — uma dobra de `campos-atomicos`, não uma leitura nova — OS-106",
+      "formatos": [
+        "csv",
+        "xlsx"
+      ],
+      "linhas": 2550,
+      "paginas": [],
+      "sha256": {
+        "csv": "sha256:6566d0621f1352bd6ad36b6cba1af8da8fb6db6729a4e6438daf187dedbb7bc2",
+        "xlsx": "sha256:9f5221ca2759b79b756ef088140d4483033e0d2b6f9b5ca2bf20599e9fd47b30"
+      }
+    },
+    "colunas-publicadas": {
+      "arquivo": "colunas-publicadas.csv",
+      "bytes": 1886383,
+      "cabecalho": [
+        "tabela",
+        "coluna",
+        "natureza",
+        "fonte",
+        "entidade",
+        "campo_original",
+        "campo_normalizado",
+        "campo_atomico",
+        "origem_arquivo",
+        "tipo_original",
+        "rotulo_original",
+        "descricao_original",
+        "derivada_de",
+        "nota",
+        "modulo",
+        "tipo_publicado"
+      ],
+      "colunas": {
+        "campo_atomico": "texto",
+        "campo_normalizado": "texto",
+        "campo_original": "texto",
+        "coluna": "texto",
+        "derivada_de": "texto",
+        "descricao_original": "texto",
+        "entidade": "texto",
+        "fonte": "texto",
+        "modulo": "texto",
+        "natureza": "texto",
+        "nota": "texto",
+        "origem_arquivo": "texto",
+        "rotulo_original": "texto",
+        "tabela": "texto",
+        "tipo_original": "texto",
+        "tipo_publicado": "texto"
+      },
+      "consulta_ou_fonte": "Uma linha por (tabela, coluna) de toda tabela publicada — provado igual à união dos cabeçalhos. natureza = atomica (a coluna carrega um campo da fonte, sem transformação além de renomear/normalizar), chave (um identificador que este projeto forma a partir de campos da fonte) ou derivada (contagem, soma, conferência ou leitura calculada). A origem é a que o módulo produtor DECLARA no seu dicionário ORIGEM, nunca inferida do nome da coluna; o sinal 37 recusa uma coluna sem declaração e uma declaração que aponte para um campo que o acervo não guarda. tipo_publicado é o tipo que o painel INFERE por regex sobre 50 linhas de amostra (cldf.painel_estatico.build.infer_kind) — rotulado como inferido e mantido separado de tipo_original, que é o da fonte.",
+      "descricao": "cada coluna das outras 102 tabelas, com o campo atômico que carrega ou as referências de que foi computada, declarados em código pelo módulo produtor — OS-104; `campo_normalizado` desde a OS-106",
+      "formatos": [
+        "csv",
+        "xlsx"
+      ],
+      "linhas": 1292,
+      "paginas": [],
+      "sha256": {
+        "csv": "sha256:f5b14b3dc19a5b20d9f4d83849da65b2b75444ff85216221fc227ef03131ac47",
+        "xlsx": "sha256:0c9e36df4af010ed1af6ece785d076b0b41b94a1719dc4fa7fe956b7f4045f5e"
       }
     },
     "comissoes-parlamentares-de-inquerito": {
@@ -4048,6 +4188,36 @@
       "sha256": {
         "csv": "sha256:526a3729fb4561564c5ce622503e908e9880b3aa94a6f5d676191c354e7711a5",
         "xlsx": "sha256:882f5ca9e1127c1ce2a3003c980c04ad73410559db7c479742d4789594147961"
+      }
+    },
+    "regioes-administrativas": {
+      "arquivo": "regioes-administrativas.csv",
+      "bytes": 4282,
+      "cabecalho": [
+        "codigo_ra",
+        "nome_canonico",
+        "grafia_api",
+        "codigo_localizacao",
+        "grafia_orcamento"
+      ],
+      "colunas": {
+        "codigo_localizacao": "contagem",
+        "codigo_ra": "texto",
+        "grafia_api": "texto",
+        "grafia_orcamento": "texto",
+        "nome_canonico": "texto"
+      },
+      "consulta_ou_fonte": "Uma linha por grafia distinta de região administrativa: a da API (`regiaoAdministrativaNome`, um campo `#`-delimitado nas proposições — cada átomo é uma linha) e a do orçamento (`nome_localizacao`, em `creditos-adicionais-por-emenda.csv` e `leis-orcamentarias-dotacao.csv`). `codigo_ra` é o numeral romano oficial da RA (`I` a `XXXV`) ou o literal `não-geográfica` para uma localização orçamentária que não é uma RA numerada (o Distrito Federal inteiro, uma macrorregião orçamentária, `ENTORNO`, `OUTROS ESTADOS`, `EXTERIOR`). `nome_canonico` é a grafia escolhida por este projeto como referência — a da API quando ela cobre a localização (é a grafia voltada ao cidadão), a do orçamento quando não cobre. `grafia_api` e `grafia_orcamento` ficam vazias na linha que não tem correspondente do outro lado: a RA XXXV (`ÁGUA QUENTE`, criada em 2022) não tem código orçamentário ainda, e é a única linha nessa situação — feito assim de propósito, o achado é a lacuna e não algo a esconder. Tabela hand-written, não harvested: mão-escrita e citada em `data/norms/PROVENANCE.md`, com o sha256 do arquivo. **Nenhum join é executado aqui** — esta tabela apenas nomeia a correspondência.",
+      "descricao": "`regioes-administrativas` é a primeira tabela **mão-escrita** deste projeto, não colhida: uma",
+      "formatos": [
+        "csv",
+        "xlsx"
+      ],
+      "linhas": 52,
+      "paginas": [],
+      "sha256": {
+        "csv": "sha256:39aa98dc6429dfd501619e9b672441359278b7476d8216b2b4206204df6fe5ec",
+        "xlsx": "sha256:5cd5ee37bcea4f436b53a4b1ea3c08dbfc1eb912b7d7049a7548c4af73d6cce6"
       }
     },
     "repasse-duodecimo-por-mes": {

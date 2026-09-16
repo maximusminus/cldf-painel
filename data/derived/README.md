@@ -86,6 +86,9 @@ licença que a maioria dos pacotes de `dados.cl.df.gov.br` já declara.
 | `creditos-adicionais-por-lei.csv` / `.xlsx` | 127 | **os créditos adicionais**, um por lei — acréscimos, decréscimos e o total movimentado; os dois lados fecham a zero nas 127 |
 | `creditos-adicionais-por-emenda.csv` | 25.443 | o detalhe: uma linha por emenda de cada crédito, com a classificação de origem e a de destino. **Só `.csv`**, por consistência com a tabela acima — o `.xlsx` tem 62 MB, acima dos 50 MB que o GitHub recomenda |
 | `conferencia-loa-x-creditos.csv` / `.xlsx` | 51.764 | a dotação votada ao lado do que os créditos moveram, por classificação — **só 1.996 chaves (3,9 %) aparecem nas duas fontes**, e isso é o achado, não uma falha |
+| `campos-atomicos.csv` / `.xlsx` | 2.591 | **o mapa de campos**: cada campo atômico que o acervo bruto guarda, com o tipo, o rótulo e a descrição que a fonte escreveu (ou `n/d`), o arquivo de origem, o módulo e as colunas publicadas que alimenta — OS-104; e, desde a OS-106, `campo_normalizado`, a chave que ESTE projeto computa a partir da grafia (caixa, acentos e separadores dobrados), ao lado dela |
+| `colunas-publicadas.csv` / `.xlsx` | 1.287 | cada coluna das outras 102 tabelas, com o campo atômico que carrega ou as referências de que foi computada, declarados em código pelo módulo produtor — OS-104; `campo_normalizado` desde a OS-106 |
+| `campos-unicos.csv` / `.xlsx` | 2.550 | **o mapa de campos, um campo por linha**: uma linha por (fonte, entidade, `campo_normalizado`), com as grafias que a fonte usa, os arquivos, os tipos, rótulos e descrições originais e as colunas publicadas, unidos por `;` — uma dobra de `campos-atomicos`, não uma leitura nova — OS-106 |
 | `provenance.json` | — | a regra de cada tabela e a lista das consultas que as originaram |
 
 > **Duas tabelas desta versão são publicadas só em `.csv`, e isto é uma decisão registrada, não um arquivo que faltou.** O `.xlsx` deste projeto é escrito sem compressão desde a versão 0.3.0, para que os mesmos dados produzam sempre os mesmos bytes e qualquer pessoa possa reconferir o arquivo. O preço é o tamanho: `leis-orcamentarias-dotacao` tem 22 MB em `.csv` e teria 208 MB em `.xlsx`, acima do limite rígido de 100 MB por arquivo do GitHub — o envio foi de fato recusado. `creditos-adicionais-por-emenda` tem 9 MB e 62 MB, abaixo do limite rígido e acima do recomendado, e acompanha a primeira por consistência. **Nenhuma linha e nenhuma coluna ficam de fora**: o `.csv` publicado é a tabela inteira. Quem usa planilha precisa importar o `.csv` em vez de abrir o `.xlsx` — no LibreOffice e no Excel, *Dados → De texto/CSV*, com UTF-8 e vírgula como separador.
@@ -2268,3 +2271,105 @@ Uma linha da lista de aprovados traz `Consulktor` onde toda outra linha do mesmo
 - **Nenhum identificador pessoal** (CPF, RG) — nenhum existe no pacote de origem, e o guard
   prova isso.
 - **Nada sobre se um encontro de nome contra a folha é a mesma pessoa.**
+
+## O mapa de campos (OS-104) — o que cada coluna é, e de onde veio
+
+Três tabelas que falam das outras 102 (a terceira desde a OS-106, abaixo). **`campos-atomicos`** tem uma linha por campo atômico
+que o acervo bruto (`data/raw/`) guarda — 2.591 campos, de sete fontes: as declarações de
+campo do datastore CKAN de `https://dados.cl.df.gov.br` (para os recursos que o portal guarda
+como arquivo, `origem_arquivo` é a URL do próprio recurso), as chaves dos JSON que o portal publica (LOA e
+créditos), os cabeçalhos dos `.csv` e das planilhas, os rótulos dos PDFs da folha, os caminhos
+de chave das respostas da API `pleservico` (`https://ple.cl.df.gov.br/pleservico/api/public` —
+para essas linhas, `origem_arquivo` é a própria consulta registrada, verbo e URL, e
+`origem_registro` o arquivo em `data/raw/` que guarda a resposta), e as propriedades do esquema
+dos painéis Power BI.
+Cada linha traz o `tipo_original`, o `rotulo_original` e a `descricao_original` **como a fonte
+os escreveu** — e `n/d` quando ela não escreveu nada, que é o caso da maioria: só o datastore
+CKAN documenta os seus campos (28 linhas têm descrição, 52 têm rótulo). Traz
+também o arquivo concreto de onde a linha foi lida (`origem_registro`), a descrição do conjunto
+de dados que o portal publica (`descricao_do_conjunto_original`), o módulo deste projeto que lê
+o campo, e em `publicado_em` as colunas publicadas que ele alimenta — ou `não publicado`, para
+os 2.238 campos que o acervo guarda e nenhuma tabela usa.
+
+**`colunas-publicadas`** tem uma linha por (tabela, coluna) das 102 tabelas — 1.287 linhas. A
+`natureza` diz se a coluna É um campo atômico (`atomica`), se foi computada (`derivada`: uma
+soma, uma contagem, uma parte de um campo, um rótulo de norma, uma conferência) ou se é uma
+chave que este projeto forma (`chave`); `campo_atomico` ou `derivada_de` dizem de quê, e a
+`nota` diz, em uma frase, o que a computação é. **Nada disso foi deduzido do nome da coluna**:
+cada linha é uma declaração escrita no código do módulo que produz a tabela (`ORIGEM`), e o
+sinal 37 recusa a tabela inteira se uma coluna ficar sem declaração, se um arquivo de origem
+não carregar o campo, se uma descrição não for substring byte a byte do arquivo, ou se uma
+referência não resolver. A única célula inferida é `tipo_publicado` — o tipo que o painel
+atribui à coluna por amostragem — e por isso ela fica numa coluna própria, rotulada *"(inferido
+pelo painel)"*, ao lado do `tipo_original` que a fonte declarou.
+
+**O que estas duas tabelas NÃO dizem.** Que a declaração está certa: o guarda prova que a
+referência existe no acervo, não que é a certa entre duas vizinhas — essa parte confere-se
+contra o código do módulo, que é público. E nenhuma célula delas é um valor: são cabeçalhos,
+rótulos e descrições, nunca uma linha de dado, e o 37e recusa qualquer forma de CPF ou RG.
+
+**Onde `origem_registro` aponta.** Para dentro de `data/raw/`, o acervo bruto que este
+repositório NÃO versiona (é `.gitignore`d): o caminho confere-se na máquina que colheu, ou por
+quem recolher com a mesma consulta — `data/queries/` é versionado, e o nome do arquivo é o
+resumo da própria consulta — e não a partir da árvore pública. O sinal 37b corre onde o acervo
+está. **Quatro linhas `pleservico:probe-*:error`** (`probe-emendas`, `probe-parecer`,
+`probe-urgencia`, `probe-veto`) são sondagens que receberam um corpo de erro e o guardaram:
+`error` é uma chave que esse corpo carrega, não um campo da API — estão no mapa porque estão
+no acervo, com `modulo = n/d` e `não publicado`. **E o que não rendeu linha nenhuma é
+contado**, não omitido: `provenance.json["campos"]` traz `arquivos_lidos` (49.588),
+`arquivos_nao_lidos` (47 — páginas HTML, respostas vazias, JSON que não parseia)
+e `entidades_sem_campo` (3 diretórios sem campo algum: `os011-scratch`, `probe-spa`, `probe-veto-portal`).
+
+**`campo_normalizado` e `campos-unicos` (OS-106, 2026-09-12).** A mesma fonte grafa o mesmo campo
+de modos diferentes entre os seus próprios arquivos — `Nome`/`nome`, `Lotação`/`Lotacao`/
+`lotacao`, `Mês`/`MES`, `Cargo Efetivo`/`cargo_efetivo`: 22 grupos, 49 linhas, todos do datastore
+CKAN; dentro de um mesmo arquivo, nenhum campo se repete. Por isso as duas tabelas ganham, logo
+depois de `campo_original`, a coluna **`campo_normalizado`** — **uma chave que ESTE projeto
+computa, não um dado da fonte**: acentos retirados (NFKD), tudo em minúsculas, toda sequência de
+espaços e hifens virada num `_`, e nada mais (`.`, `[]` e `_` ficam, porque uma regra mais larga
+fundiria 15 pares de campos diferentes, como `idsProposicoes` e `idsProposicoes[]`). A grafia
+original fica intacta ao lado, e é ela — nunca a chave — que aparece em `campo_atomico`,
+`derivada_de` e `publicado_em`. A chave vale dentro de uma (fonte, entidade): `ANO` da contratação
+e `ANO` da despesa têm a mesma chave e distinguem-se pelas duas colunas anteriores. **Ela não é
+única em `campos-atomicos`** — cada arquivo de origem mantém a sua linha, então um campo que a
+fonte grafa igual em vários arquivos repete a chave uma vez por arquivo. Para quem quer cada campo
+uma vez só há a terceira tabela, **`campos-unicos`**: uma linha por (fonte, entidade,
+`campo_normalizado`) — 2.550 —, com as grafias (`grafias`), quantos e quais arquivos a carregam
+(`n_arquivos`, `origem_arquivos`), os tipos, rótulos e descrições que a fonte escreveu (valores
+distintos unidos por `;`, ou `n/d`), o módulo e a união das colunas publicadas. O sinal **37f**
+prova que toda chave é a função aplicada à sua própria grafia, que nenhuma se repete dentro de um
+arquivo (dois campos diferentes dobrados no mesmo nome param a exportação) e que `campos-unicos` é
+exatamente o conjunto das triplas distintas da primeira tabela, com as grafias e as origens de
+cada linha sendo exatamente as das linhas dobradas e `n_arquivos` igual ao número de itens de
+`origem_arquivos` — a célula ao lado, que qualquer leitor reconta. O que a tabela **não** afirma é
+o produto das duas listas: uma grafia aparece em alguma das origens listadas, não em todas. O que ele não prova é que a regra
+está certa — que `Lotacao` e `Lotação` são o mesmo campo é uma leitura, aplicada por regra, e a
+grafia verbatim ao lado é o que permite discordar dela.
+
+## A região administrativa, nomeada dos dois lados (OS-118)
+
+`regioes-administrativas` é a primeira tabela **mão-escrita** deste projeto, não colhida: uma
+linha por grafia distinta de região administrativa, ligando o nome que a API das proposições usa
+(`regiaoAdministrativaNome`) ao código e ao nome que o orçamento usa (`localizacao` /
+`nome_localizacao`, em `creditos-adicionais-por-emenda` e `leis-orcamentarias-dotacao`) —
+a junção que "o que o meu deputado fez pela minha região" precisa e que nenhuma tabela publicada
+até aqui provia. **Nenhuma junção é executada aqui**: esta tabela só nomeia a correspondência,
+mão-escrita e citada em `data/norms/PROVENANCE.md` com o sha256 do arquivo.
+
+**52 linhas**: 38 trazem `grafia_api` (uma por átomo de RA que a API carrega hoje, nenhum átomo
+repetido) e 51 trazem `grafia_orcamento` (uma por grafia orçamentária, nenhuma repetida) — todo
+valor distinto das duas fontes, medidas na OS-121 (`docs/specs/MEDIDAS-modelo.md` § (3)), aparece
+em exatamente uma linha. `codigo_ra` traz o numeral romano oficial da RA (`I` a `XXXV`) para as
+38 linhas que ligam uma região administrativa de verdade, e o literal `não-geográfica` para as 14
+linhas que ligam uma agregada que o orçamento classifica fora das RAs numeradas (o Distrito
+Federal inteiro, as macrorregiões `DF - REGIÃO …`, `ENTORNO`, `OUTROS ESTADOS`). `nome_canonico`
+é a grafia que este projeto escolhe como referência — a da API quando ela cobre a localização
+(é a voltada ao cidadão), a do orçamento quando não cobre. A RA XXXV (`ÁGUA QUENTE`, criada em
+2022) não tem código orçamentário ainda e é a única linha com `codigo_localizacao` e
+`grafia_orcamento` vazios — a lacuna é o achado, declarado em vez de escondido.
+
+**O sinal 38** recusa a exportação se qualquer valor VIVO de uma das duas fontes — lido de novo a
+cada exportação, não apenas o que a OS-121 mediu — não tiver linha: uma RA nova ou uma grafia
+orçamentária renomeada param o build em vez de ficar sem mapa. O sinal 26f, já existente, passa a
+reconferir o sha256 deste arquivo a cada exportação porque a linha dele entrou na tabela de
+`data/norms/PROVENANCE.md`.
