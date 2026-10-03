@@ -69,6 +69,14 @@ nav.menu-principal { display: none; flex-direction: column; position: absolute;
   min-width: 210px; padding: 4px 0; z-index: 30; }
 nav.menu-principal a { display: block; padding: 8px 16px; white-space: nowrap; }
 input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
+sup.ref-nota { font-size: 11px; line-height: 0; }
+sup.ref-nota a { text-decoration: none; font-weight: 700; }
+h2.notas-titulo { font-size: 15px; margin: 40px 0 4px; color: #555;
+  border-top: 1px solid #ddd6c8; padding-top: 14px; }
+ol.notas { font-size: 12px; color: #555; line-height: 1.55; padding-left: 22px;
+  margin: 0 0 8px; }
+ol.notas li { margin: 6px 0; }
+ol.notas a.volta { text-decoration: none; }
 </style>
 </head>
 <body>
@@ -107,8 +115,9 @@ registro público, e porque uma tabela retirada é uma tabela que ninguém pode 
 <nav class="indice"><ul><li><a href="perguntas/a08-concurso.html">Eixo: concurso de 2018</a></li></ul></nav>
 <p>As 7 tabelas inteiramente anteriores a 2023, e o que cada
 uma é:</p>
-<ul><li><a href="../data/derived/concurso-2018-aprovados-por-cargo-e-categoria.csv"><code>concurso-2018-aprovados-por-cargo-e-categoria.csv</code></a> — concurso público de 2018 — lista de aprovados, por cargo e categoria</li><li><a href="../data/derived/concurso-2018-funil.csv"><code>concurso-2018-funil.csv</code></a> — concurso público de 2018 — do aprovado ao empossado</li><li><a href="../data/derived/concurso-2018-nomeados.csv"><code>concurso-2018-nomeados.csv</code></a> — concurso público de 2018 — nomeações publicadas</li><li><a href="../data/derived/emendas-loa-execucao-2021-2022.csv"><code>emendas-loa-execucao-2021-2022.csv</code></a> — execução das emendas parlamentares à LOA em 2021 e 2022 — 8ª legislatura</li><li><a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv"><code>folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv</code></a> — folha de pagamento de 2012 a 2016 — 7ª legislatura e anteriores</li><li><a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2017-2018.csv"><code>folha-de-pagamento-por-pessoa-e-mes-2017-2018.csv</code></a> — folha de pagamento de 2017 e 2018 — 7ª legislatura</li><li><a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2019-2022.csv"><code>folha-de-pagamento-por-pessoa-e-mes-2019-2022.csv</code></a> — folha de pagamento de 2019 a 2022 — 8ª legislatura, a anterior a esta</li></ul>
+<ul><li>concurso público de 2018 — lista de aprovados, por cargo e categoria — <a href="../data/derived/concurso-2018-aprovados-por-cargo-e-categoria.csv" title="concurso-2018-aprovados-por-cargo-e-categoria.csv">baixar a planilha</a></li><li>concurso público de 2018 — do aprovado ao empossado — <a href="../data/derived/concurso-2018-funil.csv" title="concurso-2018-funil.csv">baixar a planilha</a></li><li>concurso público de 2018 — nomeações publicadas — <a href="../data/derived/concurso-2018-nomeados.csv" title="concurso-2018-nomeados.csv">baixar a planilha</a></li><li>execução das emendas parlamentares à LOA em 2021 e 2022 — 8ª legislatura — <a href="../data/derived/emendas-loa-execucao-2021-2022.csv" title="emendas-loa-execucao-2021-2022.csv">baixar a planilha</a></li><li>folha de pagamento de 2012 a 2016 — 7ª legislatura e anteriores — <a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv" title="folha-de-pagamento-por-pessoa-e-mes-2012-2016.csv">baixar a planilha</a></li><li>folha de pagamento de 2017 e 2018 — 7ª legislatura — <a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2017-2018.csv" title="folha-de-pagamento-por-pessoa-e-mes-2017-2018.csv">baixar a planilha</a></li><li>folha de pagamento de 2019 a 2022 — 8ª legislatura, a anterior a esta — <a href="../data/derived/folha-de-pagamento-por-pessoa-e-mes-2019-2022.csv" title="folha-de-pagamento-por-pessoa-e-mes-2019-2022.csv">baixar a planilha</a></li></ul>
 </div>
+
 
 <section id="reportar" class="reportar">
 <h2>Reportar um problema ou enviar sugestões de melhorias</h2>

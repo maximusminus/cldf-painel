@@ -98,7 +98,7 @@
       throw new Error(
         "35d: este link nomeia mais de uma tabela (" + distintos.join(", ") + "). " +
         "O explorador nunca combina duas tabelas — a única navegação entre tabelas é " +
-        "'ver perfil', que segue o nome do deputado até deputados-chave.csv."
+        "'ver perfil', que segue o nome do deputado até a tabela de deputados."
       );
     }
     // B4 fix: a fragment naming a table absent from the manifest — including one built to
@@ -335,7 +335,7 @@
   // ------------------------------------------------------------------------------------
   function carregarManifest() {
     return fetch("manifest.json").then(function (resp) {
-      if (!resp.ok) throw new Error("não foi possível carregar manifest.json");
+      if (!resp.ok) throw new Error("não foi possível carregar a lista de telas");
       return resp.json();
     });
   }
@@ -818,8 +818,8 @@
     alvo.innerHTML = '<div class="janela">' + taxa + '<br>' +
       esc(calcularJanela(filtradasInfo.linhas).replace(/^./, function (c) { return c.toUpperCase(); })) +
       '</div><div class="linha-filtro">' +
-      '<button type="button" id="btn-baixar-selecao" class="secundario">baixar CSV desta ' +
-      'seleção (linhas originais)</button></div>';
+      '<button type="button" id="btn-baixar-selecao" class="secundario">baixar a planilha desta ' +
+      'seleção (as linhas como elas vêm da fonte)</button></div>';
     var btn = document.getElementById("btn-baixar-selecao");
     if (btn) btn.addEventListener("click", function () { baixarSelecaoCSV(filtradasInfo); });
   }
@@ -849,7 +849,7 @@
     html += '<span class="rotulo">pivotar coluna</span><select id="sel-pivot"><option value="">—</option>' + opcoesColuna + '</select>';
     html += '</div><div class="linha-filtro">';
     html += '<button id="btn-aplicar">aplicar</button>';
-    html += '<button id="btn-baixar" class="secundario">baixar CSV</button>';
+    html += '<button id="btn-baixar" class="secundario">baixar a planilha</button>';
     html += '<button id="btn-compartilhar" class="secundario">link de compartilhamento</button>';
     html += '</div></div>';
     return html;
@@ -902,7 +902,7 @@
         (temPerfil ? "<td>" + linkPerfil + "</td>" : "") + "</tr>";
     }).join("");
     return '<div class="tabela-scroll"><table class="explorador"><thead>' + thead + '</thead><tbody>' + tbody + '</tbody></table></div>' +
-      (tabela.linhas.length > 500 ? '<p class="aviso">mostrando as primeiras 500 de ' + tabela.linhas.length + ' linhas agregadas — o CSV baixado contém todas.</p>' : "");
+      (tabela.linhas.length > 500 ? '<p class="aviso">mostrando as primeiras 500 de ' + tabela.linhas.length + ' linhas agregadas — a planilha baixada contém todas.</p>' : "");
   }
 
   function processarEExibir() {
@@ -1056,7 +1056,7 @@
         renderTudo();
       }
     }).catch(function (e) {
-      raiz.innerHTML = '<div class="aviso erro">não foi possível carregar manifest.json — ' + esc(e.message || e) + '</div>';
+      raiz.innerHTML = '<div class="aviso erro">não foi possível carregar a lista de telas — ' + esc(e.message || e) + '</div>';
     });
   }
 

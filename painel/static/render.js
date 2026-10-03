@@ -58,7 +58,7 @@
   function renderizarTaxa(numerador, denominador, opcoes) {
     opcoes = opcoes || {};
     var sufixo = opcoes.sufixo || "";
-    var nota = opcoes.nota || "sem denominador para esta seleção";
+    var nota = opcoes.nota || "sem o total de onde ela sairia, nesta seleção";
     if (!ehNumeroValido(numerador) || !ehNumeroValido(denominador)) {
       return (
         '<span class="taxa taxa-vazia">— <span class="nota-vazia">(' + esc(nota) + ")</span></span>"

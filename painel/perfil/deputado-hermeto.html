@@ -69,6 +69,14 @@ nav.menu-principal { display: none; flex-direction: column; position: absolute;
   min-width: 210px; padding: 4px 0; z-index: 30; }
 nav.menu-principal a { display: block; padding: 8px 16px; white-space: nowrap; }
 input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
+sup.ref-nota { font-size: 11px; line-height: 0; }
+sup.ref-nota a { text-decoration: none; font-weight: 700; }
+h2.notas-titulo { font-size: 15px; margin: 40px 0 4px; color: #555;
+  border-top: 1px solid #ddd6c8; padding-top: 14px; }
+ol.notas { font-size: 12px; color: #555; line-height: 1.55; padding-left: 22px;
+  margin: 0 0 8px; }
+ol.notas li { margin: 6px 0; }
+ol.notas a.volta { text-decoration: none; }
 </style>
 </head>
 <body>
@@ -79,7 +87,7 @@ input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
 <main>
 
 <div class="cartao"><div class="rotulo-cabecalho">deputado(a)</div><div class="taxa">Deputado Hermeto</div></div>
-<div class="janela" data-janela="sem_eixo">Janela: esta página lê uma tabela sem eixo de tempo. producao-por-deputado.csv não tem coluna de ano: cada coluna já é uma re-soma da 9ª legislatura (2023–2026), feita na exportação e declarada em provenance.json. O painel não re-janela esta tabela — ele confere que ela já está na janela.</div>
+<div class="janela" data-janela="sem_eixo">Janela: esta página lê uma tabela sem eixo de tempo. Cada coluna dela já soma a 9ª legislatura inteira (2023–2026): a conta por ano foi feita na exportação, e o painel não a refaz — ele confere que a tabela já está nesse período.<sup class="ref-nota"><a href="#nota-1" id="ref-1">1</a></sup></div>
 <div class="fonte">Nomes na fonte: HERMETO (painel de votação), HERMETO (painel de emendas)</div>
 <div class="cartao">
 <div class="rotulo-cabecalho">sessões presentes</div>
@@ -109,8 +117,15 @@ input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
 <div class="rotulo-cabecalho">pareceres admissíveis</div>
 <span class="taxa" data-n="5" data-d="7">5 de 7 — 71,4%</span>
 </div>
-<div class="limite"><b>Também informa</b> — a presença é <code>frequencia-em-sessoes-ordinarias</code> re-somada, e o acervo não tem calendário de mandato: nenhum teste pode dizer se uma sessão ausente é falta ou licença (caminho de cobertura 22). Os pareceres da CCJ são contagens sobre <code>verdict_prosa</code>, e o sinal 20d recusa publicar essa razão como COLUNA — aqui ela aparece na tela, com numerador e denominador ao lado, e nunca é escrita em <code>data/derived/</code> (sinal 35c). As emendas são as do painel de emendas, cujo <code>status_execucao</code> é ATIVO ou CANCELADO, nunca acatada ou rejeitada.</div>
-<div class="fonte">Todos os números desta página vêm de uma única linha de <code>producao-por-deputado.csv</code>, identificada pelo nome do deputado. Nenhuma outra tabela é combinada aqui.</div>
+<div class="limite"><b>Também informa</b> — a presença é a tabela de frequência nas sessões ordinárias re-somada, e o acervo não tem calendário de mandato: nenhum controle pode dizer se uma sessão ausente é falta ou licença<sup class="ref-nota"><a href="#nota-2" id="ref-2">2</a></sup>. Os pareceres da CCJ são contados a partir da leitura em prosa de cada parecer, e esta proporção aparece só aqui na tela, ao lado dos dois números de onde ela saiu — nunca como coluna de tabela<sup class="ref-nota"><a href="#nota-3" id="ref-3">3</a></sup>. As emendas são as do painel de emendas, cujo <code>status_execucao</code> é ATIVO ou CANCELADO, nunca acatada ou rejeitada.</div>
+<div class="fonte">Todos os números desta página vêm de uma única linha de uma tabela publicada, a linha com o nome deste deputado<sup class="ref-nota"><a href="#nota-4" id="ref-4">4</a></sup>. Nenhuma outra tabela é combinada aqui.</div>
+<h2 class="notas-titulo">Notas</h2>
+<ol class="notas">
+<li id="nota-1">A tabela é <code>producao-por-deputado.csv</code>, que não tem coluna de ano; a re-soma de 2023–2026 é declarada na ficha dos arquivos publicados, <code>provenance.json</code>. <a href="#ref-1" class="volta" title="voltar ao texto">&#8617;</a></li>
+<li id="nota-2">A presença é a tabela <code>frequencia-em-sessoes-ordinarias</code> re-somada, e o limite está registrado como o caminho de cobertura 22 deste projeto. <a href="#ref-2" class="volta" title="voltar ao texto">&#8617;</a></li>
+<li id="nota-3">A coluna é <code>verdict_prosa</code>, a leitura em prosa do parecer. O sinal 20d recusa publicar essa razão como COLUNA e o sinal 35c recusa escrevê-la em <code>data/derived/</code>: na tela ela aparece com o seu numerador e o seu denominador ao lado. <a href="#ref-3" class="volta" title="voltar ao texto">&#8617;</a></li>
+<li id="nota-4">A tabela é <code>producao-por-deputado.csv</code>; a linha é identificada pelo nome do deputado. <a href="#ref-4" class="volta" title="voltar ao texto">&#8617;</a></li>
+</ol>
 <section id="reportar" class="reportar">
 <h2>Reportar um problema ou enviar sugestões de melhorias</h2>
 <p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva

@@ -85,3 +85,14 @@ input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
 ol.catorze { padding-left: 20px; margin: 8px 0 0; }
 ol.catorze li { margin: 6px 0; }
 .pergunta-origem-mini { font-size: 12px; color: #666; font-style: italic; }
+
+/* OS-169 — as notas numeradas, as mesmas regras que `build.BASE_CSS` carrega nas páginas
+   construídas; aqui porque o explorador e o construtor usam esta folha e não aquela. */
+sup.ref-nota { font-size: 11px; line-height: 0; }
+sup.ref-nota a { text-decoration: none; font-weight: 700; }
+h2.notas-titulo { font-size: 15px; margin: 40px 0 4px; color: #555;
+  border-top: 1px solid #ddd6c8; padding-top: 14px; }
+ol.notas { font-size: 12px; color: #555; line-height: 1.55; padding-left: 22px;
+  margin: 0 0 8px; }
+ol.notas li { margin: 6px 0; }
+ol.notas a.volta { text-decoration: none; }

@@ -69,6 +69,14 @@ nav.menu-principal { display: none; flex-direction: column; position: absolute;
   min-width: 210px; padding: 4px 0; z-index: 30; }
 nav.menu-principal a { display: block; padding: 8px 16px; white-space: nowrap; }
 input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
+sup.ref-nota { font-size: 11px; line-height: 0; }
+sup.ref-nota a { text-decoration: none; font-weight: 700; }
+h2.notas-titulo { font-size: 15px; margin: 40px 0 4px; color: #555;
+  border-top: 1px solid #ddd6c8; padding-top: 14px; }
+ol.notas { font-size: 12px; color: #555; line-height: 1.55; padding-left: 22px;
+  margin: 0 0 8px; }
+ol.notas li { margin: 6px 0; }
+ol.notas a.volta { text-decoration: none; }
 </style>
 </head>
 <body>
@@ -116,7 +124,11 @@ input.menu-alterna:checked ~ nav.menu-principal { display: flex; }
 <text x="467" y="141" font-size="11" fill="#1a1a1a">rejeitada</text>
 </svg></div>
 <div class="limite"><b>Também informa</b> — nenhum sinal do registro de qualidade audita esta tabela isoladamente — os números são a recontagem direta da fonte por ano e espécie, sem uma segunda leitura independente que os corrobore.</div>
-<div class="fonte">Tabela(s) lida(s): <code>proposicoes-do-executivo-por-ano-e-especie.csv</code></div>
+<div class="fonte">Todo número desta página foi contado, na construção, das tabelas que este projeto publica<sup class="ref-nota"><a href="#nota-1" id="ref-1">1</a></sup>.</div>
+<h2 class="notas-titulo">Notas</h2>
+<ol class="notas">
+<li id="nota-1">Tabela(s) lida(s): <code>proposicoes-do-executivo-por-ano-e-especie.csv</code>. <a href="#ref-1" class="volta" title="voltar ao texto">&#8617;</a></li>
+</ol>
 <section id="reportar" class="reportar">
 <h2>Reportar um problema ou enviar sugestões de melhorias</h2>
 <p>Achou um número errado, um link quebrado, ou algo que não bate com a fonte? Escreva
